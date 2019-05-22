@@ -1,0 +1,115 @@
+Open file Output.txt successfully.
+Open file Input.txt successfully.
+
+Proud of You
+by Fiona Fung(HK)
+
+Love in your eyes 
+Sitting silent by my side 
+Going on Holding hand 
+Walking through the nights 
+
+Hold me up Hold me tight 
+Lift me up to touch the sky 
+Teaching me to love with heart 
+Helping me open my mind 
+
+I can fly 
+I'm proud that I can fly 
+To give the best of mine 
+Till the end of the time 
+
+Believe me I can fly 
+I'm proud that I can fly 
+To give the best of mine 
+The heaven in the sky* 
+
+Stars in the sky 
+Wishing once upon a time 
+Give me love Make me smile 
+Till the end of life 
+
+Hold me up Hold me tight 
+Lift me up to touch the sky 
+Teaching me to love with heart 
+Helping me open my mind 
+
+I can fly 
+I'm proud that I can fly 
+To give the best of mine 
+Till the end of the time 
+
+Believe me I can fly 
+I'm proud that I can fly 
+To give the best of mine 
+The heaven in the sky*
+
+Can't you believe that you light up my way 
+No matter how that ease my path 
+I'll never lose my faith 
+
+See me fly 
+I'm proud to fly up high 
+Show you the best of mine 
+Till the end of the time 
+
+Believe me I can fly 
+I'm singing in the sky 
+Show you the best of mine 
+The heaven in the sky 
+
+Nothing can stop me 
+Spread my wings so wide
+
+
+
+There are105key words in the article without caring about redundance.
+There are48key words in the article after geting rid of redundance.
+eas occurrence: 1
+end occurrence: 4
+ey occurrence: 1
+faith occurrence: 1
+fiona occurrence: 1
+fly occurrence: 11
+fung occurrence: 1
+give occurrence: 5
+hand occurrence: 1
+heart occurrence: 2
+heaven occurrence: 3
+help occurrence: 2
+high occurrence: 1
+hk occurrence: 1
+hold occurrence: 5
+life occurrence: 1
+lift occurrence: 2
+light occurrence: 1
+ll occurrence: 1
+lose occurrence: 1
+love occurrence: 4
+make occurrence: 1
+matter occurrence: 1
+mind occurrence: 2
+mine occurrence: 6
+night occurrence: 1
+open occurrence: 2
+path occurrence: 1
+proud occurrence: 6
+show occurrence: 2
+side occurrence: 1
+silent occurrence: 1
+sing occurrence: 1
+sit occurrence: 1
+sky occurrence: 7
+smile occurrence: 1
+spread occurrence: 1
+star occurrence: 1
+stop occurrence: 1
+teach occurrence: 2
+tight occurrence: 2
+till occurrence: 4
+time occurrence: 4
+touch occurrence: 2
+walk occurrence: 1
+wing occurrence: 1
+wish occurrence: 1
+wide occurrence: 1

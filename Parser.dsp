@@ -93,6 +93,10 @@ SOURCE=.\EMAParser.cpp
 # End Source File
 # Begin Source File
 
+SOURCE=.\Kmeans.cpp
+# End Source File
+# Begin Source File
+
 SOURCE=.\SParser.cpp
 # End Source File
 # Begin Source File

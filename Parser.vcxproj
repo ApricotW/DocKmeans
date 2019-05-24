@@ -13,7 +13,6 @@
   <PropertyGroup Label="Globals">
     <SccProjectName />
     <SccLocalPath />
-    <ProjectGuid>{77C1BB55-73F0-4F81-A564-3D7192A81410}</ProjectGuid>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -123,12 +122,14 @@
   <ItemGroup>
     <ClCompile Include="EMA.cpp" />
     <ClCompile Include="EMAParser.cpp" />
+    <ClCompile Include="Kmeans.cpp" />
     <ClCompile Include="SParser.cpp" />
     <ClCompile Include="Watebottle.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="EMA.h" />
     <ClInclude Include="EMAParser.h" />
+    <ClInclude Include="KMEANS.H" />
     <ClInclude Include="SParser.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

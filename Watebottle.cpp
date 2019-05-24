@@ -37,7 +37,7 @@ int main()
 	int f = 0;
 	char * pArticle = new char[3000];
     ofstream fout("Output.txt");
-	ifstream fin("Input.txt");
+	//ifstream fin("Input.txt")被移动到了下面。
 	if(!fout)
 	    printf( "Can't open file Output.txt.\n" );
     else
@@ -45,53 +45,76 @@ int main()
 	  cout << "Open file Output.txt successfully." << endl;
 	  fout << "Open file Output.txt successfully." << endl;
 	} 
-    if(!fin)
+	//此处修改,用循环的方式依次读入40个文件。如果读不进去就报错退出。
+	for(int n=0;n<40;n++)
 	{
-	    cout << "Can't open file Input.txt." << endl;
-        fout << "Can't optn file Input.txt." << endl;
-	}
-	else
-	{
-	    cout << "Open file Input.txt successfully.\n" << endl;
-        fout << "Open file Input.txt successfully.\n" << endl;
-	}
-    //fgets( pArticle, 2000, fp ); //从文件中输入 n - 1个字符, 第n个'\0'
-	char ch;
+		char filename[10];
+		memset(filename,0,sizeof(filename));
+		sprintf(filename,"%d.txt",n);
+		ifstream fin(filename);
+		
+		if(!fin)
+		{
+			cout << "Can't open file " << n << ".txt." << endl;
+			fout << "Can't optn file " << n << ".txt." << endl;
+		}
+		else
+		{
+			cout << "Open file " << n << ".txt successfully.\n" << endl;
+			fout << "Open file " << n << ".txt successfully.\n" << endl;
+		}
+			char ch;
 	
-	for(int i = 0;  i < 3000 && (fin.get(ch) != 0); i++)
-	{
-		cout << ch;
-        fout << ch;
-		if(ch != '\n')
-            pArticle[i] = ch;
-	    else
-	        pArticle[i] = ' ';
-	}
-	pArticle[i] = '\0';   // Imitate the pArticle as a string
-    fin.close();
-	cout << endl;
-	fout << endl;
-	parser.Open(); // pen Parser
-    parser.GetStems(pArticle);// Analyse the Parser
-    int kn = parser.GetKeyNumber(); // Get the total number of key words
-	cout << "\nThere are" << kn << "key words in the article without caring about redundance.\n";
-	fout << "\n\nThere are" << kn << "key words in the article without caring about redundance.\n";
-	char * pKey;
-	ELEM pElem[1000];  // Limite the key words less than 500
-    int Maxkeyfrequence = 0;
-	int iElemCnt = 0;
-    for( int j = 0; j < kn; j++ )
-	{
-	    pKey = parser.GetKey(j); //Get a key word
-	    DealKeyWord(pElem, iElemCnt, pKey);
-	}
-    SortbyKey( pElem, iElemCnt  );
-   	cout << "There are" << iElemCnt << "key words in the article after geting rid of redundance.\n";
-	fout << "There are" << iElemCnt << "key words in the article after geting rid of redundance.\n";
-	for( int m = 0; m < iElemCnt; m++ )
-	{
-	    cout << pElem[ m ].key << " occurrence: " << pElem[ m ].iKeyCnt << endl;
-	    fout << pElem[ m ].key << " occurrence: " << pElem[ m ].iKeyCnt << endl;
+		for(int i = 0;  i < 3000 && (fin.get(ch) != 0); i++)
+		{
+			cout << ch;
+			fout << ch;
+			if(ch != '\n')
+				pArticle[i] = ch;
+			else
+				pArticle[i] = ' ';
+		}
+		pArticle[i] = '\0';   // Imitate the pArticle as a string
+		fin.close();
+		cout << endl;
+		fout << endl;
+		parser.Open(); // pen Parser
+		parser.GetStems(pArticle);// Analyse the Parser
+		int kn = parser.GetKeyNumber(); // Get the total number of key words
+		cout << "\nThere are " << kn << " key words in the article " << n << " without caring about redundance.\n";
+		fout << "\n\nThere are " << kn << " key words in the article " << n << " without caring about redundance.\n";
+		char * pKey;
+		ELEM pElem[1000];  // Limite the key words less than 500
+		int Maxkeyfrequence = 0;
+		int iElemCnt = 0;
+		for( int j = 0; j < kn; j++ )
+		{
+			pKey = parser.GetKey(j); //Get a key word
+			DealKeyWord(pElem, iElemCnt, pKey);
+		}
+		SortbyKey( pElem, iElemCnt  );
+   		cout << "There are " << iElemCnt << " key words in the article " << n << "  after geting rid of redundance.\n";
+		fout << "There are " << iElemCnt << " key words in the article " << n << "  after geting rid of redundance.\n";
+		for( int m = 0; m < iElemCnt; m++ )
+		{
+			cout << pElem[ m ].key << " occurrence: " << pElem[ m ].iKeyCnt << endl;
+			fout << pElem[ m ].key << " occurrence: " << pElem[ m ].iKeyCnt << endl;
+		}
+		cout<<"-------------------------------------------"<<endl;
+		fout<<"-------------------------------------------"<<endl;
+
+		cout<<"!!!CONGRATULATIONS!!!"<<endl;
+		fout<<"!!!CONGRATULATIONS!!!"<<endl;
+
+		cout<<"Atricle "<<n<<" has already been processed."<<endl;
+		fout<<"Atricle "<<n<<" has already been processed."<<endl;
+
+		cout<<"Program Continue..."<<endl;
+		fout<<"Program Continue..."<<endl;
+
+		cout<<"-------------------------------------------"<<endl;
+		fout<<"-------------------------------------------"<<endl;
+
 	}
    	fout.close();
     return 0;

@@ -1,134 +1,4154 @@
 Open file Output.txt successfully.
-Open file Input.txt successfully.
+Open file 0.txt successfully.
 
-    Shanghai has in recent years unveiled several measures to facilitate foreigners obtain entrepreneur visas and set up startups to encourage them to launch their business plans in the city.
-    Since mid-2015, foreigners graduating from Chinese universities and staying in Shanghai for their business plans have been allowed to apply for an entrepreneur visa, which lets them stay in the country and start their business within a year.
-   These measures are part of Shanghai's ambitious goal of becoming a global hub for science and technology by 2030.
-    In August, the city also began to issue entrepreneur visas to those who graduated from well-known universities overseas within the past two years and had an innovative entrepreneurial plan in Shanghai.
-    "As visa types continue to play a role in facilitating expats to carry out their venture plans in Shanghai, the city has basically formed an environment to attract global talent to showcase their innovative capabilities," said Lin Qian, general manager of Kudosbay, a startup service provider for foreigners based in Shanghai's Songjiang Economic and Technological Development Zone since 2017.
-    Some foreign entrepreneurs said incubators in the city played a helpful role in pushing forward their business plan from zero to one.
-    Barbara Vaccaro from Italy, who started her business "Barbara Art Studio" in Shanghai in January, said the incubator helped her understand all the paperwork about the license and visa application.
-    "It also introduced us to the right business opportunities and helped us build more connections with the industry," said Barbara, who relocated to Shanghai six years ago.
-    Although official figure of businesses launched by expats in the city is unavailable, there are around 600 such companies in Yangpu district, the municipality's demonstration zone of mass entrepreneurship and innovation.
-    Latest official statistics showed that more than 210,000 expats hailing from 167 countries and regions are working in Shanghai, the largest number among Chinese cities and accounting for nearly 25 percent of the national total.
+coffee
+ICO PRODUCERS TO PRESENT NEW COFFEE PROPOSAL
+International Coffee Organization, ICO,
+producing countries will present a proposal for reintroducing
+export quotas for 12 months from April 1 with a firm
+undertaking to try to negotiate up to September 30 any future
+quota distribution on a new basis, ICO delegates said.
+    Distribution from April 1 would be on an unchanged basis as
+in an earlier producer proposal, which includes shortfall
+redistributions totalling 1.22 mln bags, they said.
+    Resumption of an ICO contact group meeting with consumers,
+scheduled for this evening, has been postponed until tomorrow,
+delegates said.
+ Reuter
 
 
-There are178key words in the article without caring about redundance.
-There are117key words in the article after geting rid of redundance.
-000 occurrence: 1
-167 occurrence: 1
-2015 occurrence: 1
-2017 occurrence: 1
-2030 occurrence: 1
-210 occurrence: 1
-600 occurrence: 1
-account occurrence: 1
+
+
+There are 54 key words in the article 0 without caring about redundance.
+There are 39 key words in the article 0  after geting rid of redundance.
+april occurrence: 2
+bag occurrence: 1
+basi occurrence: 2
+coffe occurrence: 3
+consum occurrence: 1
+contact occurrence: 1
+countri occurrence: 1
+deleg occurrence: 2
+distribut occurrence: 2
+earlier occurrence: 1
+even occurrence: 1
+export occurrence: 1
+firm occurrence: 1
+futur occurrence: 1
+group occurrence: 1
+ico occurrence: 4
+includ occurrence: 1
+intern occurrence: 1
+meet occurrence: 1
+mln occurrence: 1
+month occurrence: 1
+negoti occurrence: 1
+organ occurrence: 1
+postpon occurrence: 1
+present occurrence: 2
+produc occurrence: 3
+propos occurrence: 3
+quota occurrence: 2
+redistribut occurrence: 1
+reintroduc occurrence: 1
+resumpt occurrence: 1
+schedul occurrence: 1
+septemb occurrence: 1
+shortfal occurrence: 1
+tomorrow occurrence: 1
+total occurrence: 1
+unchang occurrence: 1
+undertak occurrence: 1
+reuter occurrence: 1
+-------------------------------------------
+!!!CONGRATULATIONS!!!
+Atricle 0 has already been processed.
+Program Continue...
+-------------------------------------------
+Open file 1.txt successfully.
+
+coffee
+ICO EXPORTERS TO MODIFY NEW PROPOSAL
+International Coffee Organization (ICO)
+exporters will modify their new proposal on quota resumption
+before presenting it to importers tomorrow, ICO delegates said.
+    The change, which will be discussed tonight informally
+among producers, follows talks after the formal producer
+session with the eight-member producer splinter group and will
+affect the proposed quota distribution for 12 months from April
+one, they said.
+    The proposed share-out would still include shortfall
+declarations, they said.
+ Reuter
+
+
+
+
+There are 44 key words in the article 1 without caring about redundance.
+There are 33 key words in the article 1  after geting rid of redundance.
+affect occurrence: 1
+april occurrence: 1
+chang occurrence: 1
+coffe occurrence: 2
+declar occurrence: 1
+deleg occurrence: 1
+discuss occurrence: 1
+distribut occurrence: 1
+export occurrence: 2
+formal occurrence: 1
+group occurrence: 1
+ico occurrence: 3
+import occurrence: 1
+includ occurrence: 1
+inform occurrence: 1
+intern occurrence: 1
+member occurrence: 1
+modifi occurrence: 2
+month occurrence: 1
+organ occurrence: 1
+present occurrence: 1
+produc occurrence: 3
+propos occurrence: 4
+quota occurrence: 2
+resumpt occurrence: 1
+session occurrence: 1
+share occurrence: 1
+shortfal occurrence: 1
+splinter occurrence: 1
+talk occurrence: 1
+tomorrow occurrence: 1
+tonight occurrence: 1
+reuter occurrence: 1
+-------------------------------------------
+!!!CONGRATULATIONS!!!
+Atricle 1 has already been processed.
+Program Continue...
+-------------------------------------------
+Open file 2.txt successfully.
+
+coffee
+PRODUCER SPLIT HEATS UP COFFEE QUOTA TALKS
+Talks on the possibility of reintroducing
+global coffee export quotas have been extended into today, with
+sparks flying yesterday when a dissident group of exporters was
+not included in a key negotiating forum.
+    The special meeting of the International Coffee
+Organization (ICO) council was called to find a way to stop a
+prolonged slide in coffee prices.
+    However, delegates said no solution to the question of how
+to implement quotas was yet in sight.
+    World coffee export quotas -- the major device used to
+regulate coffee prices under the International Coffee Agreement
+-- were suspended a year ago when prices soared in reaction to
+a drought which cut Brazil"s output by nearly two thirds.
+    Brazil is the world"s largest coffee producer and exporter.
+    Producers and consumers now are facing off over the
+question of how quotas should be calculated under any future
+quota distribution scheme, delegates said.
+    Tempers flared late Saturday when a minority group of eight
+producing countries was not represented in a contact group of
+five producer and five consumer delegates plus alternates which
+was set up to facilitate debate.
+    The big producers "want to have the ball only in their court
+and it isn"t fair," minority producer spokesman Luis Escalante of
+Costa Rica said.
+    The majority producer group has proposed resuming quotas
+April 1, using the previous ad hoc method of carving up quota
+shares, with a promise to try to negotiate basic quotas before
+September 30, delegates said.
+    Their plan would perpetuate the status quo, allowing Brazil
+to retain almost all of its current 30 pct share of the export
+market, Colombia 17 pct, Ivory Coast seven pct and Indonesia
+six pct, with the rest divided among smaller exporters.
+    But consuming countries and the dissident producer group
+have tabled separate proposals requiring quotas be determined
+by availability, using a formula incorporating exportable
+production and stocks statistics.
+    Their proposals would give Brazil a smaller quota share and
+Colombia and Indonesia a larger share, and bring a new quota
+distribution scheme into effect now rather than later.
+    Brazil has so far been unwilling to accept any proposal
+that would reduce its quota share, delegates said.
+    Delegates would not speculate on prospects for agreement on
+a quota package. "Anything is possible at this phase," even
+adjournment of the meeting until March or April, one said.
+    If the ICO does agree on quotas, the price of coffee on the
+supermarket shelf is not likely to change sinnificantly as a
+result, industry sources said.
+    Retail coffee prices over the past year have remained about
+steady even though coffee market prices have tumbled, so an
+upswing probably will not be passed onto the consumer either,
+they said.
+ REUTER
+
+
+
+
+There are 239 key words in the article 2 without caring about redundance.
+There are 149 key words in the article 2  after geting rid of redundance.
+accept occurrence: 1
+ad occurrence: 1
+adjourn occurrence: 1
 ago occurrence: 1
+agre occurrence: 1
+agreement occurrence: 2
 allow occurrence: 1
-ambiti occurrence: 1
-appli occurrence: 1
-applic occurrence: 1
-art occurrence: 1
-attract occurrence: 1
-august occurrence: 1
-barbara occurrence: 3
-base occurrence: 1
+altern occurrence: 1
+april occurrence: 2
+avail occurrence: 1
+ball occurrence: 1
 basic occurrence: 1
-began occurrence: 1
-build occurrence: 1
-busi occurrence: 7
-capabl occurrence: 1
+big occurrence: 1
+brazil occurrence: 5
+bring occurrence: 1
+calcul occurrence: 1
+call occurrence: 1
+carv occurrence: 1
+chang occurrence: 1
+coast occurrence: 1
+coffe occurrence: 12
+colombia occurrence: 2
+consum occurrence: 4
+contact occurrence: 1
+costa occurrence: 1
+council occurrence: 1
+countri occurrence: 2
+court occurrence: 1
+current occurrence: 1
+cut occurrence: 1
+debat occurrence: 1
+deleg occurrence: 6
+determin occurrence: 1
+devic occurrence: 1
+dissid occurrence: 2
+distribut occurrence: 2
+divid occurrence: 1
+drought occurrence: 1
+effect occurrence: 1
+escalant occurrence: 1
+export occurrence: 7
+extend occurrence: 1
+face occurrence: 1
+facilit occurrence: 1
+fair occurrence: 1
+find occurrence: 1
+flare occurrence: 1
+fly occurrence: 1
+formula occurrence: 1
+forum occurrence: 1
+futur occurrence: 1
+give occurrence: 1
+global occurrence: 1
+group occurrence: 5
+heat occurrence: 1
+hoc occurrence: 1
+ico occurrence: 2
+implement occurrence: 1
+includ occurrence: 1
+incorpor occurrence: 1
+indonesia occurrence: 2
+industri occurrence: 1
+intern occurrence: 2
+isn occurrence: 1
+ivori occurrence: 1
+kei occurrence: 1
+larger occurrence: 1
+largest occurrence: 1
+late occurrence: 1
+lui occurrence: 1
+major occurrence: 2
+march occurrence: 1
+market occurrence: 2
+meet occurrence: 2
+method occurrence: 1
+minor occurrence: 2
+negoti occurrence: 2
+organ occurrence: 1
+output occurrence: 1
+packag occurrence: 1
+pass occurrence: 1
+past occurrence: 1
+pct occurrence: 4
+perpetu occurrence: 1
+phase occurrence: 1
+plan occurrence: 1
+possibl occurrence: 1
+previou occurrence: 1
+price occurrence: 6
+produc occurrence: 9
+product occurrence: 1
+prolong occurrence: 1
+promis occurrence: 1
+propos occurrence: 4
+prospect occurrence: 1
+question occurrence: 2
+quo occurrence: 1
+quota occurrence: 15
+reaction occurrence: 1
+reduc occurrence: 1
+regul occurrence: 1
+reintroduc occurrence: 1
+remain occurrence: 1
+repres occurrence: 1
+requir occurrence: 1
+rest occurrence: 1
+result occurrence: 1
+resum occurrence: 1
+retail occurrence: 1
+retain occurrence: 1
+rica occurrence: 1
+saturdai occurrence: 1
+scheme occurrence: 2
+separ occurrence: 1
+septemb occurrence: 1
+set occurrence: 1
+share occurrence: 5
+shelf occurrence: 1
+sight occurrence: 1
+sinnificantli occurrence: 1
+slide occurrence: 1
+smaller occurrence: 2
+soar occurrence: 1
+solut occurrence: 1
+sourc occurrence: 1
+spark occurrence: 1
+special occurrence: 1
+specul occurrence: 1
+split occurrence: 1
+spokesman occurrence: 1
+statist occurrence: 1
+statu occurrence: 1
+steadi occurrence: 1
+stock occurrence: 1
+stop occurrence: 1
+supermarket occurrence: 1
+suspend occurrence: 1
+tabl occurrence: 1
+talk occurrence: 2
+temper occurrence: 1
+third occurrence: 1
+todai occurrence: 1
+tumbl occurrence: 1
+unwil occurrence: 1
+upsw occurrence: 1
+world occurrence: 2
+year occurrence: 2
+yesterdai occurrence: 1
+reuter occurrence: 1
+-------------------------------------------
+!!!CONGRATULATIONS!!!
+Atricle 2 has already been processed.
+Program Continue...
+-------------------------------------------
+Open file 3.txt successfully.
+
+grain wheat rice veg-oil soybean sugar rubber copra-cake corn palm-oil palmkernel coffee tea plywood soy-meal cotton
+INDONESIAN AGRICULTURE GROWTH EXPECTED TO SLOW
+Indonesia"s agriculture sector will grow
+by just 1.0 pct in calendar 1987, against an estimated 2.4 pct
+in 1986 as the production of some commodities stagnates or
+declines, the U.S. Embassy said in a report.
+    Production of Indonesia"s staple food, rice, is forecast to
+fall to around 26.3 mln tonnes from an embassy estimate of
+26.58 mln tonnes in 1986, according to the annual report on
+Indonesia"s agricultural performance.
+    The government officially estimates 1986 rice production at
+26.7 mln tonnes, with a forecast 27.3 mln tonnes output in
+1987.
+    The report says wheat imports are likely to fall to 1.5 mln
+tonnes in calendar 1987 from 1.69 mln tonnes in 1986 because of
+a drawdown on stocks.
+    "Growth prospects for agriculture in 1987 do not look
+promising as rice production is forecast to decline and the
+production of sugarcane, rubber and copra show little or no
+gain," the report says.
+    "The modest overall increase which is expected will be due
+to significant gains in production of corn soybeans, palm oil
+and palm kernels."
+    Constraints to significant overall increases in
+agricultural output include a shortage of disease resistant
+seeds, limited fertile land, insect pests and a reluctance by
+farmers to shift from rice production to other crops, the
+report underlines.
+    The fall in rice production is caused by an outbreak of
+pests known as "wereng" or brown plant hoppers in 1986 which
+largely offset gains in yields.
+    The outbreak has forced the government to ban the use of 57
+insecticides on rice because it was believed the wereng are now
+resistant to these varieties, and to use lower-yielding, more
+resistant rice types.
+    The government is depending on increased production of
+export commodities such as coffee, tea, rubber, plywood and
+palm oil to offset revenue losses brought on by falling crude
+oil prices.
+    Palm oil production is expected to increase by over 7.0 pct
+in 1987 to 1.45 mln tonnes from 1.35 mln, with exports rising
+to an estimated 720,000 tonnes from 695,000 tonnes in 1986, the
+report says.
+    But while production of soybeans in 1987/88 (Oct-Sept) will
+rise to 1.075 mln tonnes from 980,000 in 1986/87, imports will
+also rise to supply a new soybean crushing plant.
+    The report says that imports of wheat, soybeans, soybean
+meal and cotton are not likely to decline as a result of last
+September"s 31 pct devaluation of the rupiah because of a rise
+in domestic demand.
+    The report said that Indonesia"s overall economic
+performance in calendar 1986 was about zero or even a slight
+negative growth rate, the lowest rate of growth since the
+mid-1960s. It compares with 1.9 pct growth in 1985 and 6.7 pct
+in 1984.
+    The dramatic fall in oil prices last year was responsible
+for the slump.
+ REUTER
+
+
+
+
+There are 272 key words in the article 3 without caring about redundance.
+There are 132 key words in the article 3  after geting rid of redundance.
+000 occurrence: 3
+075 occurrence: 1
+1960s occurrence: 1
+1984 occurrence: 1
+1985 occurrence: 1
+1986 occurrence: 8
+1987 occurrence: 6
+695 occurrence: 1
+720 occurrence: 1
+980 occurrence: 1
+agricultur occurrence: 5
+annual occurrence: 1
+ban occurrence: 1
+believ occurrence: 1
+brought occurrence: 1
+brown occurrence: 1
+cake occurrence: 1
+calendar occurrence: 3
+caus occurrence: 1
+coffe occurrence: 2
+commod occurrence: 2
+compar occurrence: 1
+constraint occurrence: 1
+copra occurrence: 2
+corn occurrence: 2
+cotton occurrence: 2
+crop occurrence: 1
+crude occurrence: 1
+crush occurrence: 1
+declin occurrence: 3
+demand occurrence: 1
+depend occurrence: 1
+devalu occurrence: 1
+diseas occurrence: 1
+domest occurrence: 1
+dramat occurrence: 1
+drawdown occurrence: 1
+due occurrence: 1
+econom occurrence: 1
+embassi occurrence: 2
+estim occurrence: 4
+expect occurrence: 3
+export occurrence: 2
+fall occurrence: 5
+farmer occurrence: 1
+fertil occurrence: 1
+food occurrence: 1
+forc occurrence: 1
+forecast occurrence: 3
+gain occurrence: 3
+govern occurrence: 3
+grain occurrence: 1
+grow occurrence: 1
+growth occurrence: 5
+hopper occurrence: 1
+import occurrence: 3
+includ occurrence: 1
+increas occurrence: 4
+indonesia occurrence: 4
+indonesian occurrence: 1
+insect occurrence: 1
+insecticid occurrence: 1
+kernel occurrence: 1
+land occurrence: 1
+larg occurrence: 1
+limit occurrence: 1
+loss occurrence: 1
+lower occurrence: 1
+lowest occurrence: 1
+meal occurrence: 2
+mid occurrence: 1
+mln occurrence: 9
+modest occurrence: 1
+neg occurrence: 1
+oct occurrence: 1
+offici occurrence: 1
+offset occurrence: 2
+oil occurrence: 7
+outbreak occurrence: 2
+output occurrence: 2
+palm occurrence: 5
+palmkernel occurrence: 1
+pct occurrence: 6
+perform occurrence: 2
+pest occurrence: 2
+plant occurrence: 2
+plywood occurrence: 2
+price occurrence: 2
+product occurrence: 11
+promis occurrence: 1
+prospect occurrence: 1
+rate occurrence: 2
+reluct occurrence: 1
+report occurrence: 8
+resist occurrence: 3
+respons occurrence: 1
+result occurrence: 1
+revenu occurrence: 1
+rice occurrence: 8
+rise occurrence: 4
+rubber occurrence: 3
+rupiah occurrence: 1
+sector occurrence: 1
+seed occurrence: 1
+sept occurrence: 1
+septemb occurrence: 1
+shift occurrence: 1
+shortag occurrence: 1
+show occurrence: 1
+signific occurrence: 2
+slight occurrence: 1
+slow occurrence: 1
+slump occurrence: 1
+soi occurrence: 1
+soybean occurrence: 6
+stagnat occurrence: 1
+stapl occurrence: 1
+stock occurrence: 1
+sugar occurrence: 1
+sugarcan occurrence: 1
+suppli occurrence: 1
+tea occurrence: 2
+tonn occurrence: 10
+type occurrence: 1
+underlin occurrence: 1
+varieti occurrence: 1
+veg occurrence: 1
+wereng occurrence: 2
+wheat occurrence: 3
+year occurrence: 1
+yield occurrence: 2
+reuter occurrence: 1
+-------------------------------------------
+!!!CONGRATULATIONS!!!
+Atricle 3 has already been processed.
+Program Continue...
+-------------------------------------------
+Open file 4.txt successfully.
+
+coffee
+COFFEE QUOTA TALKS CONTINUE, NO ACCORD SEEN LIKELY
+The International Coffee Organization
+(ICO ) council talks on reintroducing export quotas continued
+with an extended session lasting late into Sunday night, but
+delegates said prospects for an accord between producers and
+consumers were diminishing by the minute.
+    The special meeting, called to stop the prolonged slide in
+coffee prices, was likely to adjourn sometime tonight without
+agreement, delegates said.
+    The council is expected to agree to reconvene either within
+the next six weeks or in September, they said.
+    The talks foundered on Sunday afternoon when it became
+apparent consumers and producers could not compromise on the
+formula for calculating any future quota system, delegates
+said.
+    Coffee export quotas were suspended a year ago when prices
+soared in response to a drought which cut Brazil's crop by
+nearly two-thirds. Brazil is the world's largest coffee
+producer and exporter.
+ REUTER
+
+
+
+
+There are 82 key words in the article 4 without caring about redundance.
+There are 59 key words in the article 4  after geting rid of redundance.
+accord occurrence: 2
+adjourn occurrence: 1
+afternoon occurrence: 1
+ago occurrence: 1
+agre occurrence: 1
+agreement occurrence: 1
+appar occurrence: 1
+brazil occurrence: 2
+calcul occurrence: 1
+call occurrence: 1
+coffe occurrence: 6
+compromis occurrence: 1
+consum occurrence: 2
+continu occurrence: 2
+council occurrence: 2
+crop occurrence: 1
+cut occurrence: 1
+deleg occurrence: 3
+diminish occurrence: 1
+drought occurrence: 1
+expect occurrence: 1
+export occurrence: 3
+extend occurrence: 1
+formula occurrence: 1
+founder occurrence: 1
+futur occurrence: 1
+ico occurrence: 1
+intern occurrence: 1
+largest occurrence: 1
+last occurrence: 1
+late occurrence: 1
+meet occurrence: 1
+minut occurrence: 1
+night occurrence: 1
+organ occurrence: 1
+price occurrence: 2
+produc occurrence: 3
+prolong occurrence: 1
+prospect occurrence: 1
+quota occurrence: 4
+reconven occurrence: 1
+reintroduc occurrence: 1
+respons occurrence: 1
+septemb occurrence: 1
+session occurrence: 1
+slide occurrence: 1
+soar occurrence: 1
+special occurrence: 1
+stop occurrence: 1
+sundai occurrence: 2
+suspend occurrence: 1
+system occurrence: 1
+talk occurrence: 3
+third occurrence: 1
+tonight occurrence: 1
+week occurrence: 1
+world occurrence: 1
+year occurrence: 1
+reuter occurrence: 1
+-------------------------------------------
+!!!CONGRATULATIONS!!!
+Atricle 4 has already been processed.
+Program Continue...
+-------------------------------------------
+Open file 5.txt successfully.
+
+tea cocoa coffee
+INDONESIAN TEA, COCOA EXPORTS SEEN UP, COFFEE DOWN
+Indonesia's exports of tea and cocoa
+will continue to rise in calendar 1987 but coffee exports are
+forecast to dip slightly in 1987/88 (April-March) as the
+government tries to improve quality, the U.S. Embassy said.
+    The embassy's annual report on Indonesian agriculture
+forecast coffee output in 1986/87 would be 5.77 mln bags of 60
+kilograms each. That is slightly less than the 5.8 mln bags
+produced in 1985/86.
+    In 1987/88 coffee production is forecast to rise again to
+5.8 mln bags, but exports to dip to 4.8 mln from around 5.0 mln
+in 1986/87. Exports in 1985/86 were 4.67 mln bags.
+    The embassy report says coffee stocks will rise to 1.3 mln
+tonnes in 1987/88 from 1.15 mln in 1986/87. It bases this on a
+fall in exports as a result of the "probable" re-introduction of
+quotas by the International Coffee Organisation.
+    Cocoa production and exports are forecast to rise steadily
+as the government develops cocoa plantations. Production of
+cocoa in Indonesia increased to 32,378 tonnes in calendar 1985
+from 10,284 tonnes in 1980. It is projected by the government
+to rise to more than 50,000 tonnes by 1988.
+    Production in 1986 is estimated by the embassy at 35,000
+tonnes, as against 38,000 tonnes in 1987.
+    The report forecasts cocoa exports to rise to 35,000 tonnes
+this year, from 33,000 tonnes in 1986 and 31,000 in 1985.
+    The Netherlands is at present the biggest importer of
+Indonesian cocoa beans.
+    The report forecasts that in calendar 1987, Indonesia's CTC
+(crushed, torn and curled) tea exports will increase
+significantly with the coming on stream of at least eight new
+CTC processing plants.
+    Indonesia plans to diversify its tea products by producing
+more CTC tea, the main component of tea bags.
+    Production of black and green teas is forecast in the
+embassy report to rise to 125,000 tonnes in calendar 1987 from
+123,000 tonnes in 1986.
+    Exports of these teas are likely to rise to 95,000 tonnes
+in 1987 from 85,000 in 1986 and around 90,000 in 1985.
+    The embassy noted the ministry of trade tightened quality
+controls on tea in October 1986 in an effort to become more
+competititve in the world market.
+ REUTER
+
+
+
+
+There are 209 key words in the article 5 without caring about redundance.
+There are 85 key words in the article 5  after geting rid of redundance.
+000 occurrence: 11
+123 occurrence: 1
+125 occurrence: 1
+1980 occurrence: 1
+1985 occurrence: 5
+1986 occurrence: 8
+1987 occurrence: 8
+1988 occurrence: 1
+284 occurrence: 1
+378 occurrence: 1
+agricultur occurrence: 1
+annual occurrence: 1
+april occurrence: 1
+bag occurrence: 5
+base occurrence: 1
+bean occurrence: 1
+biggest occurrence: 1
+black occurrence: 1
+calendar occurrence: 4
+cocoa occurrence: 8
+coffe occurrence: 7
+come occurrence: 1
+competititv occurrence: 1
+compon occurrence: 1
+continu occurrence: 1
+control occurrence: 1
+crush occurrence: 1
+ctc occurrence: 3
+curl occurrence: 1
+develop occurrence: 1
+dip occurrence: 2
+diversifi occurrence: 1
+effort occurrence: 1
+embassi occurrence: 6
+estim occurrence: 1
+export occurrence: 10
+fall occurrence: 1
+forecast occurrence: 7
+govern occurrence: 3
+green occurrence: 1
+import occurrence: 1
+improv occurrence: 1
+increas occurrence: 2
+indonesia occurrence: 4
+indonesian occurrence: 3
+intern occurrence: 1
+introduct occurrence: 1
+kilogram occurrence: 1
+main occurrence: 1
+march occurrence: 1
+market occurrence: 1
+ministri occurrence: 1
+mln occurrence: 8
+netherland occurrence: 1
+note occurrence: 1
+octob occurrence: 1
+organis occurrence: 1
+output occurrence: 1
+plan occurrence: 1
+plant occurrence: 1
+plantat occurrence: 1
+present occurrence: 1
+probabl occurrence: 1
+process occurrence: 1
+produc occurrence: 2
+product occurrence: 6
+project occurrence: 1
+qualiti occurrence: 2
+quota occurrence: 1
+report occurrence: 5
+result occurrence: 1
+rise occurrence: 8
+significantli occurrence: 1
+slightli occurrence: 2
+steadili occurrence: 1
+stock occurrence: 1
+stream occurrence: 1
+tea occurrence: 10
+tighten occurrence: 1
+tonn occurrence: 11
+torn occurrence: 1
+trade occurrence: 1
+world occurrence: 1
+year occurrence: 1
+reuter occurrence: 1
+-------------------------------------------
+!!!CONGRATULATIONS!!!
+Atricle 5 has already been processed.
+Program Continue...
+-------------------------------------------
+Open file 6.txt successfully.
+
+coffee
+ICO TALKS ON COFFEE QUOTAS TO RESUME AT NOON
+Talks on coffee export quotas at the
+International Coffee Organization (ICO) special council session
+will resume at noon gmt today, following a last minute decision
+taken early this morning to extend the meeting 24 hours, ICO
+officials said.
+    An 18 member contact group will meet at midday to examine
+new ideas, and the full council is to convene at 1900gmt, they
+said.
+    The extension resulted from a last ditch effort by Colombia
+to salvage the talks, which by late yesterday looked perilously
+close to ending without agreement on quotas, delegates said.
+ REUTER
+
+
+
+
+There are 59 key words in the article 6 without caring about redundance.
+There are 46 key words in the article 6  after geting rid of redundance.
+1900gmt occurrence: 1
+agreement occurrence: 1
+close occurrence: 1
+coffe occurrence: 4
+colombia occurrence: 1
+contact occurrence: 1
+conven occurrence: 1
+council occurrence: 2
+decis occurrence: 1
+deleg occurrence: 1
+ditch occurrence: 1
+earli occurrence: 1
+effort occurrence: 1
+end occurrence: 1
+examin occurrence: 1
+export occurrence: 1
+extend occurrence: 1
+extens occurrence: 1
+full occurrence: 1
+gmt occurrence: 1
+group occurrence: 1
+hour occurrence: 1
+ico occurrence: 3
+idea occurrence: 1
+intern occurrence: 1
+late occurrence: 1
+look occurrence: 1
+meet occurrence: 2
+member occurrence: 1
+middai occurrence: 1
+minut occurrence: 1
+morn occurrence: 1
+noon occurrence: 2
+offici occurrence: 1
+organ occurrence: 1
+peril occurrence: 1
+quota occurrence: 3
+result occurrence: 1
+resum occurrence: 2
+salvag occurrence: 1
+session occurrence: 1
+special occurrence: 1
+talk occurrence: 3
+todai occurrence: 1
+yesterdai occurrence: 1
+reuter occurrence: 1
+-------------------------------------------
+!!!CONGRATULATIONS!!!
+Atricle 6 has already been processed.
+Program Continue...
+-------------------------------------------
+Open file 7.txt successfully.
+
+coffee
+COFFEE QUOTA TALKS CONTINUE BUT NO AGREEMENT YET
+Coffee quota talks at the International
+Coffee Organization council meeting here continued this
+afternoon, but producers and consumers still had not reached
+common ground on the key issue of how to estimate export
+quotas, delegates said.
+    The 54 member contact group was examining a Colombian
+proposal to resume quotas April 1 under the ad hoc system used
+historically, with a pledge to meet again in September to
+discuss how quotas would be worked out in the future, they
+said.
+    Delegates would not speculate on the prospects for
+agreement at this time.
+    "Anything could happen," one delegate said.
+ Reuter
+
+
+
+
+There are 55 key words in the article 7 without caring about redundance.
+There are 42 key words in the article 7  after geting rid of redundance.
+ad occurrence: 1
+afternoon occurrence: 1
+agreement occurrence: 2
+april occurrence: 1
+coffe occurrence: 4
+colombian occurrence: 1
+common occurrence: 1
+consum occurrence: 1
+contact occurrence: 1
+continu occurrence: 2
+council occurrence: 1
+deleg occurrence: 3
+discuss occurrence: 1
+estim occurrence: 1
+examin occurrence: 1
+export occurrence: 1
+futur occurrence: 1
+ground occurrence: 1
+group occurrence: 1
+happen occurrence: 1
+histor occurrence: 1
+hoc occurrence: 1
+intern occurrence: 1
+issu occurrence: 1
+kei occurrence: 1
+meet occurrence: 2
+member occurrence: 1
+organ occurrence: 1
+pledg occurrence: 1
+produc occurrence: 1
+propos occurrence: 1
+prospect occurrence: 1
+quota occurrence: 5
+reach occurrence: 1
+resum occurrence: 1
+septemb occurrence: 1
+specul occurrence: 1
+system occurrence: 1
+talk occurrence: 2
+time occurrence: 1
+work occurrence: 1
+reuter occurrence: 1
+-------------------------------------------
+!!!CONGRATULATIONS!!!
+Atricle 7 has already been processed.
+Program Continue...
+-------------------------------------------
+Open file 8.txt successfully.
+
+coffee
+ICO QUOTA TALKS CONTINUE, OUTCOME HARD TO GAUGE
+Talks at the extended special meeting of
+the International Coffee Organization (ICO) on the
+reintroduction of export quotas continued, but chances of
+success were still almost impossible to gauge, delegates said.
+    Producer delegates were meeting to examine a Colombian
+proposal to resume historical quotas from April 1 to September,
+with a promise to define specific new criteria by which a new
+quota system would be calculated in September for the new crop
+year, they said.
+    Opinions among delegates over the potential for reaching a
+quota agreement varied widely.
+    Some consumers said the mood of the meeting seemed slightly
+more optimistic. But Brazil's unwillingness to concede any of
+its traditional 30.55 pct of its export market share looks
+likely to preclude any accord, other delegates said.
+    No fresh proposals other than the Colombian initiative had
+been tabled formally today, delegates said.
+    A full council meeting was set for 1900 hours for a
+progress report, delegates said.
+ Reuter
+
+
+
+
+There are 88 key words in the article 8 without caring about redundance.
+There are 67 key words in the article 8  after geting rid of redundance.
+1900 occurrence: 1
+accord occurrence: 1
+agreement occurrence: 1
+april occurrence: 1
+brazil occurrence: 1
+calcul occurrence: 1
+chanc occurrence: 1
+coffe occurrence: 2
+colombian occurrence: 2
+conced occurrence: 1
+consum occurrence: 1
+continu occurrence: 2
+council occurrence: 1
+criteria occurrence: 1
+crop occurrence: 1
+defin occurrence: 1
+deleg occurrence: 6
+examin occurrence: 1
+export occurrence: 2
+extend occurrence: 1
+formal occurrence: 1
+fresh occurrence: 1
+full occurrence: 1
+gaug occurrence: 2
+hard occurrence: 1
+histor occurrence: 1
+hour occurrence: 1
+ico occurrence: 2
+imposs occurrence: 1
+initi occurrence: 1
+intern occurrence: 1
+market occurrence: 1
+meet occurrence: 4
+mood occurrence: 1
+opinion occurrence: 1
+optimist occurrence: 1
+organ occurrence: 1
+outcom occurrence: 1
+pct occurrence: 1
+potenti occurrence: 1
+preclud occurrence: 1
+produc occurrence: 1
+progress occurrence: 1
+promis occurrence: 1
+propos occurrence: 2
+quota occurrence: 5
+reach occurrence: 1
+reintroduct occurrence: 1
+report occurrence: 1
+resum occurrence: 1
+septemb occurrence: 2
+set occurrence: 1
+share occurrence: 1
+slightli occurrence: 1
+special occurrence: 1
+specif occurrence: 1
+success occurrence: 1
+system occurrence: 1
+tabl occurrence: 1
+talk occurrence: 2
+todai occurrence: 1
+tradit occurrence: 1
+unwilling occurrence: 1
+vari occurrence: 1
+wide occurrence: 1
+year occurrence: 1
+reuter occurrence: 1
+-------------------------------------------
+!!!CONGRATULATIONS!!!
+Atricle 8 has already been processed.
+Program Continue...
+-------------------------------------------
+Open file 9.txt successfully.
+
+coffee
+SENIOR DELEGATES PESSIMISTIC ON ICO TALKS
+Efforts to break an impasse between
+coffee exporting and importing countries over regulating the
+world coffee market in the face of falling prices appear to
+have failed, senior delegates said after a contact group
+meeting. The full ICO council is due to meet this evening.
+    President of the Brazilian Coffee Institute (IBC) Jorio
+Dauster told Reuters after the contact group meeting there had
+been no agreement on quotas as consumers had tried to dictate
+market shares rather than negotiate them.
+    Dauster said there are no plans yet to renew negotiations
+at a later date.
+ Reuter
+
+
+
+
+There are 57 key words in the article 9 without caring about redundance.
+There are 43 key words in the article 9  after geting rid of redundance.
+agreement occurrence: 1
+brazilian occurrence: 1
+break occurrence: 1
+coffe occurrence: 4
+consum occurrence: 1
+contact occurrence: 2
+council occurrence: 1
+countri occurrence: 1
+dauster occurrence: 2
+deleg occurrence: 2
+dictat occurrence: 1
+due occurrence: 1
+effort occurrence: 1
+even occurrence: 1
+export occurrence: 1
+face occurrence: 1
+fail occurrence: 1
+fall occurrence: 1
+full occurrence: 1
+group occurrence: 2
+ibc occurrence: 1
+ico occurrence: 2
+impass occurrence: 1
+import occurrence: 1
+institut occurrence: 1
+jorio occurrence: 1
+market occurrence: 2
+meet occurrence: 3
+negoti occurrence: 2
+pessimist occurrence: 1
+plan occurrence: 1
+presid occurrence: 1
+price occurrence: 1
+quota occurrence: 1
+regul occurrence: 1
+renew occurrence: 1
+reuter occurrence: 2
+senior occurrence: 2
+share occurrence: 1
+talk occurrence: 1
+told occurrence: 1
+world occurrence: 1
+date occurrence: 1
+-------------------------------------------
+!!!CONGRATULATIONS!!!
+Atricle 9 has already been processed.
+Program Continue...
+-------------------------------------------
+Open file 10.txt successfully.
+
+grain corn oat
+RELIEF TO U.S. CORN/OATS GROWERS SAID LIKELY
+U.S. farmers who in the past have
+grown oats for their own use but failed to certify to the
+government that they had done so probably will be allowed to
+continue planting that crop and be eligible for corn program
+benefits, an aide to Agriculture Secretary Richard Lyng said.
+    Currently a farmer, to be eligible for corn program
+benefits, must restrict his plantings of other program crops to
+the acreage base for that crop.
+    Several members of Congress from Iowa have complained that
+farmers who inadvertantly failed to certify that they had grown
+oats for their own use in the past now are being asked to halt
+oats production or lose corn program benefits.
+    USDA likely will allow historic oats farmers to plant oats
+but not extend the exemption to all farmers, Lyng's aide said.
+ Reuter
+
+
+
+
+There are 70 key words in the article 10 without caring about redundance.
+There are 40 key words in the article 10  after geting rid of redundance.
+acreag occurrence: 1
+agricultur occurrence: 1
+aid occurrence: 2
+allow occurrence: 1
+ask occurrence: 1
+base occurrence: 1
+benefit occurrence: 3
+certifi occurrence: 2
+complain occurrence: 1
+congress occurrence: 1
+continu occurrence: 1
+corn occurrence: 5
+crop occurrence: 3
+elig occurrence: 2
+exempt occurrence: 1
+extend occurrence: 1
+fail occurrence: 2
+farmer occurrence: 5
+govern occurrence: 1
+grain occurrence: 1
+grower occurrence: 1
+grown occurrence: 2
+halt occurrence: 1
+histor occurrence: 1
+inadvertantli occurrence: 1
+iowa occurrence: 1
+lose occurrence: 1
+lyng occurrence: 2
+member occurrence: 1
+oat occurrence: 7
+past occurrence: 2
+plant occurrence: 3
+product occurrence: 1
+program occurrence: 4
+relief occurrence: 1
+restrict occurrence: 1
+richard occurrence: 1
+secretari occurrence: 1
+usda occurrence: 1
+reuter occurrence: 1
+-------------------------------------------
+!!!CONGRATULATIONS!!!
+Atricle 10 has already been processed.
+Program Continue...
+-------------------------------------------
+Open file 11.txt successfully.
+
+grain rice
+THAI RICE EXPORTS RISE IN WEEK ENDED FEBRUARY 24
+Thailand exported 84,960 tonnes of rice
+in the week ended February 24, up from 80,498 the previous
+week, the Commerce Ministry said.
+    It said government and private exporters shipped 27,510 and
+57,450 tonnes respectively.
+    Private exporters concluded advance weekly sales for 79,448
+tonnes against 79,014 the previous week.
+    Thailand exported 689,038 tonnes of rice between the
+beginning of January and February 24, up from 556,874 tonnes
+during the same period last year. It has commitments to export
+another 658,999 tonnes this year.
+ REUTER
+
+
+
+
+There are 61 key words in the article 11 without caring about redundance.
+There are 38 key words in the article 11  after geting rid of redundance.
+014 occurrence: 1
+038 occurrence: 1
+448 occurrence: 1
+450 occurrence: 1
+498 occurrence: 1
+510 occurrence: 1
+556 occurrence: 1
+658 occurrence: 1
+689 occurrence: 1
+874 occurrence: 1
+960 occurrence: 1
+999 occurrence: 1
+advanc occurrence: 1
+begin occurrence: 1
+commerc occurrence: 1
+commit occurrence: 1
+conclud occurrence: 1
+end occurrence: 2
+export occurrence: 6
+februari occurrence: 3
+govern occurrence: 1
+grain occurrence: 1
+januari occurrence: 1
+ministri occurrence: 1
+period occurrence: 1
+previou occurrence: 2
+privat occurrence: 2
+rice occurrence: 4
+rise occurrence: 1
+sale occurrence: 1
+ship occurrence: 1
+thai occurrence: 1
+thailand occurrence: 2
+tonn occurrence: 6
+week occurrence: 4
+weekli occurrence: 1
+year occurrence: 2
+reuter occurrence: 1
+-------------------------------------------
+!!!CONGRATULATIONS!!!
+Atricle 11 has already been processed.
+Program Continue...
+-------------------------------------------
+Open file 12.txt successfully.
+
+grain wheat
+CHINESE WHEAT CROP THREATENED BY PESTS, DISEASE
+China's wheat crop this year is seriously
+threatened by plant pests and diseases, the New China News
+Agency said.
+    More than 5 mln hectares of wheat-producing land in North
+China could be affected because relatively warm and dry weather
+had allowed bacteria and insect eggs to survive the winter, the
+agency added.
+    China"s Ministry of Agriculture, Animal Husbandry and
+Fisheries has called for measures including the timely supply
+of pesticides to farmers to combat the threat, it said.
+ REUTER
+
+
+
+
+There are 54 key words in the article 12 without caring about redundance.
+There are 43 key words in the article 12  after geting rid of redundance.
+ad occurrence: 1
+affect occurrence: 1
+agenc occurrence: 2
+agricultur occurrence: 1
+allow occurrence: 1
+anim occurrence: 1
+bacteria occurrence: 1
+call occurrence: 1
+china occurrence: 4
+chines occurrence: 1
+combat occurrence: 1
+crop occurrence: 2
+diseas occurrence: 2
+dry occurrence: 1
+egg occurrence: 1
+farmer occurrence: 1
+fisheri occurrence: 1
+grain occurrence: 1
+hectar occurrence: 1
+husbandri occurrence: 1
+includ occurrence: 1
+insect occurrence: 1
+land occurrence: 1
+measur occurrence: 1
+ministri occurrence: 1
+mln occurrence: 1
+new occurrence: 1
+north occurrence: 1
+pest occurrence: 2
+pesticid occurrence: 1
+plant occurrence: 1
+produc occurrence: 1
+suppli occurrence: 1
+surviv occurrence: 1
+threat occurrence: 1
+threaten occurrence: 2
+time occurrence: 1
+warm occurrence: 1
+weather occurrence: 1
+wheat occurrence: 4
+winter occurrence: 1
+year occurrence: 1
+reuter occurrence: 1
+-------------------------------------------
+!!!CONGRATULATIONS!!!
+Atricle 12 has already been processed.
+Program Continue...
+-------------------------------------------
+Open file 13.txt successfully.
+
+grain wheat
+CANADA-EGYPT WHEAT NEGOTIATIONS TO CONTINUE
+Canadian and Egyptian wheat negotiators
+failed to conclude an agreement on Canadian wheat exports to
+Egypt during talks last week, but the Canadian team will return
+to Cairo for further negotiations, Canadian embassy officials
+said.
+    An embassy official declined to identify which issues
+remained to be resolved and when the talks would resume.
+    In a five-year protocol signed in 1985, Cairo agreed to
+purchase 500,000 tonnes of Canadian wheat a year.
+ REUTER
+
+
+
+
+There are 51 key words in the article 13 without caring about redundance.
+There are 35 key words in the article 13  after geting rid of redundance.
+000 occurrence: 1
+1985 occurrence: 1
+500 occurrence: 1
+agre occurrence: 1
+agreement occurrence: 1
+cairo occurrence: 2
+canada occurrence: 1
+canadian occurrence: 5
+conclud occurrence: 1
+continu occurrence: 1
+declin occurrence: 1
+egypt occurrence: 2
+egyptian occurrence: 1
+embassi occurrence: 2
+export occurrence: 1
+fail occurrence: 1
+grain occurrence: 1
+identifi occurrence: 1
+issu occurrence: 1
+negoti occurrence: 3
+offici occurrence: 2
+protocol occurrence: 1
+purchas occurrence: 1
+remain occurrence: 1
+resolv occurrence: 1
+resum occurrence: 1
+return occurrence: 1
+sign occurrence: 1
+talk occurrence: 2
+team occurrence: 1
+tonn occurrence: 1
+week occurrence: 1
+wheat occurrence: 5
+year occurrence: 2
+reuter occurrence: 1
+-------------------------------------------
+!!!CONGRATULATIONS!!!
+Atricle 13 has already been processed.
+Program Continue...
+-------------------------------------------
+Open file 14.txt successfully.
+
+grain wheat
+INDONESIAN WHEAT IMPORTS EXPECTED TO FALL IN 1987
+Indonesia's wheat imports are expected
+to fall to 1.5 mln tonnes in calendar 1987 from 1.69 mln in
+1986, the U.S. Embassy's annual agriculture report said.
+    It said the drop was expected, because there will be a
+drawdown on stocks built up near the end of 1986.
+    It said wheat stocks at the end of 1986 were 390,000
+tonnes, up from 223,000 at end-1985. It forecast end-1987
+stocks at around 290,000 tonnes.
+    The main suppliers in 1986 were Australia (44 pct), the
+U.S. (29 pct), Canada (12 pct), Argentina (8 pct) and Saudi
+Arabia (5 pct).
+ REUTER
+
+
+
+
+There are 62 key words in the article 14 without caring about redundance.
+There are 36 key words in the article 14  after geting rid of redundance.
+000 occurrence: 3
+1985 occurrence: 1
+1986 occurrence: 4
+1987 occurrence: 3
+223 occurrence: 1
+290 occurrence: 1
+390 occurrence: 1
+agricultur occurrence: 1
+annual occurrence: 1
+arabia occurrence: 1
+argentina occurrence: 1
+australia occurrence: 1
+built occurrence: 1
+calendar occurrence: 1
+canada occurrence: 1
+drawdown occurrence: 1
+drop occurrence: 1
+embassi occurrence: 1
+end occurrence: 4
+expect occurrence: 3
+fall occurrence: 2
+forecast occurrence: 1
+grain occurrence: 1
+import occurrence: 2
+indonesia occurrence: 1
+indonesian occurrence: 1
+main occurrence: 1
+mln occurrence: 2
+pct occurrence: 5
+report occurrence: 1
+saudi occurrence: 1
+stock occurrence: 3
+supplier occurrence: 1
+tonn occurrence: 3
+wheat occurrence: 4
+reuter occurrence: 1
+-------------------------------------------
+!!!CONGRATULATIONS!!!
+Atricle 14 has already been processed.
+Program Continue...
+-------------------------------------------
+Open file 15.txt successfully.
+
+meal-feed soy-meal tapioca grain corn cornglutenfeed citruspulp oilseed rapeseed rape-meal
+DUTCH ANIMAL FEED USAGE DOWN IN FIRST HALF SEASON
+Dutch animal feed usage in the first
+half of the current season from July through December 1986 fell
+7.6 pct to 6.5 mln tonnes from 7.1 mln in the same period of
+1985, figures in the latest newsletter from the co-operative
+Cebeco-Handelsraad show.
+    Tapioca usage fell 9.1 pct to 1.4 mln tonnes from 1.6 mln
+in the first half of the 1985/86 season.
+    Grain usage fell 6.1 pct to 1.1 mln tonnes from 1.2 mln,
+while soymeal usage fell 10 pct to 967,000 tonnes from 1.1 mln.
+    Cornglutenfeed usage fell 17.8 pct to 729,000 tonnes from
+887,000, but cornfeedmeal usage nearly doubled to 399,000
+tonnes from 201,000.
+    Citruspulp usage dropped 62.8 pct to 149,000 tonnes from
+400,000 tonnes, while rapeseed and meal usage rose 9.6 pct to
+217,000 tonnes from 198,000 and sunmeal rose 25.6 pct to
+216,000 tonnes from 172,000 tonnes.
+    During the whole of the season from July 1985 to June 1986,
+Dutch soymeal usage fell 12 pct to 1.9 mln tonnes from 2.1 mln
+the previous season, while sunmeal usage rose 25 pct to 408,000
+tonnes from 325,000.
+    Rapeseed and meal usage during the season also rose 14 pct
+to 409,000 tonnes from 360,000, but citruspulp fell 37 pct to
+516,000 tonnes from 826,000.
+    Meanwhile, the value of exports of agricultural products
+from the Netherlands in calendar 1986 fell 5.4 pct to 48.7
+billion guilders from 51.5 billion in calendar 1985, figures
+from the Ministry of Agriculture show.
+    During the same period imports of agricultural products
+dropped 13.1 pct to 31.2 billion guilders from 35.8 billion.
+ REUTER
+
+
+
+
+There are 184 key words in the article 15 without caring about redundance.
+There are 69 key words in the article 15  after geting rid of redundance.
+000 occurrence: 17
+149 occurrence: 1
+172 occurrence: 1
+198 occurrence: 1
+1985 occurrence: 4
+1986 occurrence: 3
+201 occurrence: 1
+216 occurrence: 1
+217 occurrence: 1
+325 occurrence: 1
+360 occurrence: 1
+399 occurrence: 1
+400 occurrence: 1
+408 occurrence: 1
+409 occurrence: 1
+516 occurrence: 1
+729 occurrence: 1
+826 occurrence: 1
+887 occurrence: 1
+967 occurrence: 1
+agricultur occurrence: 3
+anim occurrence: 2
+billion occurrence: 4
+calendar occurrence: 2
+cebeco occurrence: 1
+citruspulp occurrence: 3
+corn occurrence: 1
+cornfeedm occurrence: 1
+cornglutenfe occurrence: 2
+current occurrence: 1
+decemb occurrence: 1
+doubl occurrence: 1
+drop occurrence: 2
+dutch occurrence: 3
+export occurrence: 1
+feed occurrence: 3
+fell occurrence: 8
+figur occurrence: 2
+grain occurrence: 2
+guilder occurrence: 2
+half occurrence: 3
+handelsraad occurrence: 1
+import occurrence: 1
+juli occurrence: 2
+june occurrence: 1
+latest occurrence: 1
+meal occurrence: 5
+ministri occurrence: 1
+mln occurrence: 9
+netherland occurrence: 1
+newslett occurrence: 1
+oilse occurrence: 1
+oper occurrence: 1
+pct occurrence: 14
+period occurrence: 2
+previou occurrence: 1
+product occurrence: 2
+rape occurrence: 1
+rapese occurrence: 3
+rose occurrence: 4
+season occurrence: 6
+show occurrence: 2
+soi occurrence: 1
+soymeal occurrence: 2
+sunmeal occurrence: 2
+tapioca occurrence: 2
+tonn occurrence: 15
+usag occurrence: 12
+reuter occurrence: 1
+-------------------------------------------
+!!!CONGRATULATIONS!!!
+Atricle 15 has already been processed.
+Program Continue...
+-------------------------------------------
+Open file 16.txt successfully.
+
+grain wheat corn barley
+FRENCH ESTIMATE 86/87 WHEAT DELIVERIES UNCHANGED
+The French Cereals Intervention Board,
+ONIC, left its estimate of French 1986/87 (July/June) soft
+wheat deliveries unchanged from its last forecast at 21.98 mln
+tonnes.
+    This compared with deliveries of 24.38 mln tonnes in
+1985/86 (August/July).
+    Estimated 1986/87 maize deliveries were also left unchanged
+from ONIC's previous forecast at the beginning of February at
+9.91 mln tonnes against 10.77 mln the previous season.
+    Barley deliveries were also unchanged at 6.62 mln tonnes
+against 7.7 mln in 1985/86.
+ Reuter
+
+
+
+
+There are 58 key words in the article 16 without caring about redundance.
+There are 29 key words in the article 16  after geting rid of redundance.
+1985 occurrence: 2
+1986 occurrence: 2
+august occurrence: 1
+barlei occurrence: 2
+begin occurrence: 1
+board occurrence: 1
+cereal occurrence: 1
+compar occurrence: 1
+corn occurrence: 1
+deliveri occurrence: 5
+estim occurrence: 3
+februari occurrence: 1
+forecast occurrence: 2
+french occurrence: 3
+grain occurrence: 1
+intervent occurrence: 1
+juli occurrence: 2
+june occurrence: 1
+left occurrence: 2
+maiz occurrence: 1
+mln occurrence: 6
+onic occurrence: 2
+previou occurrence: 2
+season occurrence: 1
+soft occurrence: 1
+tonn occurrence: 4
+unchang occurrence: 4
+wheat occurrence: 3
+reuter occurrence: 1
+-------------------------------------------
+!!!CONGRATULATIONS!!!
+Atricle 16 has already been processed.
+Program Continue...
+-------------------------------------------
+Open file 17.txt successfully.
+
+grain wheat wool dlr
+RECORD N.Z. FUTURES VOLUMES TRADED IN FEBRUARY
+The volume of contracts traded on the
+New Zealand Futures Exchange (NZFE) reached a record 25,559
+contracts in February, the International Commodities Clearing
+House (ICCH) said.
+    The previous high was 22,583 contracts in December 1986.
+    The ICCH said the value of the contracts traded in February
+was 2.90 billion N.Z. Dlrs.
+    The seven contracts currently traded on the NZFE are:
+five-year government bonds, the share price index, 90-day bank
+bills, 90-day prime commercial paper, the U.S. Dollar,
+crossbred wool, and wheat.
+ Reuter
+
+
+
+
+There are 59 key words in the article 17 without caring about redundance.
+There are 41 key words in the article 17  after geting rid of redundance.
+1986 occurrence: 1
+559 occurrence: 1
+583 occurrence: 1
+bank occurrence: 1
+bill occurrence: 1
+billion occurrence: 1
+bond occurrence: 1
+clear occurrence: 1
+commerci occurrence: 1
+commod occurrence: 1
+contract occurrence: 5
+crossbr occurrence: 1
+dai occurrence: 2
+decemb occurrence: 1
+dlr occurrence: 2
+dollar occurrence: 1
+exchang occurrence: 1
+februari occurrence: 3
+futur occurrence: 2
+govern occurrence: 1
+grain occurrence: 1
+high occurrence: 1
+hous occurrence: 1
+icch occurrence: 2
+index occurrence: 1
+intern occurrence: 1
+nzfe occurrence: 2
+paper occurrence: 1
+previou occurrence: 1
+price occurrence: 1
+prime occurrence: 1
+reach occurrence: 1
+record occurrence: 2
+share occurrence: 1
+trade occurrence: 4
+volum occurrence: 2
+wheat occurrence: 2
+wool occurrence: 2
+year occurrence: 1
+zealand occurrence: 1
+reuter occurrence: 1
+-------------------------------------------
+!!!CONGRATULATIONS!!!
+Atricle 17 has already been processed.
+Program Continue...
+-------------------------------------------
+Open file 18.txt successfully.
+
+grain corn wheat barley
+TRADERS DETAIL FRENCH CEREAL EXPORT REQUESTS
+French operators last Friday requested
+licences to export 10,500 tonnes of free market maize, 11,950
+tonnes of free market barley and 13,000 of soft wheat flour to
+non-EC countries, at prefixed daily (droit commun) rebates,
+French trade sources said.
+    The latest requests for the maize were for export to
+Switzerland, Austria and Lichtenstein at a maximum daily rebate
+prefixed last Friday at 141 Ecus a tonne against a previous 20
+Ecu daily rebate.
+    The special daily rebate for maize was set in the context
+of a Commission commitment to grant this season rebates for the
+export of 500,000 tonnes of French maize to non-EC countries,
+in compensation for concessions to the U.S. in the recent
+dispute over grain sales to Spain.
+    If the latest French requests are accepted as expected,
+this will bring the total of French maize exported in this
+context to 25,500 tonnes.
+    The Commission last Thursday granted weekly rebates for the
+sale of 15,000 tonnes of free market maize to non-EC countries.
+    Requests for barley were for export to Switzerland, Austria
+and Lichtenstein, Ceuta and Melilla at an unchanged pre-fixed
+restitution of 125 Ecus a tonne, while requests for soft wheat
+flour were for export to various non-EC countries at an
+unchanged 178 Ecus a tonne.
+ Reuter
+
+
+
+
+There are 138 key words in the article 18 without caring about redundance.
+There are 67 key words in the article 18  after geting rid of redundance.
+000 occurrence: 3
+125 occurrence: 1
+141 occurrence: 1
+178 occurrence: 1
+500 occurrence: 3
+950 occurrence: 1
+accept occurrence: 1
+austria occurrence: 2
+barlei occurrence: 3
+bring occurrence: 1
+cereal occurrence: 1
+ceuta occurrence: 1
+commiss occurrence: 2
+commit occurrence: 1
+commun occurrence: 1
+compens occurrence: 1
+concess occurrence: 1
+context occurrence: 2
+corn occurrence: 1
+countri occurrence: 4
+daili occurrence: 4
+detail occurrence: 1
+disput occurrence: 1
+droit occurrence: 1
+ec occurrence: 4
+ecu occurrence: 4
+expect occurrence: 1
+export occurrence: 7
+fix occurrence: 1
+flour occurrence: 2
+free occurrence: 3
+french occurrence: 6
+fridai occurrence: 2
+grain occurrence: 2
+grant occurrence: 2
+latest occurrence: 2
+licenc occurrence: 1
+lichtenstein occurrence: 2
+maiz occurrence: 6
+market occurrence: 3
+maximum occurrence: 1
+melilla occurrence: 1
+oper occurrence: 1
+pre occurrence: 1
+prefix occurrence: 2
+previou occurrence: 1
+rebat occurrence: 6
+recent occurrence: 1
+request occurrence: 6
+restitut occurrence: 1
+sale occurrence: 2
+season occurrence: 1
+set occurrence: 1
+soft occurrence: 2
+sourc occurrence: 1
+spain occurrence: 1
+special occurrence: 1
+switzerland occurrence: 2
+thursdai occurrence: 1
+tonn occurrence: 8
+total occurrence: 1
+trade occurrence: 1
+trader occurrence: 1
+unchang occurrence: 2
+weekli occurrence: 1
+wheat occurrence: 3
+reuter occurrence: 1
+-------------------------------------------
+!!!CONGRATULATIONS!!!
+Atricle 18 has already been processed.
+Program Continue...
+-------------------------------------------
+Open file 19.txt successfully.
+
+grain corn
+CANADA RULING ON U.S. CORN INJURY DUE THIS WEEK
+The Canadian government is expected
+to announce later this week its final ruling whether U.S. corn
+exports to Canada have injured Ontario corn growers, U.S.
+government and farm group representatives said.
+    The deadline for a final determination is March 7.
+    U.S. officials said they are encouraged by the outcome in a
+similar case covering European pasta imports. In that case,
+Canada decided pasta imports, which take about ten pct of the
+Canadian market, did not injure domestic producers. U.S. corn
+exports represent only about five pct of the Canadian market.
+    Canada slapped a 1.05 dlrs per bushel duty on U.S. corn
+imports in November 1986, but reduced the duty to 85 cts last
+month because the Canadian government said U.S. subsidies to 
+corn producers were less than Canada earlier estimated.
+ Reuter
+
+
+
+
+There are 79 key words in the article 19 without caring about redundance.
+There are 50 key words in the article 19  after geting rid of redundance.
+1986 occurrence: 1
+announc occurrence: 1
+bushel occurrence: 1
+canada occurrence: 5
+canadian occurrence: 4
+case occurrence: 2
+corn occurrence: 7
+cover occurrence: 1
+ct occurrence: 1
+deadlin occurrence: 1
+decid occurrence: 1
+determin occurrence: 1
+dlr occurrence: 1
+domest occurrence: 1
+due occurrence: 1
+duti occurrence: 2
+earlier occurrence: 1
+encourag occurrence: 1
+estim occurrence: 1
+european occurrence: 1
+expect occurrence: 1
+export occurrence: 2
+farm occurrence: 1
+final occurrence: 2
+govern occurrence: 3
+grain occurrence: 1
+group occurrence: 1
+grower occurrence: 1
+import occurrence: 3
+injur occurrence: 2
+injuri occurrence: 1
+march occurrence: 1
+market occurrence: 2
+month occurrence: 1
+novemb occurrence: 1
+offici occurrence: 1
+ontario occurrence: 1
+outcom occurrence: 1
+pasta occurrence: 2
+pct occurrence: 2
+produc occurrence: 2
+reduc occurrence: 1
+repres occurrence: 2
+rule occurrence: 2
+similar occurrence: 1
+slap occurrence: 1
+subsidi occurrence: 1
+ten occurrence: 1
+week occurrence: 2
+reuter occurrence: 1
+-------------------------------------------
+!!!CONGRATULATIONS!!!
+Atricle 19 has already been processed.
+Program Continue...
+-------------------------------------------
+Open file 20.txt successfully.
+
+ship
+26 REPORTED DEAD IN FERRY DISASTER
+At least 26 people died when
+a car ferry struck a pier as it left Belgium for Britain, a
+nurse who took part in the rescue operation said.
+    Jan Van Moerbeke, a male nurse, said on coming off the
+Herald of Free Enterprise that he had found six people on top
+of the vessel who were dead. There were at least another 20
+dead inside the boat, he added.
+    The governor of West Flanders province said 240 people were
+still unaccounted for.
+ Reuter
+
+
+
+
+There are 44 key words in the article 20 without caring about redundance.
+There are 38 key words in the article 20  after geting rid of redundance.
+240 occurrence: 1
+ad occurrence: 1
+belgium occurrence: 1
+boat occurrence: 1
+britain occurrence: 1
+car occurrence: 1
+come occurrence: 1
+dead occurrence: 3
+di occurrence: 1
+disast occurrence: 1
+enterpris occurrence: 1
+ferri occurrence: 2
+flander occurrence: 1
+found occurrence: 1
+free occurrence: 1
+governor occurrence: 1
+herald occurrence: 1
+insid occurrence: 1
+jan occurrence: 1
+left occurrence: 1
+male occurrence: 1
+moerbek occurrence: 1
+nurs occurrence: 2
+oper occurrence: 1
+part occurrence: 1
+peopl occurrence: 3
+pier occurrence: 1
+provinc occurrence: 1
+report occurrence: 1
+rescu occurrence: 1
+ship occurrence: 1
+struck occurrence: 1
+top occurrence: 1
+unaccount occurrence: 1
+van occurrence: 1
+vessel occurrence: 1
+west occurrence: 1
+reuter occurrence: 1
+-------------------------------------------
+!!!CONGRATULATIONS!!!
+Atricle 20 has already been processed.
+Program Continue...
+-------------------------------------------
+Open file 21.txt successfully.
+
+ship
+TWO HUNDRED FEARED DEAD IN FERRY DISASTER
+About 200 people are feared
+dead after a British cross-channel ferry rolled on its side off
+the Belgian coast last night -- but almost 350 passengers were
+plucked to safety from the ice-cold sea.
+    Belgian Transport Minister Herman de Croo told reporters: "I
+fear the dead could be in hundreds, perhaps 200. Given the
+state of the water, I fear there is no hope."
+    Townsend Thorensen, owners of the 7,951 tonne Herald of
+Free Enterprise, said the ferry was carrying 543 people and
+that 345 had been rescued. All but one were British.
+ REUTER
+
+
+
+
+There are 58 key words in the article 21 without caring about redundance.
+There are 46 key words in the article 21  after geting rid of redundance.
+200 occurrence: 2
+345 occurrence: 1
+350 occurrence: 1
+543 occurrence: 1
+951 occurrence: 1
+belgian occurrence: 2
+british occurrence: 2
 carri occurrence: 1
-chines occurrence: 2
-citi occurrence: 6
-compani occurrence: 1
-connect occurrence: 1
+channel occurrence: 1
+coast occurrence: 1
+cold occurrence: 1
+croo occurrence: 1
+cross occurrence: 1
+de occurrence: 1
+dead occurrence: 3
+disast occurrence: 1
+enterpris occurrence: 1
+fear occurrence: 4
+ferri occurrence: 3
+free occurrence: 1
+herald occurrence: 1
+herman occurrence: 1
+hope occurrence: 1
+hundr occurrence: 2
+ic occurrence: 1
+minist occurrence: 1
+night occurrence: 1
+owner occurrence: 1
+passeng occurrence: 1
+peopl occurrence: 2
+pluck occurrence: 1
+report occurrence: 1
+rescu occurrence: 1
+roll occurrence: 1
+safeti occurrence: 1
+sea occurrence: 1
+ship occurrence: 1
+side occurrence: 1
+state occurrence: 1
+thorensen occurrence: 1
+told occurrence: 1
+tonn occurrence: 1
+townsend occurrence: 1
+transport occurrence: 1
+water occurrence: 1
+reuter occurrence: 1
+-------------------------------------------
+!!!CONGRATULATIONS!!!
+Atricle 21 has already been processed.
+Program Continue...
+-------------------------------------------
+Open file 22.txt successfully.
+
+ship
+FERRY DISASTER MAY RANK AMONG WORST TRAGEDIES
+Fading hope for passengers trapped aboard
+a partially-sunk Channel ferry raised fears the accident could
+rank among this centuries' worst peacetime shipping tragedies.
+    Belgian Transport Minister Herman de Croo said there was no
+hope of rescuing any of about 220 passengers trapped in the
+Herald of Free Enterprise after it capsized off the Belgian
+coast last night.
+    If confirmed, the toll would make the incident the world's
+worst since a Soviet liner, the Admiral Nakhimov, collided with
+a freighter in the Black Sea last September and sank with the
+loss of nearly 400 lives. A further 856 people were rescued.
+    The world's deadliest single peacetime incident at sea was
+the sinking in 1912 of the Titanic with a loss of 1,500 lives.
+    The second biggest loss of life in peacetime was in 1914
+when 1,014 people drowned when the liner Empress of Ireland
+collided with a freighter on the St Lawrence river in Canada.
+    The world's worst maritime disaster was in wartime that
+took 7,700 lives when the German liner Wilhelm Gustloff was
+torpedoed by a Soviet submarine in January 30, 1945.
+    In 1985, more than 200 were feared dead after two ferries
+sank near Dhaka, 174 drowned when a ferry capsized in China and
+147 died when a launch sank off the Malaysian state of Sabah.
+ REUTER
+
+
+
+
+There are 129 key words in the article 22 without caring about redundance.
+There are 93 key words in the article 22  after geting rid of redundance.
+014 occurrence: 1
+147 occurrence: 1
+174 occurrence: 1
+1912 occurrence: 1
+1914 occurrence: 1
+1945 occurrence: 1
+1985 occurrence: 1
+200 occurrence: 1
+220 occurrence: 1
+400 occurrence: 1
+500 occurrence: 1
+700 occurrence: 1
+856 occurrence: 1
+aboard occurrence: 1
+accid occurrence: 1
+admir occurrence: 1
+belgian occurrence: 2
+biggest occurrence: 1
+black occurrence: 1
+canada occurrence: 1
+capsiz occurrence: 2
+centuri occurrence: 1
+channel occurrence: 1
+china occurrence: 1
+coast occurrence: 1
+collid occurrence: 2
+confirm occurrence: 1
+croo occurrence: 1
+de occurrence: 1
+dead occurrence: 1
+deadliest occurrence: 1
+dhaka occurrence: 1
+di occurrence: 1
+disast occurrence: 2
+drown occurrence: 2
+empress occurrence: 1
+enterpris occurrence: 1
+fade occurrence: 1
+fear occurrence: 2
+ferri occurrence: 4
+free occurrence: 1
+freighter occurrence: 2
+german occurrence: 1
+gustloff occurrence: 1
+herald occurrence: 1
+herman occurrence: 1
+hope occurrence: 2
+incid occurrence: 2
+ireland occurrence: 1
+januari occurrence: 1
+launch occurrence: 1
+lawrenc occurrence: 1
+life occurrence: 1
+liner occurrence: 3
+live occurrence: 3
+loss occurrence: 3
+make occurrence: 1
+malaysian occurrence: 1
+maritim occurrence: 1
+minist occurrence: 1
+nakhimov occurrence: 1
+night occurrence: 1
+partial occurrence: 1
+passeng occurrence: 2
+peacetim occurrence: 3
+peopl occurrence: 2
+rais occurrence: 1
+rank occurrence: 2
+rescu occurrence: 2
+river occurrence: 1
+sabah occurrence: 1
+sank occurrence: 3
+sea occurrence: 2
+septemb occurrence: 1
+ship occurrence: 2
+singl occurrence: 1
+sink occurrence: 1
+soviet occurrence: 2
+st occurrence: 1
+state occurrence: 1
+submarin occurrence: 1
+sunk occurrence: 1
+titan occurrence: 1
+toll occurrence: 1
+torpedo occurrence: 1
+tragedi occurrence: 2
+transport occurrence: 1
+trap occurrence: 2
+wartim occurrence: 1
+wilhelm occurrence: 1
+world occurrence: 3
+worst occurrence: 4
+reuter occurrence: 1
+-------------------------------------------
+!!!CONGRATULATIONS!!!
+Atricle 22 has already been processed.
+Program Continue...
+-------------------------------------------
+Open file 23.txt successfully.
+
+ship
+ALMOST 200 DEAD IN FERRY DISASTER
+There are no more survivors from a
+British cross-Channel ferry disaster off the Belgian coast and
+almost 200 people seem certain to have perished, a senior
+Belgian official said.
+    Jacques Thas, in charge of rescue for the Herald of Free
+Enterprise, said his men had searched all of the ship except
+some inaccessible cabins and the control room.
+    "I am afraid there are no more survivors," he said. Thas said
+32 of the 543 passsengers and crew were confirmed dead and 160
+were missing, bringing the total of dead or presumed dead to
+192.
+ REUTER
+
+
+
+
+There are 50 key words in the article 23 without caring about redundance.
+There are 40 key words in the article 23  after geting rid of redundance.
+160 occurrence: 1
+192 occurrence: 1
+200 occurrence: 2
+543 occurrence: 1
+afraid occurrence: 1
+belgian occurrence: 2
+bring occurrence: 1
+british occurrence: 1
+cabin occurrence: 1
+channel occurrence: 1
+charg occurrence: 1
+coast occurrence: 1
+confirm occurrence: 1
+control occurrence: 1
+crew occurrence: 1
+cross occurrence: 1
+dead occurrence: 4
+disast occurrence: 2
+enterpris occurrence: 1
+ferri occurrence: 2
+free occurrence: 1
+herald occurrence: 1
+inaccess occurrence: 1
+jacqu occurrence: 1
+men occurrence: 1
+miss occurrence: 1
+offici occurrence: 1
+passseng occurrence: 1
+peopl occurrence: 1
+perish occurrence: 1
+presum occurrence: 1
+rescu occurrence: 1
+room occurrence: 1
+search occurrence: 1
+senior occurrence: 1
+ship occurrence: 2
+survivor occurrence: 2
+tha occurrence: 2
+total occurrence: 1
+reuter occurrence: 1
+-------------------------------------------
+!!!CONGRATULATIONS!!!
+Atricle 23 has already been processed.
+Program Continue...
+-------------------------------------------
+Open file 24.txt successfully.
+
+ship
+EXPERTS HAD EXPRESSED FEARS OVER RO-RO SAFETY
+As a British government investigation got
+under way into the sinking of the car ferry Herald of Free
+Enterprise with heavy loss of life, experts said doubts had
+already been expressed about the roll-on roll-off type of ship.
+    Shipping minister Lord Brabazon said a preliminary
+investigation had started into why the 7,951 tonne ferry
+capsized and sank in little over a minute as it manoeuvred to
+leave Zeebrugge on a routine four hour crossing to Dover.
+    Initial reports spoke of water flooding the car decks
+through the bow doors. But a spokesman for the owners, Townsend
+Thoresen, said it was also possible the ferry had been holed.
+    Townsend Thoresen operate two other ships identical to the
+Herald of Free Enterprise, but Brabazon said it was not planned
+to pull them out of service at present.
+    "Our investigator is there already. We shall have to wait
+and see. But it is too early to say what happened," he told BBC
+radio.
+    As the work of retrieving bodies from the half-submerged
+hulk continued, maritime safety experts in London said doubts
+had already been expressed about the design of so-called "RoRo"
+ferries such as the Herald of Free Enterprise.
+    In 1980 the Inter-Governmental International Maritime
+Consultative Committee issued a report saying more roll-on
+roll-off vessels were lost in accidents than ships with deck
+areas divided by bulkheads.
+    Townsend Thoresen say the ship, built at the West German
+yard of Bremerhaven in 1980, was built to the highest safety
+standards.
+    But salvage expert William Cooper said passengers would
+have had problems getting off this type of ship because of its
+design.
+    Former Townsend Thoresen navigating officer Clive Langley
+said the RoRo type of vessels were similar in some respects to
+a barge.
+    "As any sailor knows it only takes two or three inches out
+of line and you can turn a barge over. An ordinary ship is
+compartmentalised and you have more stability," he said.
+    Cooper said cross-Channel ferries were normally perfectly
+stable but had huge wide deck areas above the water level.
+    "If you do get water into that area then you can get very
+severe effects on the stability of the ship," he added.
+ REUTER
+
+
+
+
+There are 184 key words in the article 24 without caring about redundance.
+There are 125 key words in the article 24  after geting rid of redundance.
+1980 occurrence: 2
+951 occurrence: 1
+accid occurrence: 1
+ad occurrence: 1
+area occurrence: 3
+barg occurrence: 2
+bbc occurrence: 1
+bodi occurrence: 1
+bow occurrence: 1
+brabazon occurrence: 2
+bremerhaven occurrence: 1
+british occurrence: 1
+built occurrence: 2
+bulkhead occurrence: 1
+call occurrence: 1
+capsiz occurrence: 1
+car occurrence: 2
+channel occurrence: 1
+clive occurrence: 1
+committe occurrence: 1
+compartmentalisÌ occurrence: 1
+consult occurrence: 1
+continu occurrence: 1
+cooper occurrence: 2
+cross occurrence: 2
+deck occurrence: 3
+design occurrence: 2
+divid occurrence: 1
+door occurrence: 1
+doubt occurrence: 2
+dover occurrence: 1
+earli occurrence: 1
+effect occurrence: 1
+enterpris occurrence: 3
+expert occurrence: 4
+express occurrence: 3
+fear occurrence: 1
+ferri occurrence: 5
+flood occurrence: 1
+free occurrence: 3
+german occurrence: 1
+govern occurrence: 1
+government occurrence: 1
+half occurrence: 1
+happen occurrence: 1
+heavi occurrence: 1
+herald occurrence: 3
+highest occurrence: 1
+hole occurrence: 1
+hour occurrence: 1
+huge occurrence: 1
+hulk occurrence: 1
+ident occurrence: 1
+inch occurrence: 1
+initi occurrence: 1
+inter occurrence: 1
+intern occurrence: 1
+investig occurrence: 3
+issu occurrence: 1
+langlei occurrence: 1
+leav occurrence: 1
+level occurrence: 1
+life occurrence: 1
+line occurrence: 1
+london occurrence: 1
+lord occurrence: 1
+loss occurrence: 1
+lost occurrence: 1
+manoeuvr occurrence: 1
+maritim occurrence: 2
+minist occurrence: 1
+minut occurrence: 1
+navig occurrence: 1
+offic occurrence: 1
+oper occurrence: 1
+ordinari occurrence: 1
+owner occurrence: 1
+passeng occurrence: 1
+perfectli occurrence: 1
+plan occurrence: 1
+preliminari occurrence: 1
+present occurrence: 1
+problem occurrence: 1
+pull occurrence: 1
+radio occurrence: 1
+report occurrence: 2
+respect occurrence: 1
+retriev occurrence: 1
+ro occurrence: 2
+roll occurrence: 4
+roro occurrence: 2
+routin occurrence: 1
+safeti occurrence: 3
+sailor occurrence: 1
+salvag occurrence: 1
+sank occurrence: 1
+servic occurrence: 1
+sever occurrence: 1
+ship occurrence: 9
+similar occurrence: 1
+sink occurrence: 1
+spoke occurrence: 1
+spokesman occurrence: 1
+stabil occurrence: 2
+stabl occurrence: 1
+standard occurrence: 1
+start occurrence: 1
+submerg occurrence: 1
+take occurrence: 1
+thoresen occurrence: 4
+told occurrence: 1
+tonn occurrence: 1
+townsend occurrence: 4
+turn occurrence: 1
+type occurrence: 3
+vessel occurrence: 2
+wait occurrence: 1
+water occurrence: 3
+west occurrence: 1
+wide occurrence: 1
+william occurrence: 1
+work occurrence: 1
+yard occurrence: 1
+zeebrugg occurrence: 1
+reuter occurrence: 1
+-------------------------------------------
+!!!CONGRATULATIONS!!!
+Atricle 24 has already been processed.
+Program Continue...
+-------------------------------------------
+Open file 25.txt successfully.
+
+crude
+KUWAIT SAYS NO PLANS FOR EMERGENCY OPEC TALKS
+Kuwait"s Oil Minister, in remarks
+published today, said there were no plans for an emergency OPEC
+meeting to review oil policies after recent weakness in world
+oil prices.
+    Sheikh Ali al-Khalifa al-Sabah was quoted by the local
+daily al-Qabas as saying: "None of the OPEC members has asked
+for such a meeting."
+    He denied Kuwait was pumping above its quota of 948,000
+barrels of crude daily (bpd) set under self-imposed production
+limits of the 13-nation organisation.
+    Traders and analysts in international oil markets estimate
+OPEC is producing up to one mln bpd above a ceiling of 15.8 mln
+bpd agreed in Geneva last December.
+    They named Kuwait and the United Arab Emirates, along with
+the much smaller producer Ecuador, among those producing above
+quota. Kuwait, they said, was pumping 1.2 mln bpd.
+    "This rumour is baseless. It is based on reports which said
+Kuwait has the ability to exceed its share. They suppose that
+because Kuwait has the ability, it will do so," the minister
+said.
+    Sheikh Ali has said before that Kuwait had the ability to
+produce up to 4.0 mln bpd.
+    "If we can sell more than our quota at official prices,
+while some countries are suffering difficulties marketing their
+share, it means we in Kuwait are unusually clever," he said.
+    He was referring apparently to the Gulf state of qatar,
+which industry sources said was selling less than 180,000 bpd
+of its 285,000 bpd quota, because buyers were resisting
+official prices restored by OPEC last month pegged to a marker
+of 18 dlrs per barrel.
+    Prices in New York last week dropped to their lowest levels
+this year and almost three dollars below a three-month high of
+19 dollars a barrel.
+    Sheikh Ali also delivered "a challenge to any international
+oil company that declared Kuwait sold below official prices."
+    Because it was charging its official price, of 16.67 dlrs a
+barrel, it had lost custom, he said but did not elaborate.
+    However, Kuwait had guaranteed markets for its oil because
+of its local and international refining facilities and its own
+distribution network abroad, he added.
+    He reaffirmed that the planned meeting March 7 of OPEC"s
+differentials committee has been postponed until the start of
+April at the request of certain of the body"s members.
+    Ecuador"s deputy energy minister Fernando Santos Alvite said
+last Wednesday his debt-burdened country wanted OPEC to assign
+a lower official price for its crude, and was to seek this at
+talks this month of opec"s pricing committee.
+    Referring to pressure by oil companies on OPEC members, in
+apparent reference to difficulties faced by Qatar, he said: "We
+expected such pressure. It will continue through March and
+April." But he expected the situation would later improve.
+ REUTER
+
+
+
+
+There are 244 key words in the article 25 without caring about redundance.
+There are 143 key words in the article 25  after geting rid of redundance.
+000 occurrence: 3
+180 occurrence: 1
+285 occurrence: 1
+948 occurrence: 1
+abil occurrence: 3
+abroad occurrence: 1
+ad occurrence: 1
+agre occurrence: 1
+al occurrence: 3
+ali occurrence: 3
+alvit occurrence: 1
+analyst occurrence: 1
+appar occurrence: 2
+april occurrence: 2
+arab occurrence: 1
+ask occurrence: 1
+assign occurrence: 1
+barrel occurrence: 4
+base occurrence: 1
+baseless occurrence: 1
+bodi occurrence: 1
+bpd occurrence: 7
+burden occurrence: 1
+buyer occurrence: 1
+ceil occurrence: 1
+challeng occurrence: 1
+charg occurrence: 1
+clever occurrence: 1
+committe occurrence: 2
+compani occurrence: 2
 continu occurrence: 1
 countri occurrence: 2
-demonstr occurrence: 1
-develop occurrence: 1
-district occurrence: 1
-econom occurrence: 1
-encourag occurrence: 1
-entrepreneur occurrence: 4
-entrepreneuri occurrence: 1
-entrepreneurshiÌ occurrence: 1
-environ occurrence: 1
-expat occurrence: 3
-facilit occurrence: 2
-figur occurrence: 1
-foreign occurrence: 4
-form occurrence: 1
-forward occurrence: 1
-gener occurrence: 1
-global occurrence: 2
-goal occurrence: 1
-graduat occurrence: 2
-hail occurrence: 1
-help occurrence: 3
-hub occurrence: 1
-incub occurrence: 2
+crude occurrence: 3
+custom occurrence: 1
+daili occurrence: 2
+debt occurrence: 1
+decemb occurrence: 1
+declar occurrence: 1
+deliv occurrence: 1
+deni occurrence: 1
+deputi occurrence: 1
+differenti occurrence: 1
+difficulti occurrence: 2
+distribut occurrence: 1
+dlr occurrence: 2
+dollar occurrence: 2
+drop occurrence: 1
+ecuador occurrence: 2
+elabor occurrence: 1
+emerg occurrence: 2
+emir occurrence: 1
+energi occurrence: 1
+estim occurrence: 1
+exce occurrence: 1
+expect occurrence: 2
+face occurrence: 1
+facil occurrence: 1
+fernando occurrence: 1
+geneva occurrence: 1
+guarante occurrence: 1
+gulf occurrence: 1
+high occurrence: 1
+impos occurrence: 1
+improv occurrence: 1
 industri occurrence: 1
-innov occurrence: 3
-introduc occurrence: 1
-issu occurrence: 1
-itali occurrence: 1
-januari occurrence: 1
-kudosbai occurrence: 1
-largest occurrence: 1
-latest occurrence: 1
-launch occurrence: 2
-let occurrence: 1
-licens occurrence: 1
-lin occurrence: 1
-manag occurrence: 1
-mass occurrence: 1
-measur occurrence: 2
-mid occurrence: 1
-municip occurrence: 1
+intern occurrence: 3
+khalifa occurrence: 1
+kuwait occurrence: 11
+level occurrence: 1
+limit occurrence: 1
+local occurrence: 2
+lost occurrence: 1
+lower occurrence: 1
+lowest occurrence: 1
+march occurrence: 2
+marker occurrence: 1
+market occurrence: 3
+mean occurrence: 1
+meet occurrence: 3
+member occurrence: 3
+minist occurrence: 3
+mln occurrence: 4
+month occurrence: 3
+name occurrence: 1
 nation occurrence: 1
-number occurrence: 1
-obtain occurrence: 1
-offici occurrence: 2
-opportun occurrence: 1
-oversea occurrence: 1
-paperwork occurrence: 1
-part occurrence: 1
-past occurrence: 1
-percent occurrence: 1
-plai occurrence: 2
-plan occurrence: 5
-provid occurrence: 1
-push occurrence: 1
-qian occurrence: 1
+network occurrence: 1
+offici occurrence: 5
+oil occurrence: 7
+opec occurrence: 9
+organis occurrence: 1
+peg occurrence: 1
+plan occurrence: 3
+polici occurrence: 1
+postpon occurrence: 1
+pressur occurrence: 2
+price occurrence: 8
+produc occurrence: 4
+product occurrence: 1
+publish occurrence: 1
+pump occurrence: 2
+qaba occurrence: 1
+qatar occurrence: 2
+quot occurrence: 1
+quota occurrence: 4
+reaffirm occurrence: 1
 recent occurrence: 1
-region occurrence: 1
-reloc occurrence: 1
-role occurrence: 2
-scienc occurrence: 1
-servic occurrence: 1
+refer occurrence: 3
+refin occurrence: 1
+remark occurrence: 1
+report occurrence: 1
+request occurrence: 1
+resist occurrence: 1
+restor occurrence: 1
+review occurrence: 1
+rumour occurrence: 1
+sabah occurrence: 1
+santo occurrence: 1
+seek occurrence: 1
+sell occurrence: 2
 set occurrence: 1
-shanghai occurrence: 9
-show occurrence: 1
-showcas occurrence: 1
-songjiang occurrence: 1
-stai occurrence: 2
-start occurrence: 2
-startup occurrence: 2
-statist occurrence: 1
-studio occurrence: 1
-talent occurrence: 1
-technolog occurrence: 2
-type occurrence: 1
-unavail occurrence: 1
-understand occurrence: 1
-univers occurrence: 2
+share occurrence: 2
+sheikh occurrence: 3
+situat occurrence: 1
+smaller occurrence: 1
+sold occurrence: 1
+sourc occurrence: 1
+start occurrence: 1
+state occurrence: 1
+suffer occurrence: 1
+suppos occurrence: 1
+talk occurrence: 2
+todai occurrence: 1
+trader occurrence: 1
+unit occurrence: 1
+unusu occurrence: 1
+want occurrence: 1
+weak occurrence: 1
+wednesdai occurrence: 1
+week occurrence: 1
+world occurrence: 1
+year occurrence: 1
+york occurrence: 1
+reuter occurrence: 1
+-------------------------------------------
+!!!CONGRATULATIONS!!!
+Atricle 25 has already been processed.
+Program Continue...
+-------------------------------------------
+Open file 26.txt successfully.
+
+crude
+INDONESIA SEEN AT CROSSROADS OVER ECONOMIC CHANGE
+Indonesia appears to be nearing a
+political crossroads over measures to deregulate its protected
+economy, the U.S. Embassy says in a new report.
+    To counter falling oil revenues, the government has
+launched a series of measures over the past nine months to
+boost exports outside the oil sector and attract new
+investment.
+    Indonesia, the only Asian member of OPEC and a leading
+primary commodity producer, has been severely hit by last year"s
+fall in world oil prices, which forced it to devalue its
+currency by 31 pct in September.
+    But the U.S. Embassy report says President Suharto"s
+government appears to be divided over what direction to lead
+the economy.
+    "(It) appears to be nearing a crossroads with regard to
+deregulation, both as it pertains to investments and imports,"
+the report says. It primarily assesses Indonesia"s agricultural
+sector, but also reviews the country"s general economic
+performance.
+    It says that while many government officials and advisers
+are recommending further relaxation, "there are equally strong
+pressures being exerted to halt all such moves."
+    "This group strongly favours an import substitution economy,"
+the report says.
+    Indonesia"s economic changes have been welcomed by the World
+Bank and international bankers as steps in the right direction,
+though they say crucial areas of the economy like plastics and
+steel remain highly protected, and virtual monopolies.
+    Three sets of measures have been announced since last May,
+which broadened areas for foreign investment, reduced trade
+restrictions and liberalised imports.
+    The report says Indonesia"s economic growth in calendar 1986
+was probably about zero, and the economy may even have
+contracted a bit. "This is the lowest rate of growth since the
+mid-1960s," the report notes.
+    Indonesia, the largest country in South-East Asia with a
+population of 168 million, is facing general elections in
+April.
+    But the report hold out little hope for swift improvement
+in the economic outlook. "For 1987 early indications point to a
+slightly positive growth rate not exceeding one pct. Economic
+activity continues to suffer due to the sharp fall in export
+earnings from the petroleum industry."
+    "Growth in the non-oil sector is low because of weak
+domestic demand coupled with excessive plant capacity, real
+declines in construction and trade, and a reduced level of
+growth in agriculture," the report states.
+    Bankers say continuation of present economic reforms is
+crucial for the government to get the international lending its
+needs.
+    A new World Bank loan of 300 mln dlrs last month in balance
+of payments support was given partly to help the government
+maintain the momentum of reform, the Bank said.
+ REUTER
+
+
+
+
+There are 234 key words in the article 26 without caring about redundance.
+There are 161 key words in the article 26  after geting rid of redundance.
+168 occurrence: 1
+1960s occurrence: 1
+1986 occurrence: 1
+1987 occurrence: 1
+300 occurrence: 1
+activ occurrence: 1
+advis occurrence: 1
+agricultur occurrence: 2
+announc occurrence: 1
+appear occurrence: 3
+april occurrence: 1
+area occurrence: 2
+asia occurrence: 1
+asian occurrence: 1
+assess occurrence: 1
+attract occurrence: 1
+balanc occurrence: 1
+bank occurrence: 3
+banker occurrence: 2
+bit occurrence: 1
+boost occurrence: 1
+broaden occurrence: 1
+calendar occurrence: 1
+capac occurrence: 1
+chang occurrence: 1
+commod occurrence: 1
+construct occurrence: 1
+continu occurrence: 2
+contract occurrence: 1
+counter occurrence: 1
+countri occurrence: 2
+coupl occurrence: 1
+crossroad occurrence: 3
+crucial occurrence: 2
+crude occurrence: 1
+currenc occurrence: 1
+declin occurrence: 1
+demand occurrence: 1
+deregul occurrence: 2
+devalu occurrence: 1
+direct occurrence: 2
+divid occurrence: 1
+dlr occurrence: 1
+domest occurrence: 1
+due occurrence: 1
+earli occurrence: 1
+earn occurrence: 1
+east occurrence: 1
+econom occurrence: 7
+economi occurrence: 5
+elect occurrence: 1
+embassi occurrence: 2
+equal occurrence: 1
+exceed occurrence: 1
+excess occurrence: 1
+exert occurrence: 1
+export occurrence: 2
+face occurrence: 1
+fall occurrence: 3
+favour occurrence: 1
+forc occurrence: 1
+foreign occurrence: 1
+gener occurrence: 2
+govern occurrence: 5
+group occurrence: 1
+growth occurrence: 5
+halt occurrence: 1
+highli occurrence: 1
+hit occurrence: 1
+hold occurrence: 1
+hope occurrence: 1
+import occurrence: 3
+improv occurrence: 1
+indic occurrence: 1
+indonesia occurrence: 7
+industri occurrence: 1
+intern occurrence: 2
+invest occurrence: 3
+largest occurrence: 1
+launch occurrence: 1
+lead occurrence: 2
+lend occurrence: 1
+level occurrence: 1
+liberalis occurrence: 1
+loan occurrence: 1
+low occurrence: 1
+lowest occurrence: 1
+maintain occurrence: 1
+measur occurrence: 3
+member occurrence: 1
+mid occurrence: 1
+million occurrence: 1
+mln occurrence: 1
+momentum occurrence: 1
+monopoli occurrence: 1
+month occurrence: 2
+move occurrence: 1
+near occurrence: 2
+note occurrence: 1
+offici occurrence: 1
+oil occurrence: 4
+opec occurrence: 1
+outlook occurrence: 1
+partli occurrence: 1
+past occurrence: 1
+payment occurrence: 1
+pct occurrence: 2
+perform occurrence: 1
+pertain occurrence: 1
+petroleum occurrence: 1
+plant occurrence: 1
+plastic occurrence: 1
+point occurrence: 1
+polit occurrence: 1
+popul occurrence: 1
+posit occurrence: 1
+present occurrence: 1
+presid occurrence: 1
+pressur occurrence: 1
+price occurrence: 1
+primari occurrence: 1
+primarili occurrence: 1
+produc occurrence: 1
+protect occurrence: 2
+rate occurrence: 2
+real occurrence: 1
+recommend occurrence: 1
+reduc occurrence: 2
+reform occurrence: 2
+regard occurrence: 1
+relax occurrence: 1
+remain occurrence: 1
+report occurrence: 8
+restrict occurrence: 1
+revenu occurrence: 1
+review occurrence: 1
+sector occurrence: 3
+septemb occurrence: 1
+seri occurrence: 1
+set occurrence: 1
+sever occurrence: 1
+sharp occurrence: 1
+slightli occurrence: 1
+south occurrence: 1
+state occurrence: 1
+steel occurrence: 1
+step occurrence: 1
+strong occurrence: 1
+strongli occurrence: 1
+substitut occurrence: 1
+suffer occurrence: 1
+suharto occurrence: 1
+support occurrence: 1
+swift occurrence: 1
+trade occurrence: 2
+virtual occurrence: 1
+weak occurrence: 1
+welcom occurrence: 1
+world occurrence: 3
+year occurrence: 1
+reuter occurrence: 1
+-------------------------------------------
+!!!CONGRATULATIONS!!!
+Atricle 26 has already been processed.
+Program Continue...
+-------------------------------------------
+Open file 27.txt successfully.
+
+crude
+SAUDI RIYAL DEPOSIT RATES REMAIN FIRM
+Saudi riyal interbank deposits were
+steady at yesterday's higher levels in a quiet market.
+    Traders said they were reluctant to take out new positions
+amidst uncertainty over whether OPEC will succeed in halting
+the current decline in oil prices.
+    Oil industry sources said yesterday several Gulf Arab
+producers had had difficulty selling oil at official OPEC
+prices but Kuwait has said there are no plans for an emergency
+meeting of the 13-member organisation.
+    A traditional Sunday lull in trading due to the European
+weekend also contributed to the lack of market activity.
+    Spot-next and one-week rates were put at 6-1/4, 5-3/4 pct
+after quotes ranging between seven, six yesterday.
+    One, three, and six-month deposits were quoted unchanged at
+6-5/8, 3/8, 7-1/8, 6-7/8 and 7-3/8, 1/8 pct respectively.
+    The spot riyal was quietly firmer at 3.7495/98 to the
+dollar after quotes of 3.7500/03 yesterday.
+ REUTER
+
+
+
+
+There are 82 key words in the article 27 without caring about redundance.
+There are 64 key words in the article 27  after geting rid of redundance.
+7495 occurrence: 1
+7500 occurrence: 1
+activ occurrence: 1
+amidst occurrence: 1
+arab occurrence: 1
+contribut occurrence: 1
+crude occurrence: 1
+current occurrence: 1
+declin occurrence: 1
+deposit occurrence: 3
+difficulti occurrence: 1
+dollar occurrence: 1
+due occurrence: 1
+emerg occurrence: 1
+european occurrence: 1
+firm occurrence: 1
+firmer occurrence: 1
+gulf occurrence: 1
+halt occurrence: 1
+higher occurrence: 1
+industri occurrence: 1
+interbank occurrence: 1
+kuwait occurrence: 1
+lack occurrence: 1
+level occurrence: 1
+lull occurrence: 1
+market occurrence: 2
+meet occurrence: 1
+member occurrence: 1
+month occurrence: 1
+offici occurrence: 1
+oil occurrence: 3
+opec occurrence: 2
+organis occurrence: 1
+pct occurrence: 2
+plan occurrence: 1
+posit occurrence: 1
+price occurrence: 2
+produc occurrence: 1
+put occurrence: 1
+quiet occurrence: 1
+quietli occurrence: 1
+quot occurrence: 3
+rang occurrence: 1
+rate occurrence: 2
+reluct occurrence: 1
+remain occurrence: 1
+riyal occurrence: 3
+saudi occurrence: 2
+sell occurrence: 1
+sourc occurrence: 1
+spot occurrence: 2
+steadi occurrence: 1
+succe occurrence: 1
+sundai occurrence: 1
+trade occurrence: 1
+trader occurrence: 1
+tradit occurrence: 1
+uncertainti occurrence: 1
+unchang occurrence: 1
+week occurrence: 1
+weekend occurrence: 1
+yesterdai occurrence: 4
+reuter occurrence: 1
+-------------------------------------------
+!!!CONGRATULATIONS!!!
+Atricle 27 has already been processed.
+Program Continue...
+-------------------------------------------
+Open file 28.txt successfully.
+
+crude
+QATAR UNVEILS BUDGET FOR FISCAL 1987/88
+The Gulf oil state of Qatar, recovering
+slightly from last year's decline in world oil prices,
+announced its first budget since early 1985 and projected a
+deficit of 5.472 billion riyals.
+    The deficit compared with a shortfall of 7.3 billion riyals
+in the last published budget for 1985/86.
+    In a statement outlining the budget for the fiscal year
+1987/88 beginning today, Finance and Petroleum Minister Sheikh
+Abdul-Aziz bin Khalifa al-Thani said the government expected to
+spend 12.217 billion riyals in the period.
+    Projected expenditure in the 1985/86 budget had been 15.6
+billion riyals.
+    Sheikh Abdul-Aziz said government revenue would be about
+6.745 billion riyals, down by about 30 pct on the 1985/86
+projected revenue of 9.7 billion.
+    The government failed to publish a 1986/87 budget due to
+uncertainty surrounding oil revenues.
+    Sheikh Abdul-Aziz said that during that year the government
+decided to limit recurrent expenditure each month to
+one-twelfth of the previous fiscal year's allocations minus 15
+pct.
+    He urged heads of government departments and public
+institutions to help the government rationalise expenditure. He
+did not say how the 1987/88 budget shortfall would be covered.
+    Sheikh Abdul-Aziz said plans to limit expenditure in
+1986/87 had been taken in order to relieve the burden placed on
+the country's foreign reserves.
+    He added in 1987/88 some 2.766 billion riyals had been
+allocated for major projects including housing and public
+buildings, social services, health, education, transport and
+communications, electricity and water, industry and
+agriculture.
+    No figure was revealed for expenditure on defence and
+security. There was also no projection for oil revenue.
+    Qatar, an OPEC member, has an output ceiling of 285,000
+barrels per day.
+    Sheikh Abdul-Aziz said: "Our expectations of positive signs
+regarding (oil) price trends, foremost among them OPEC's
+determination to shoulder its responsibilites and protect its
+wealth, have helped us make reasonable estimates for the coming
+year's revenue on the basis of our assigned quota."
+ REUTER
+
+
+
+
+There are 197 key words in the article 28 without caring about redundance.
+There are 122 key words in the article 28  after geting rid of redundance.
+000 occurrence: 1
+1985 occurrence: 4
+1986 occurrence: 2
+1987 occurrence: 4
+217 occurrence: 1
+285 occurrence: 1
+472 occurrence: 1
+745 occurrence: 1
+766 occurrence: 1
+abdul occurrence: 5
+ad occurrence: 1
+agricultur occurrence: 1
+al occurrence: 1
+alloc occurrence: 2
+announc occurrence: 1
+assign occurrence: 1
+aziz occurrence: 5
+barrel occurrence: 1
+basi occurrence: 1
+begin occurrence: 1
+billion occurrence: 7
+bin occurrence: 1
+budget occurrence: 7
+build occurrence: 1
+burden occurrence: 1
+ceil occurrence: 1
+come occurrence: 1
+commun occurrence: 1
+compar occurrence: 1
+countri occurrence: 1
+cover occurrence: 1
+crude occurrence: 1
+dai occurrence: 1
+decid occurrence: 1
+declin occurrence: 1
+defenc occurrence: 1
+deficit occurrence: 2
+depart occurrence: 1
+determin occurrence: 1
+due occurrence: 1
+earli occurrence: 1
+educ occurrence: 1
+electr occurrence: 1
+estim occurrence: 1
+expect occurrence: 2
+expenditur occurrence: 5
+fail occurrence: 1
+figur occurrence: 1
+financ occurrence: 1
+fiscal occurrence: 3
+foreign occurrence: 1
+foremost occurrence: 1
+govern occurrence: 6
+gulf occurrence: 1
+head occurrence: 1
+health occurrence: 1
+help occurrence: 1
+hous occurrence: 1
+includ occurrence: 1
+industri occurrence: 1
+institut occurrence: 1
+khalifa occurrence: 1
+limit occurrence: 2
+major occurrence: 1
+make occurrence: 1
+member occurrence: 1
+minist occurrence: 1
+minu occurrence: 1
+month occurrence: 1
+oil occurrence: 5
+opec occurrence: 2
+order occurrence: 1
+outlin occurrence: 1
+output occurrence: 1
+pct occurrence: 2
+period occurrence: 1
+petroleum occurrence: 1
+plan occurrence: 1
+posit occurrence: 1
+previou occurrence: 1
+price occurrence: 2
+project occurrence: 5
+protect occurrence: 1
+public occurrence: 2
+publish occurrence: 2
+qatar occurrence: 3
+quota occurrence: 1
+rationalis occurrence: 1
+reason occurrence: 1
+recov occurrence: 1
+recurr occurrence: 1
+reliev occurrence: 1
+reserv occurrence: 1
+responsibilit occurrence: 1
+reveal occurrence: 1
+revenu occurrence: 5
+riyal occurrence: 6
+secur occurrence: 1
+servic occurrence: 1
+sheikh occurrence: 5
+shortfal occurrence: 2
+shoulder occurrence: 1
+sign occurrence: 1
+slightli occurrence: 1
+social occurrence: 1
+spend occurrence: 1
+state occurrence: 1
+statement occurrence: 1
+surround occurrence: 1
+thani occurrence: 1
+todai occurrence: 1
+transport occurrence: 1
+trend occurrence: 1
+twelfth occurrence: 1
+uncertainti occurrence: 1
 unveil occurrence: 1
-vaccaro occurrence: 1
-ventur occurrence: 1
-visa occurrence: 5
-work occurrence: 1
-yangpu occurrence: 1
-year occurrence: 4
-zone occurrence: 2
+urg occurrence: 1
+water occurrence: 1
+wealth occurrence: 1
+world occurrence: 1
+year occurrence: 5
+reuter occurrence: 1
+-------------------------------------------
+!!!CONGRATULATIONS!!!
+Atricle 28 has already been processed.
+Program Continue...
+-------------------------------------------
+Open file 29.txt successfully.
+
+crude
+SAUDI ARABIA REITERATES COMMITMENT TO OPEC PACT
+Saudi Arabian Oil Minister Hisham Nazer
+reiterated the kingdom's commitment to last December's OPEC
+accord to boost world oil prices and stabilise the market, the
+official Saudi Press Agency SPA said.
+    Asked by the agency about the recent fall in free market
+oil prices, Nazer said Saudi Arabia "is fully adhering by the
+... Accord and it will never sell its oil at prices below the
+pronounced prices under any circumstance."
+    Nazer, quoted by SPA, said recent pressure on free market
+prices "may be because of the end of the (northern hemisphere)
+winter season and the glut in the market."
+    Saudi Arabia was a main architect of the December accord,
+under which OPEC agreed to lower its total output ceiling by
+7.25 pct to 15.8 mln barrels per day (bpd) and return to fixed
+prices of around 18 dlrs a barrel.
+    The agreement followed a year of turmoil on oil markets,
+which saw prices slump briefly to under 10 dlrs a barrel in
+mid-1986 from about 30 dlrs in late 1985. Free market prices
+are currently just over 16 dlrs.
+    Nazer was quoted by the SPA as saying Saudi Arabia's
+adherence to the accord was shown clearly in the oil market.
+    He said contacts among members of OPEC showed they all
+wanted to stick to the accord.
+    In Jamaica, OPEC President Rilwanu Lukman, who is also
+Nigerian Oil Minister, said the group planned to stick with the
+pricing agreement.
+    "We are aware of the negative forces trying to manipulate
+the operations of the market, but we are satisfied that the
+fundamentals exist for stable market conditions," he said.
+    Kuwait's Oil Minister, Sheikh Ali al-Khalifa al-Sabah, said
+in remarks published in the emirate's daily Al-Qabas there were
+no plans for an emergency OPEC meeting to review prices.
+    Traders and analysts in international oil markets estimate
+OPEC is producing up to one mln bpd above the 15.8 mln ceiling.
+    They named Kuwait and the United Arab Emirates, along with
+the much smaller producer Ecuador, among those producing above
+quota. Sheikh Ali denied that Kuwait was over-producing.
+ REUTER
+
+
+
+
+There are 197 key words in the article 29 without caring about redundance.
+There are 115 key words in the article 29  after geting rid of redundance.
+1985 occurrence: 1
+1986 occurrence: 1
+accord occurrence: 5
+adher occurrence: 2
+agenc occurrence: 2
+agre occurrence: 1
+agreement occurrence: 2
+al occurrence: 3
+ali occurrence: 2
+analyst occurrence: 1
+arab occurrence: 1
+arabia occurrence: 4
+arabian occurrence: 1
+architect occurrence: 1
+ask occurrence: 1
+awar occurrence: 1
+barrel occurrence: 3
+boost occurrence: 1
+bpd occurrence: 2
+briefli occurrence: 1
+ceil occurrence: 2
+circumst occurrence: 1
+commit occurrence: 2
+condit occurrence: 1
+contact occurrence: 1
+crude occurrence: 1
+dai occurrence: 1
+daili occurrence: 1
+decemb occurrence: 2
+deni occurrence: 1
+dlr occurrence: 4
+ecuador occurrence: 1
+emerg occurrence: 1
+emir occurrence: 2
+end occurrence: 1
+estim occurrence: 1
+exist occurrence: 1
+fall occurrence: 1
+fix occurrence: 1
+forc occurrence: 1
+free occurrence: 3
+fulli occurrence: 1
+fundament occurrence: 1
+glut occurrence: 1
+group occurrence: 1
+hemispher occurrence: 1
+hisham occurrence: 1
+intern occurrence: 1
+jamaica occurrence: 1
+khalifa occurrence: 1
+kingdom occurrence: 1
+kuwait occurrence: 3
+late occurrence: 1
+lower occurrence: 1
+lukman occurrence: 1
+main occurrence: 1
+manipul occurrence: 1
+market occurrence: 10
+meet occurrence: 1
+member occurrence: 1
+mid occurrence: 1
+minist occurrence: 3
+mln occurrence: 3
+name occurrence: 1
+nazer occurrence: 4
+neg occurrence: 1
+nigerian occurrence: 1
+northern occurrence: 1
+offici occurrence: 1
+oil occurrence: 9
+opec occurrence: 7
+oper occurrence: 1
+output occurrence: 1
+pact occurrence: 1
+pct occurrence: 1
+plan occurrence: 2
+presid occurrence: 1
+press occurrence: 1
+pressur occurrence: 1
+price occurrence: 10
+produc occurrence: 4
+pronounc occurrence: 1
+publish occurrence: 1
+qaba occurrence: 1
+quot occurrence: 2
+quota occurrence: 1
+recent occurrence: 2
+reiter occurrence: 2
+remark occurrence: 1
+return occurrence: 1
+review occurrence: 1
+rilwanu occurrence: 1
+sabah occurrence: 1
+satisfi occurrence: 1
+saudi occurrence: 6
+season occurrence: 1
+sell occurrence: 1
+sheikh occurrence: 2
+show occurrence: 1
+shown occurrence: 1
+slump occurrence: 1
+smaller occurrence: 1
+spa occurrence: 3
+stabilis occurrence: 1
+stabl occurrence: 1
+stick occurrence: 2
 total occurrence: 1
+trader occurrence: 1
+turmoil occurrence: 1
+unit occurrence: 1
+want occurrence: 1
+winter occurrence: 1
+world occurrence: 1
+year occurrence: 1
+reuter occurrence: 1
+-------------------------------------------
+!!!CONGRATULATIONS!!!
+Atricle 29 has already been processed.
+Program Continue...
+-------------------------------------------
+Open file 30.txt successfully.
+
+crude
+DIAMOND SHAMROCK (DIA) CUTS CRUDE PRICES
+Diamond Shamrock Corp said that
+effective today it had cut its contract prices for crude oil by
+1.50 dlrs a barrel.
+    The reduction brings its posted price for West Texas
+Intermediate to 16.00 dlrs a barrel, the copany said.
+    "The price reduction today was made in the light of falling
+oil product prices and a weak crude oil market," a company
+spokeswoman said.
+    Diamond is the latest in a line of U.S. oil companies that
+have cut its contract, or posted, prices over the last two days
+citing weak oil markets.
+ Reuter
+
+
+
+
+There are 59 key words in the article 30 without caring about redundance.
+There are 33 key words in the article 30  after geting rid of redundance.
+barrel occurrence: 2
+bring occurrence: 1
+cite occurrence: 1
+compani occurrence: 2
+contract occurrence: 2
+copani occurrence: 1
+corp occurrence: 1
+crude occurrence: 4
+cut occurrence: 3
+dai occurrence: 1
+dia occurrence: 1
+diamond occurrence: 3
+dlr occurrence: 2
+effect occurrence: 1
+fall occurrence: 1
+intermedi occurrence: 1
+latest occurrence: 1
+light occurrence: 1
+line occurrence: 1
+made occurrence: 1
+market occurrence: 2
+oil occurrence: 5
+post occurrence: 2
+price occurrence: 6
+product occurrence: 1
+reduct occurrence: 2
+shamrock occurrence: 2
+spokeswoman occurrence: 1
+texa occurrence: 1
+todai occurrence: 2
+weak occurrence: 2
+west occurrence: 1
+reuter occurrence: 1
+-------------------------------------------
+!!!CONGRATULATIONS!!!
+Atricle 30 has already been processed.
+Program Continue...
+-------------------------------------------
+Open file 31.txt successfully.
+
+crude
+OPEC MAY HAVE TO MEET TO FIRM PRICES - ANALYSTS
+OPEC may be forced to meet before a
+scheduled June session to readdress its production cutting
+agreement if the organization wants to halt the current slide
+in oil prices, oil industry analysts said.
+    "The movement to higher oil prices was never to be as easy
+as OPEC thought. They may need an emergency meeting to sort out
+the problems," said Daniel Yergin, director of Cambridge Energy
+Research Associates, CERA.
+    Analysts and oil industry sources said the problem OPEC
+faces is excess oil supply in world oil markets.
+    "OPEC's problem is not a price problem but a production
+issue and must be addressed in that way," said Paul Mlotok, oil
+analyst with Salomon Brothers Inc.
+    He said the market's earlier optimism about OPEC and its
+ability to keep production under control have given way to a
+pessimistic outlook that the organization must address soon if
+it wishes to regain the initiative in oil prices.
+    But some other analysts were uncertain that even an
+emergency meeting would address the problem of OPEC production
+above the 15.8 mln bpd quota set last December.
+    "OPEC has to learn that in a buyers market you cannot have
+deemed quotas, fixed prices and set differentials," said the
+regional manager for one of the major oil companies who spoke
+on condition that he not be named. "The market is now trying to
+teach them that lesson again," he added.
+    David T. Mizrahi, editor of Mideast reports, expects OPEC
+to meet before June, although not immediately. However, he is
+not optimistic that OPEC can address its principal problems.
+    "They will not meet now as they try to take advantage of the
+winter demand to sell their oil, but in late March and April
+when demand slackens," Mizrahi said.
+    But Mizrahi said that OPEC is unlikely to do anything more
+than reiterate its agreement to keep output at 15.8 mln bpd."
+    Analysts said that the next two months will be critical for
+OPEC's ability to hold together prices and output.
+    "OPEC must hold to its pact for the next six to eight weeks
+since buyers will come back into the market then," said Dillard
+Spriggs of Petroleum Analysis Ltd in New York.
+    But Bijan Moussavar-Rahmani of Harvard University's Energy
+and Environment Policy Center said that the demand for OPEC oil
+has been rising through the first quarter and this may have
+prompted excesses in its production.
+    "Demand for their (OPEC) oil is clearly above 15.8 mln bpd
+and is probably closer to 17 mln bpd or higher now so what we
+are seeing characterized as cheating is OPEC meeting this
+demand through current production," he told Reuters in a
+telephone interview.
+ Reuter
+
+
+
+
+There are 213 key words in the article 31 without caring about redundance.
+There are 125 key words in the article 31  after geting rid of redundance.
+abil occurrence: 2
+ad occurrence: 1
+address occurrence: 4
+advantag occurrence: 1
+agreement occurrence: 2
+analysi occurrence: 1
+analyst occurrence: 6
+april occurrence: 1
+associ occurrence: 1
+back occurrence: 1
+bijan occurrence: 1
+bpd occurrence: 4
+brother occurrence: 1
+buyer occurrence: 2
+cambridg occurrence: 1
+center occurrence: 1
+cera occurrence: 1
+character occurrence: 1
+cheat occurrence: 1
+closer occurrence: 1
+compani occurrence: 1
+condit occurrence: 1
+control occurrence: 1
+critic occurrence: 1
+crude occurrence: 1
+current occurrence: 2
+cut occurrence: 1
+daniel occurrence: 1
+david occurrence: 1
+decemb occurrence: 1
+deem occurrence: 1
+demand occurrence: 5
+differenti occurrence: 1
+dillard occurrence: 1
+director occurrence: 1
+earlier occurrence: 1
+easi occurrence: 1
+editor occurrence: 1
+emerg occurrence: 2
+energi occurrence: 2
+environ occurrence: 1
+excess occurrence: 2
+expect occurrence: 1
+face occurrence: 1
+firm occurrence: 1
+fix occurrence: 1
+forc occurrence: 1
+halt occurrence: 1
+harvard occurrence: 1
+higher occurrence: 2
+hold occurrence: 2
+immedi occurrence: 1
+industri occurrence: 2
+initi occurrence: 1
+issu occurrence: 1
+june occurrence: 2
+late occurrence: 1
+learn occurrence: 1
+lesson occurrence: 1
+major occurrence: 1
+manag occurrence: 1
+march occurrence: 1
+market occurrence: 5
+meet occurrence: 7
+mideast occurrence: 1
+mizrahi occurrence: 3
+mln occurrence: 4
+mlotok occurrence: 1
+month occurrence: 1
+moussavar occurrence: 1
+movement occurrence: 1
+name occurrence: 1
+oil occurrence: 12
+opec occurrence: 16
+optim occurrence: 1
+optimist occurrence: 1
+organ occurrence: 2
+outlook occurrence: 1
+output occurrence: 2
+pact occurrence: 1
+paul occurrence: 1
+pessimist occurrence: 1
+petroleum occurrence: 1
+polici occurrence: 1
+price occurrence: 7
+princip occurrence: 1
+problem occurrence: 6
+product occurrence: 6
+prompt occurrence: 1
+quarter occurrence: 1
+quota occurrence: 2
+rahmani occurrence: 1
+readdress occurrence: 1
+regain occurrence: 1
+region occurrence: 1
+reiter occurrence: 1
+report occurrence: 1
+research occurrence: 1
+reuter occurrence: 2
+rise occurrence: 1
+salomon occurrence: 1
+schedul occurrence: 1
+sell occurrence: 1
+session occurrence: 1
+set occurrence: 2
+slacken occurrence: 1
+slide occurrence: 1
+sort occurrence: 1
+sourc occurrence: 1
+spoke occurrence: 1
+sprigg occurrence: 1
+suppli occurrence: 1
+teach occurrence: 1
+telephon occurrence: 1
+thought occurrence: 1
+told occurrence: 1
+uncertain occurrence: 1
+univers occurrence: 1
+week occurrence: 1
+winter occurrence: 1
+wish occurrence: 1
+world occurrence: 1
+yergin occurrence: 1
+york occurrence: 1
+interview occurrence: 1
+-------------------------------------------
+!!!CONGRATULATIONS!!!
+Atricle 31 has already been processed.
+Program Continue...
+-------------------------------------------
+Open file 32.txt successfully.
+
+crude
+TEXACO CANADA &lt;TXC> LOWERS CRUDE POSTINGS
+Texaco Canada said it lowered the
+contract price it will pay for crude oil 64 Canadian cts a
+barrel, effective today.
+    The decrease brings the company's posted price for the
+benchmark grade, Edmonton/Swann Hills Light Sweet, to 22.26
+Canadian dlrs a bbl.
+    Texaco Canada last changed its crude oil postings on Feb
+19.
+ Reuter
+
+
+
+
+There are 43 key words in the article 32 without caring about redundance.
+There are 30 key words in the article 32  after geting rid of redundance.
+barrel occurrence: 1
+bbl occurrence: 1
+benchmark occurrence: 1
+bring occurrence: 1
+canada occurrence: 3
+canadian occurrence: 2
+chang occurrence: 1
+compani occurrence: 1
+contract occurrence: 1
+crude occurrence: 4
+ct occurrence: 1
+decreas occurrence: 1
+dlr occurrence: 1
+edmonton occurrence: 1
+effect occurrence: 1
+feb occurrence: 1
+grade occurrence: 1
+hill occurrence: 1
+light occurrence: 1
+lower occurrence: 2
+oil occurrence: 2
+pai occurrence: 1
+post occurrence: 3
+price occurrence: 2
+swann occurrence: 1
+sweet occurrence: 1
+texaco occurrence: 3
+todai occurrence: 1
+txc occurrence: 1
+reuter occurrence: 1
+-------------------------------------------
+!!!CONGRATULATIONS!!!
+Atricle 32 has already been processed.
+Program Continue...
+-------------------------------------------
+Open file 33.txt successfully.
+
+crude
+MARATHON PETROLEUM REDUCES CRUDE POSTINGS
+Marathon Petroleum Co said it reduced
+the contract price it will pay for all grades of crude oil one
+dlr a barrel, effective today.
+    The decrease brings Marathon's posted price for both West
+Texas Intermediate and West Texas Sour to 16.50 dlrs a bbl. The
+South Louisiana Sweet grade of crude was reduced to 16.85 dlrs
+a bbl.
+    The company last changed its crude postings on Jan 12.
+ Reuter
+
+
+
+
+There are 46 key words in the article 33 without caring about redundance.
+There are 28 key words in the article 33  after geting rid of redundance.
+barrel occurrence: 1
+bbl occurrence: 2
+bring occurrence: 1
+chang occurrence: 1
+compani occurrence: 1
+contract occurrence: 1
+crude occurrence: 5
+decreas occurrence: 1
+dlr occurrence: 3
+effect occurrence: 1
+grade occurrence: 2
+intermedi occurrence: 1
+jan occurrence: 1
+louisiana occurrence: 1
+marathon occurrence: 3
+oil occurrence: 1
+pai occurrence: 1
+petroleum occurrence: 2
+post occurrence: 3
+price occurrence: 2
+reduc occurrence: 3
+sour occurrence: 1
+south occurrence: 1
+sweet occurrence: 1
+texa occurrence: 2
+todai occurrence: 1
+west occurrence: 2
+reuter occurrence: 1
+-------------------------------------------
+!!!CONGRATULATIONS!!!
+Atricle 33 has already been processed.
+Program Continue...
+-------------------------------------------
+Open file 34.txt successfully.
+
+crude
+HOUSTON OIL &lt;HO> RESERVES STUDY COMPLETED
+Houston Oil Trust said that independent
+petroleum engineers completed an annual study that estimates
+the trust's future net revenues from total proved reserves at
+88 mln dlrs and its discounted present value of the reserves at
+64 mln dlrs.
+    Based on the estimate, the trust said there may be no money
+available for cash distributions to unitholders for the
+remainder of the year.
+    It said the estimates reflect a decrease of about 44 pct in
+net reserve revenues and 39 pct in discounted present value
+compared with the study made in 1985.
+ Reuter
+
+
+
+
+There are 55 key words in the article 34 without caring about redundance.
+There are 36 key words in the article 34  after geting rid of redundance.
+1985 occurrence: 1
+annual occurrence: 1
+base occurrence: 1
+cash occurrence: 1
+compar occurrence: 1
+complet occurrence: 2
+crude occurrence: 1
+decreas occurrence: 1
+discount occurrence: 2
+distribut occurrence: 1
+dlr occurrence: 2
+engin occurrence: 1
+estim occurrence: 3
+futur occurrence: 1
+ho occurrence: 1
+houston occurrence: 2
+independ occurrence: 1
+made occurrence: 1
+mln occurrence: 2
+monei occurrence: 1
+net occurrence: 2
+oil occurrence: 2
+pct occurrence: 2
+petroleum occurrence: 1
+present occurrence: 2
+prove occurrence: 1
+reflect occurrence: 1
+remaind occurrence: 1
+reserv occurrence: 4
+revenu occurrence: 2
+studi occurrence: 3
+total occurrence: 1
+trust occurrence: 3
+unithold occurrence: 1
+year occurrence: 1
+reuter occurrence: 1
+-------------------------------------------
+!!!CONGRATULATIONS!!!
+Atricle 34 has already been processed.
+Program Continue...
+-------------------------------------------
+Open file 35.txt successfully.
+
+ship
+BRAZIL SEAMEN CONTINUE STRIKE AFTER COURT DECISION
+Hundreds of marines were on alert
+at 11 key Brazilian ports after 40,000 seamen decided to remain
+on indefinite strike, even after the Higher Labour Court
+yesterday ruled it illegal, union leaders said.
+    The halt, the first national strike by seamen in 25 years,
+started on February 27, and union leaders said they would not
+return to work unless they got a 275 pct pay rise. Shipowners
+have offered a 100 per cent raise, which the seamen rejected.
+    "We have nothing to lose. If they want to lay off the
+workers, fine, but we are determined to carry on with our
+protest until the end," a union leader said.
+    He said they had decided in a meeting that if the marines
+take over the ships, the seamen would abandon the vessels and
+let the marines handle the situation by themselves.
+    A spokesman for the Rio de Janeiro Port said the order to
+send marines to take over the ports was given by Navy Minister
+Henrique Saboya on grounds that ports are areas of national
+security. But he said there were no incidents. The strike has
+cut exports and imports and made an estimated 160 ships idle.
+    Petrol station owners in four states also continued their
+shutdown and there were fears that the combination of the two
+stoppages could lead to a serious fuel shortage.
+ REUTER
+
+
+
+
+There are 110 key words in the article 35 without caring about redundance.
+There are 87 key words in the article 35  after geting rid of redundance.
+000 occurrence: 1
+100 occurrence: 1
+160 occurrence: 1
+275 occurrence: 1
+abandon occurrence: 1
+alert occurrence: 1
+area occurrence: 1
+brazil occurrence: 1
+brazilian occurrence: 1
+carri occurrence: 1
+cent occurrence: 1
+combin occurrence: 1
+continu occurrence: 2
+court occurrence: 2
+cut occurrence: 1
+de occurrence: 1
+decid occurrence: 2
+decis occurrence: 1
+determin occurrence: 1
+end occurrence: 1
+estim occurrence: 1
+export occurrence: 1
+fear occurrence: 1
+februari occurrence: 1
+fine occurrence: 1
+fuel occurrence: 1
+ground occurrence: 1
+halt occurrence: 1
+handl occurrence: 1
+henriqu occurrence: 1
+higher occurrence: 1
+hundr occurrence: 1
+idl occurrence: 1
+illeg occurrence: 1
+import occurrence: 1
+incid occurrence: 1
+indefinit occurrence: 1
+janeiro occurrence: 1
+kei occurrence: 1
+labour occurrence: 1
+lai occurrence: 1
+lead occurrence: 1
+leader occurrence: 3
+lose occurrence: 1
+made occurrence: 1
+marin occurrence: 4
+meet occurrence: 1
+minist occurrence: 1
+nation occurrence: 2
+navi occurrence: 1
+offer occurrence: 1
+order occurrence: 1
+owner occurrence: 1
+pai occurrence: 1
+pct occurrence: 1
+petrol occurrence: 1
+port occurrence: 4
+protest occurrence: 1
+rais occurrence: 1
+reject occurrence: 1
+remain occurrence: 1
+return occurrence: 1
+rio occurrence: 1
+rise occurrence: 1
+rule occurrence: 1
+saboya occurrence: 1
+seamen occurrence: 5
+secur occurrence: 1
+send occurrence: 1
+ship occurrence: 3
+shipown occurrence: 1
+shortag occurrence: 1
+shutdown occurrence: 1
+situat occurrence: 1
+spokesman occurrence: 1
+start occurrence: 1
+state occurrence: 1
+station occurrence: 1
+stoppag occurrence: 1
+strike occurrence: 4
+union occurrence: 3
+vessel occurrence: 1
+work occurrence: 1
+worker occurrence: 1
+year occurrence: 1
+yesterdai occurrence: 1
+reuter occurrence: 1
+-------------------------------------------
+!!!CONGRATULATIONS!!!
+Atricle 35 has already been processed.
+Program Continue...
+-------------------------------------------
+Open file 36.txt successfully.
+
+ship
+BRAZIL SEAMEN CONTINUE STRIKE DESPITE COURT
+Hundreds of marines were on alert
+at 11 key Brazilian ports after 40,000 seamen decided to remain
+on indefinite strike, even after the Higher Labour Court
+Saturday ruled it illegal, union leaders said.
+    The halt, the first national strike by seamen in 25 years,
+started on February 27, and union leaders said they would not
+return to work unless they got a 275 pct pay rise. Shipowners
+have offered a 100 per cent raise, which the seamen rejected.
+    "We have nothing to lose. If they want to lay off the
+workers, fine, but we are determined to carry on with our
+protest until the end," a union leader said.
+ more
+    He said they had decided in a meeting that if the marines
+take over the ships, the seamen would abandon the vessels and
+let the marines handle the situation by themselves.
+    A spokesman for the Rio de Janeiro Port said the order to
+send marines to take over the ports was given by Navy Minister
+Henrique Saboya on grounds that ports are areas of national
+security. But he said there were no incidents. The strike has
+cut exports and imports and made an estimated 160 ships idle.
+    Petrol station owners in four states also continued their
+shutdown and there were fears that the combination of the two
+stoppages could lead to a serious fuel shortage.
+ Reuter
+
+
+
+
+There are 109 key words in the article 36 without caring about redundance.
+There are 86 key words in the article 36  after geting rid of redundance.
+000 occurrence: 1
+100 occurrence: 1
+160 occurrence: 1
+275 occurrence: 1
+abandon occurrence: 1
+alert occurrence: 1
+area occurrence: 1
+brazil occurrence: 1
+brazilian occurrence: 1
+carri occurrence: 1
+cent occurrence: 1
+combin occurrence: 1
+continu occurrence: 2
+court occurrence: 2
+cut occurrence: 1
+de occurrence: 1
+decid occurrence: 2
+determin occurrence: 1
+end occurrence: 1
+estim occurrence: 1
+export occurrence: 1
+fear occurrence: 1
+februari occurrence: 1
+fine occurrence: 1
+fuel occurrence: 1
+ground occurrence: 1
+halt occurrence: 1
+handl occurrence: 1
+henriqu occurrence: 1
+higher occurrence: 1
+hundr occurrence: 1
+idl occurrence: 1
+illeg occurrence: 1
+import occurrence: 1
+incid occurrence: 1
+indefinit occurrence: 1
+janeiro occurrence: 1
+kei occurrence: 1
+labour occurrence: 1
+lai occurrence: 1
+lead occurrence: 1
+leader occurrence: 3
+lose occurrence: 1
+made occurrence: 1
+marin occurrence: 4
+meet occurrence: 1
+minist occurrence: 1
+nation occurrence: 2
+navi occurrence: 1
+offer occurrence: 1
+order occurrence: 1
+owner occurrence: 1
+pai occurrence: 1
+pct occurrence: 1
+petrol occurrence: 1
+port occurrence: 4
+protest occurrence: 1
+rais occurrence: 1
+reject occurrence: 1
+remain occurrence: 1
+return occurrence: 1
+rio occurrence: 1
+rise occurrence: 1
+rule occurrence: 1
+saboya occurrence: 1
+saturdai occurrence: 1
+seamen occurrence: 5
+secur occurrence: 1
+send occurrence: 1
+ship occurrence: 3
+shipown occurrence: 1
+shortag occurrence: 1
+shutdown occurrence: 1
+situat occurrence: 1
+spokesman occurrence: 1
+start occurrence: 1
+state occurrence: 1
+station occurrence: 1
+stoppag occurrence: 1
+strike occurrence: 4
+union occurrence: 3
+vessel occurrence: 1
+work occurrence: 1
+worker occurrence: 1
+year occurrence: 1
+reuter occurrence: 1
+-------------------------------------------
+!!!CONGRATULATIONS!!!
+Atricle 36 has already been processed.
+Program Continue...
+-------------------------------------------
+Open file 37.txt successfully.
+
+ship
+HUTCHISON UNIT BUYS CONTAINER CRANES FROM JAPAN
+Container port operator, &lt;Hong Kong
+International Terminals Ltd>, a 89 pct held unit of Hutchison
+Whampoa Ltd &lt;HWHH.HK>, said it has placed a 164 mln H.K. Dlr
+order for seven quayside container cranes of 800 tons each with
+Japan's Mitsui Engineering and Shipbuilding Co Ltd &lt;MSET.T> for
+May 1988 to August 1989 delivery.
+    Hong Kong International Terminals operates 32 cranes.
+ REUTER
+
+
+
+
+There are 46 key words in the article 37 without caring about redundance.
+There are 34 key words in the article 37  after geting rid of redundance.
+164 occurrence: 1
+1988 occurrence: 1
+1989 occurrence: 1
+800 occurrence: 1
+august occurrence: 1
+bui occurrence: 1
+contain occurrence: 3
+crane occurrence: 3
+deliveri occurrence: 1
+dlr occurrence: 1
+engin occurrence: 1
+held occurrence: 1
+hk occurrence: 1
+hong occurrence: 2
+hutchison occurrence: 2
+hwhh occurrence: 1
+intern occurrence: 2
+japan occurrence: 2
+kong occurrence: 2
+mitsui occurrence: 1
+mln occurrence: 1
+mset occurrence: 1
+oper occurrence: 2
+order occurrence: 1
+pct occurrence: 1
+port occurrence: 1
+quaysid occurrence: 1
+ship occurrence: 1
+shipbuild occurrence: 1
+termin occurrence: 2
+ton occurrence: 1
+unit occurrence: 2
+whampoa occurrence: 1
+reuter occurrence: 1
+-------------------------------------------
+!!!CONGRATULATIONS!!!
+Atricle 37 has already been processed.
+Program Continue...
+-------------------------------------------
+Open file 38.txt successfully.
+
+ship
+BOSPHORUS SHIPPING MOVES, ISTANBUL OFFICES CLOSE
+Istanbul remained at a virtual
+standstill today under snow up to a meter deep but shipping was
+moving through the narrow Bosphorus waterway linking the Sea of
+Marmara and the Black Sea, officials said.
+    The authorities ordered government offices closed until
+Wednesday. Many banks, businesses and schools stayed shut as
+workers struggled to keep main roads and supply lines open in
+this city of 6.5 mln people.
+    The second blizzard to hit Istanbul in a week stopped
+yesterday afternoon and the international airport reopened
+today after a two-day closure. It was also shut earlier last
+week.
+ Reuter
+
+
+
+
+There are 64 key words in the article 38 without caring about redundance.
+There are 52 key words in the article 38  after geting rid of redundance.
+afternoon occurrence: 1
+airport occurrence: 1
+author occurrence: 1
+bank occurrence: 1
+black occurrence: 1
+blizzard occurrence: 1
+bosphoru occurrence: 2
+busi occurrence: 1
+citi occurrence: 1
+close occurrence: 2
+closur occurrence: 1
+dai occurrence: 1
+deep occurrence: 1
+earlier occurrence: 1
+govern occurrence: 1
+hit occurrence: 1
+intern occurrence: 1
+istanbul occurrence: 3
+line occurrence: 1
+link occurrence: 1
+main occurrence: 1
+marmara occurrence: 1
+meter occurrence: 1
+mln occurrence: 1
+move occurrence: 2
+narrow occurrence: 1
+offic occurrence: 2
+offici occurrence: 1
+open occurrence: 1
+order occurrence: 1
+peopl occurrence: 1
+remain occurrence: 1
+reopen occurrence: 1
+road occurrence: 1
+school occurrence: 1
+sea occurrence: 2
+ship occurrence: 3
+shut occurrence: 2
+snow occurrence: 1
+stai occurrence: 1
+standstil occurrence: 1
+stop occurrence: 1
+struggl occurrence: 1
+suppli occurrence: 1
+todai occurrence: 2
+virtual occurrence: 1
+waterwai occurrence: 1
+wednesdai occurrence: 1
+week occurrence: 2
+worker occurrence: 1
+yesterdai occurrence: 1
+reuter occurrence: 1
+-------------------------------------------
+!!!CONGRATULATIONS!!!
+Atricle 38 has already been processed.
+Program Continue...
+-------------------------------------------
+Open file 39.txt successfully.
+
+ship
+GALE FORCE WINDS BUFFET GREAT LAKES
+The National Weather Service said
+warnings of gale force winds remained in effect over lakes
+Erie, Huron and Michigan.
+    Also, warnings have been posted for large waves and beach
+erosion along the shores of the Lakes. Winds gusting to 45 mph
+caused four to six foot waves along the western and southern
+shores of Lake Michigan during the morning.
+    Advisories for low wind chill temperatures have also been
+posted across portions of upper Michigan and northern lower
+Michigan. Early morning gusty winds brought the wind chill to
+15 and 25 degrees below zero.
+    Freezing rain was scattered over central Colorado by mid
+morning, also over central Kansas and northeast Illinois.
+    Snow reached from south central Montana across Wyoming,
+western Nebraska and western Kansas. Snow also extended across
+northern Wisconsin, upper Michigan and northern lower Michigan.
+    Rain reached along the northern Pacific Coast, across
+northwest Utah, Maryland, Deleware, Virginia, the Carolinas,
+Georgia and northern Alabama.
+ Reuter
+
+
+
+
+There are 105 key words in the article 39 without caring about redundance.
+There are 69 key words in the article 39  after geting rid of redundance.
+advisori occurrence: 1
+alabama occurrence: 1
+beach occurrence: 1
+brought occurrence: 1
+buffet occurrence: 1
+carolina occurrence: 1
+caus occurrence: 1
+central occurrence: 3
+chill occurrence: 2
+coast occurrence: 1
+colorado occurrence: 1
+degre occurrence: 1
+delewar occurrence: 1
+earli occurrence: 1
+effect occurrence: 1
+eri occurrence: 1
+eros occurrence: 1
+extend occurrence: 1
+foot occurrence: 1
+forc occurrence: 2
+freez occurrence: 1
+gale occurrence: 2
+georgia occurrence: 1
+great occurrence: 1
+gust occurrence: 1
+gusti occurrence: 1
+huron occurrence: 1
+illinoi occurrence: 1
+kansa occurrence: 2
+lake occurrence: 4
+larg occurrence: 1
+low occurrence: 1
+lower occurrence: 2
+maryland occurrence: 1
+michigan occurrence: 6
+mid occurrence: 1
+montana occurrence: 1
+morn occurrence: 3
+mph occurrence: 1
+nation occurrence: 1
+nebraska occurrence: 1
+northeast occurrence: 1
+northern occurrence: 5
+northwest occurrence: 1
+pacif occurrence: 1
+portion occurrence: 1
+post occurrence: 2
+rain occurrence: 2
+reach occurrence: 2
+remain occurrence: 1
+scatter occurrence: 1
+servic occurrence: 1
+ship occurrence: 1
+shore occurrence: 2
+snow occurrence: 2
+south occurrence: 1
+southern occurrence: 1
+temperatur occurrence: 1
+upper occurrence: 2
+utah occurrence: 1
+virginia occurrence: 1
+warn occurrence: 2
+wave occurrence: 2
+weather occurrence: 1
+western occurrence: 3
+wind occurrence: 6
+wisconsin occurrence: 1
+wyom occurrence: 1
+reuter occurrence: 1
+-------------------------------------------
+!!!CONGRATULATIONS!!!
+Atricle 39 has already been processed.
+Program Continue...
+-------------------------------------------

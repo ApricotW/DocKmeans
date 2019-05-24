@@ -113,6 +113,10 @@ SOURCE=.\EMAParser.h
 # End Source File
 # Begin Source File
 
+SOURCE=.\KMEANS.H
+# End Source File
+# Begin Source File
+
 SOURCE=.\SParser.h
 # End Source File
 # End Group

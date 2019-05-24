@@ -15,6 +15,7 @@
 #include "EMAParser.h"
 #include "EMA.h"
 #include "SParser.h"
+#include "KMEANS.h"
 #define _MAXLEN 15
 
 using namespace std;
@@ -56,6 +57,7 @@ int main()
 	}
     //fgets( pArticle, 2000, fp ); //从文件中输入 n - 1个字符, 第n个'\0'
 	char ch;
+	
 	for(int i = 0;  i < 3000 && (fin.get(ch) != 0); i++)
 	{
 		cout << ch;

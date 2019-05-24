@@ -1,115 +1,134 @@
 Open file Output.txt successfully.
 Open file Input.txt successfully.
 
-Proud of You
-by Fiona Fung(HK)
-
-Love in your eyes 
-Sitting silent by my side 
-Going on Holding hand 
-Walking through the nights 
-
-Hold me up Hold me tight 
-Lift me up to touch the sky 
-Teaching me to love with heart 
-Helping me open my mind 
-
-I can fly 
-I'm proud that I can fly 
-To give the best of mine 
-Till the end of the time 
-
-Believe me I can fly 
-I'm proud that I can fly 
-To give the best of mine 
-The heaven in the sky* 
-
-Stars in the sky 
-Wishing once upon a time 
-Give me love Make me smile 
-Till the end of life 
-
-Hold me up Hold me tight 
-Lift me up to touch the sky 
-Teaching me to love with heart 
-Helping me open my mind 
-
-I can fly 
-I'm proud that I can fly 
-To give the best of mine 
-Till the end of the time 
-
-Believe me I can fly 
-I'm proud that I can fly 
-To give the best of mine 
-The heaven in the sky*
-
-Can't you believe that you light up my way 
-No matter how that ease my path 
-I'll never lose my faith 
-
-See me fly 
-I'm proud to fly up high 
-Show you the best of mine 
-Till the end of the time 
-
-Believe me I can fly 
-I'm singing in the sky 
-Show you the best of mine 
-The heaven in the sky 
-
-Nothing can stop me 
-Spread my wings so wide
+    Shanghai has in recent years unveiled several measures to facilitate foreigners obtain entrepreneur visas and set up startups to encourage them to launch their business plans in the city.
+    Since mid-2015, foreigners graduating from Chinese universities and staying in Shanghai for their business plans have been allowed to apply for an entrepreneur visa, which lets them stay in the country and start their business within a year.
+   These measures are part of Shanghai's ambitious goal of becoming a global hub for science and technology by 2030.
+    In August, the city also began to issue entrepreneur visas to those who graduated from well-known universities overseas within the past two years and had an innovative entrepreneurial plan in Shanghai.
+    "As visa types continue to play a role in facilitating expats to carry out their venture plans in Shanghai, the city has basically formed an environment to attract global talent to showcase their innovative capabilities," said Lin Qian, general manager of Kudosbay, a startup service provider for foreigners based in Shanghai's Songjiang Economic and Technological Development Zone since 2017.
+    Some foreign entrepreneurs said incubators in the city played a helpful role in pushing forward their business plan from zero to one.
+    Barbara Vaccaro from Italy, who started her business "Barbara Art Studio" in Shanghai in January, said the incubator helped her understand all the paperwork about the license and visa application.
+    "It also introduced us to the right business opportunities and helped us build more connections with the industry," said Barbara, who relocated to Shanghai six years ago.
+    Although official figure of businesses launched by expats in the city is unavailable, there are around 600 such companies in Yangpu district, the municipality's demonstration zone of mass entrepreneurship and innovation.
+    Latest official statistics showed that more than 210,000 expats hailing from 167 countries and regions are working in Shanghai, the largest number among Chinese cities and accounting for nearly 25 percent of the national total.
 
 
-
-There are105key words in the article without caring about redundance.
-There are48key words in the article after geting rid of redundance.
-eas occurrence: 1
-end occurrence: 4
-ey occurrence: 1
-faith occurrence: 1
-fiona occurrence: 1
-fly occurrence: 11
-fung occurrence: 1
-give occurrence: 5
-hand occurrence: 1
-heart occurrence: 2
-heaven occurrence: 3
-help occurrence: 2
-high occurrence: 1
-hk occurrence: 1
-hold occurrence: 5
-life occurrence: 1
-lift occurrence: 2
-light occurrence: 1
-ll occurrence: 1
-lose occurrence: 1
-love occurrence: 4
-make occurrence: 1
-matter occurrence: 1
-mind occurrence: 2
-mine occurrence: 6
-night occurrence: 1
-open occurrence: 2
-path occurrence: 1
-proud occurrence: 6
-show occurrence: 2
-side occurrence: 1
-silent occurrence: 1
-sing occurrence: 1
-sit occurrence: 1
-sky occurrence: 7
-smile occurrence: 1
-spread occurrence: 1
-star occurrence: 1
-stop occurrence: 1
-teach occurrence: 2
-tight occurrence: 2
-till occurrence: 4
-time occurrence: 4
-touch occurrence: 2
-walk occurrence: 1
-wing occurrence: 1
-wish occurrence: 1
-wide occurrence: 1
+There are178key words in the article without caring about redundance.
+There are117key words in the article after geting rid of redundance.
+000 occurrence: 1
+167 occurrence: 1
+2015 occurrence: 1
+2017 occurrence: 1
+2030 occurrence: 1
+210 occurrence: 1
+600 occurrence: 1
+account occurrence: 1
+ago occurrence: 1
+allow occurrence: 1
+ambiti occurrence: 1
+appli occurrence: 1
+applic occurrence: 1
+art occurrence: 1
+attract occurrence: 1
+august occurrence: 1
+barbara occurrence: 3
+base occurrence: 1
+basic occurrence: 1
+began occurrence: 1
+build occurrence: 1
+busi occurrence: 7
+capabl occurrence: 1
+carri occurrence: 1
+chines occurrence: 2
+citi occurrence: 6
+compani occurrence: 1
+connect occurrence: 1
+continu occurrence: 1
+countri occurrence: 2
+demonstr occurrence: 1
+develop occurrence: 1
+district occurrence: 1
+econom occurrence: 1
+encourag occurrence: 1
+entrepreneur occurrence: 4
+entrepreneuri occurrence: 1
+entrepreneurshiÌ occurrence: 1
+environ occurrence: 1
+expat occurrence: 3
+facilit occurrence: 2
+figur occurrence: 1
+foreign occurrence: 4
+form occurrence: 1
+forward occurrence: 1
+gener occurrence: 1
+global occurrence: 2
+goal occurrence: 1
+graduat occurrence: 2
+hail occurrence: 1
+help occurrence: 3
+hub occurrence: 1
+incub occurrence: 2
+industri occurrence: 1
+innov occurrence: 3
+introduc occurrence: 1
+issu occurrence: 1
+itali occurrence: 1
+januari occurrence: 1
+kudosbai occurrence: 1
+largest occurrence: 1
+latest occurrence: 1
+launch occurrence: 2
+let occurrence: 1
+licens occurrence: 1
+lin occurrence: 1
+manag occurrence: 1
+mass occurrence: 1
+measur occurrence: 2
+mid occurrence: 1
+municip occurrence: 1
+nation occurrence: 1
+number occurrence: 1
+obtain occurrence: 1
+offici occurrence: 2
+opportun occurrence: 1
+oversea occurrence: 1
+paperwork occurrence: 1
+part occurrence: 1
+past occurrence: 1
+percent occurrence: 1
+plai occurrence: 2
+plan occurrence: 5
+provid occurrence: 1
+push occurrence: 1
+qian occurrence: 1
+recent occurrence: 1
+region occurrence: 1
+reloc occurrence: 1
+role occurrence: 2
+scienc occurrence: 1
+servic occurrence: 1
+set occurrence: 1
+shanghai occurrence: 9
+show occurrence: 1
+showcas occurrence: 1
+songjiang occurrence: 1
+stai occurrence: 2
+start occurrence: 2
+startup occurrence: 2
+statist occurrence: 1
+studio occurrence: 1
+talent occurrence: 1
+technolog occurrence: 2
+type occurrence: 1
+unavail occurrence: 1
+understand occurrence: 1
+univers occurrence: 2
+unveil occurrence: 1
+vaccaro occurrence: 1
+ventur occurrence: 1
+visa occurrence: 5
+work occurrence: 1
+yangpu occurrence: 1
+year occurrence: 4
+zone occurrence: 2
+total occurrence: 1

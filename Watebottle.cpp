@@ -11,7 +11,9 @@
 #include <iostream>
 #include <cstdlib>
 #include <cstring>
+#include <cmath>
 #include <cstdio>
+#include <iomanip>
 #include "EMAParser.h"
 #include "EMA.h"
 #include "SParser.h"
@@ -20,16 +22,31 @@
 
 using namespace std;
 
+const int FileNum = 40;
+static int Maxkeyfrequence = 1;//改成了1，至少会有1个频度为1的关键词。
+
 typedef struct 
 {
 	char  key[_MAXLEN]; //Limite the length (< 10) of key word 
 	int iKeyCnt;  //The times the key occurs
+
 }ELEM;
 
+typedef struct
+{
+	ELEM ele[1000];
+	int elems;
+	float tf[1000];
+	float idf[1000];
+	float tf_idf[1000];
+}KEYS;
+
+static KEYS tfidf[FileNum];
 
 int IsKeyExist(ELEM*, int , char*);  //Prototype
 void DealKeyWord(ELEM*, int&, char*);//Prototype
 void SortbyKey(ELEM*, int);//Prototype
+void tf_idf(KEYS tfidf[FileNum]);
 
 int main()
 {
@@ -45,8 +62,8 @@ int main()
 	  cout << "Open file Output.txt successfully." << endl;
 	  fout << "Open file Output.txt successfully." << endl;
 	} 
-	//此处修改,用循环的方式依次读入40个文件。如果读不进去就报错退出。
-	for(int n=0;n<40;n++)
+	//此处修改,用循环的方式依次读入FileNum个文件。如果读不进去就报错退出。
+	for(int n=0;n<FileNum;n++)
 	{
 		char filename[10];
 		memset(filename,0,sizeof(filename));
@@ -85,7 +102,6 @@ int main()
 		fout << "\n\nThere are " << kn << " key words in the article " << n << " without caring about redundance.\n";
 		char * pKey;
 		ELEM pElem[1000];  // Limite the key words less than 500
-		int Maxkeyfrequence = 0;
 		int iElemCnt = 0;
 		for( int j = 0; j < kn; j++ )
 		{
@@ -97,11 +113,17 @@ int main()
 		fout << "There are " << iElemCnt << " key words in the article " << n << "  after geting rid of redundance.\n";
 		for( int m = 0; m < iElemCnt; m++ )
 		{
+			strcpy(tfidf[n].ele[m].key , pElem[ m ].key);
+			tfidf[n].tf[m] = (float)pElem[m].iKeyCnt / Maxkeyfrequence;
 			cout << pElem[ m ].key << " occurrence: " << pElem[ m ].iKeyCnt << endl;
 			fout << pElem[ m ].key << " occurrence: " << pElem[ m ].iKeyCnt << endl;
 		}
+
 		cout<<"-------------------------------------------"<<endl;
 		fout<<"-------------------------------------------"<<endl;
+
+		cout << "Max key frequence is " << Maxkeyfrequence << endl;
+		fout << "Max key frequence is " << Maxkeyfrequence << endl;
 
 		cout<<"!!!CONGRATULATIONS!!!"<<endl;
 		fout<<"!!!CONGRATULATIONS!!!"<<endl;
@@ -115,7 +137,10 @@ int main()
 		cout<<"-------------------------------------------"<<endl;
 		fout<<"-------------------------------------------"<<endl;
 
+		Maxkeyfrequence = 1; //一篇分析结束 重置最大频率
+		tfidf[n].elems = iElemCnt;
 	}
+	tf_idf(tfidf);
    	fout.close();
     return 0;
 }
@@ -133,8 +158,12 @@ int IsKeyExist(ELEM* pElem, int iElemCnt, char* pKey)
 void DealKeyWord( ELEM* pElem, int& iElemCnt, char* pKey )
 {
 	int iIndex = IsKeyExist( pElem, iElemCnt, pKey );
-	if( iIndex > -1 ) // if it exists
-	   pElem[iIndex].iKeyCnt++;
+	if (iIndex > -1) // if it exists
+	{
+		pElem[iIndex].iKeyCnt++;
+		if (pElem[iIndex].iKeyCnt > Maxkeyfrequence)
+			Maxkeyfrequence = pElem[iIndex].iKeyCnt;
+	}
 	else    
 	{
 	/*	
@@ -154,12 +183,60 @@ void SortbyKey( ELEM *pElem, int iElemCnt ) //Sort by key word
 	for( int i = 1; i <= iElemCnt; i++ )
 		for( int j = 0; j < iElemCnt - i - 1; j++ )
 		{
-			if(strcmp(pElem[ j ].key, pElem[ j + 1 ].key) > 0)
+			if(strcmp(pElem[ j ].key, pElem[ j + 1 ].key) > 0)//首字母大小排序
 			{
 				ELEM temp = pElem[j + 1];
 			    pElem[j + 1] = pElem[j];
 				pElem[j] = temp;
 			}
+		}
+}
+
+void tf_idf(KEYS tfidf[FileNum])
+{
+	ofstream fout("Output.txt");
+	cout.fill(' ');
+	for (int x = 0; x < FileNum; x++)
+		{
+			int df = 0;
+			for (int y = 0; y < tfidf[x].elems; y++)
+			{
+				char * idfkey_now = new char[_MAXLEN];
+				char * idfkey_other = new char[_MAXLEN];
+				idfkey_now = tfidf[x].ele[y].key;
+				for (int x1 = 0; x1 < FileNum; x1++) 
+				{
+					if (x1 == x) continue;
+					for (int y1 = 0; y1 < tfidf[x].elems; y1++)
+					{
+						idfkey_other = tfidf[x1].ele[y1].key;
+						if (strcmp(idfkey_now, idfkey_other) == 0)
+						{
+							df++;
+							break;
+						}
+					}
+				}
+				tfidf[x].idf[y] = log((float)FileNum / df+1)/log(2);
+				tfidf[x].tf_idf[y] = tfidf[x].tf[y] * tfidf[x].idf[y];
+				cout <<setiosflags(ios::fixed)<<"In file "<< x <<setw(16)<< tfidf[x].ele[y].key <<"'s tf= "<< tfidf[x].tf[y] <<setw(8)<<" idf= "<< tfidf[x].idf[y] <<setw(8)<<" tf-idf= "<< tfidf[x].tf_idf[y] <<endl;
+				fout <<setiosflags(ios::fixed)<<"In file "<< x <<setw(16)<< tfidf[x].ele[y].key <<"'s tf= "<< tfidf[x].tf[y] <<setw(8)<<" idf= "<< tfidf[x].idf[y] <<setw(8)<<" tf-idf= "<< tfidf[x].tf_idf[y] <<endl;
+			}
+			cout<<"-------------------------------------------"<<endl;
+			fout<<"-------------------------------------------"<<endl;
+
+			cout<<"!!!CONGRATULATIONS!!!"<<endl;
+			fout<<"!!!CONGRATULATIONS!!!"<<endl;
+
+			cout<<"Atricle "<<x<<" has already been processed."<<endl;
+			fout<<"Atricle "<<x<<" has already been processed."<<endl;
+
+			cout<<"Program Continue..."<<endl;
+			fout<<"Program Continue..."<<endl;
+
+			cout<<"-------------------------------------------"<<endl;
+			fout<<"-------------------------------------------"<<endl;
+			
 		}
 }
 	

@@ -11,18 +11,23 @@
 #include <iostream>
 #include <cstdlib>
 #include <cstring>
+#include <vector>
 #include <cmath>
 #include <cstdio>
 #include <iomanip>
 #include "EMAParser.h"
 #include "EMA.h"
 #include "SParser.h"
-#include "KMEANS.h"
+
 #define _MAXLEN 15
+#define K 4;		//分簇数量
+#define KMEANS_KEY 5; //每篇文章取出多少关键字进行分析
+
 
 using namespace std;
 
 const int FileNum = 40;
+
 static int Maxkeyfrequence = 1;//改成了1，至少会有1个频度为1的关键词。
 
 typedef struct 
@@ -41,12 +46,17 @@ typedef struct
 	float tf_idf[1000];
 }KEYS;
 
-static KEYS tfidf[FileNum];
+typedef struct
+{
+	vector
+}KMEANS;
+
+KEYS tfidf[FileNum];
 
 int IsKeyExist(ELEM*, int , char*);  //Prototype
 void DealKeyWord(ELEM*, int&, char*);//Prototype
 void SortbyKey(ELEM*, int);//Prototype
-void tf_idf(KEYS tfidf[FileNum]);
+void tf_idf_wrk(KEYS tfidf[FileNum]);
 
 int main()
 {
@@ -80,7 +90,7 @@ int main()
 			cout << "Open file " << n << ".txt successfully.\n" << endl;
 			fout << "Open file " << n << ".txt successfully.\n" << endl;
 		}
-			char ch;
+			char ch='0';
 	
 		for(int i = 0;  i < 3000 && (fin.get(ch) != 0); i++)
 		{
@@ -120,7 +130,7 @@ int main()
 		}
 
 		cout<<"-------------------------------------------"<<endl;
-		fout<<"-------------------------------------------"<<endl;
+		fout<<"------------------------------------rk-w---"<<endl;
 
 		cout << "Max key frequence is " << Maxkeyfrequence << endl;
 		fout << "Max key frequence is " << Maxkeyfrequence << endl;
@@ -135,12 +145,12 @@ int main()
 		fout<<"Program Continue..."<<endl;
 
 		cout<<"-------------------------------------------"<<endl;
-		fout<<"-------------------------------------------"<<endl;
+		fout<<"-----2019-5-25---------edit-at-3:37--------"<<endl;
 
 		Maxkeyfrequence = 1; //一篇分析结束 重置最大频率
 		tfidf[n].elems = iElemCnt;
 	}
-	tf_idf(tfidf);
+	tf_idf_wrk(tfidf);
    	fout.close();
     return 0;
 }
@@ -168,6 +178,7 @@ void DealKeyWord( ELEM* pElem, int& iElemCnt, char* pKey )
 	{
 	/*	
 		int length = strlen(pKey); 
+		i am 1033180218 wrk;
 		length = (length < 10 ? length: 10);
 		strncpy(pElem[iElemCnt].key, pKey, length);	
 		pElem[iElemCnt].key[length] = '\0';
@@ -192,17 +203,19 @@ void SortbyKey( ELEM *pElem, int iElemCnt ) //Sort by key word
 		}
 }
 
-void tf_idf(KEYS tfidf[FileNum])
+void tf_idf_wrk(KEYS tfidf[FileNum])
 {
-	ofstream fout("Output.txt");
+	int df = 0;
+	char * idfkey_now = new char[_MAXLEN];
+	char * idfkey_other = new char[_MAXLEN];
+
+	ofstream fout("Output.txt",ios::out|ios::app);
 	cout.fill(' ');
 	for (int x = 0; x < FileNum; x++)
 		{
-			int df = 0;
 			for (int y = 0; y < tfidf[x].elems; y++)
 			{
-				char * idfkey_now = new char[_MAXLEN];
-				char * idfkey_other = new char[_MAXLEN];
+				df = 0;
 				idfkey_now = tfidf[x].ele[y].key;
 				for (int x1 = 0; x1 < FileNum; x1++) 
 				{
@@ -217,11 +230,12 @@ void tf_idf(KEYS tfidf[FileNum])
 						}
 					}
 				}
-				tfidf[x].idf[y] = log((float)FileNum / df+1)/log(2);
+				tfidf[x].idf[y] = log( (float)FileNum / (1+df) )   /   log(2);
 				tfidf[x].tf_idf[y] = tfidf[x].tf[y] * tfidf[x].idf[y];
-				cout <<setiosflags(ios::fixed)<<"In file "<< x <<setw(16)<< tfidf[x].ele[y].key <<"'s tf= "<< tfidf[x].tf[y] <<setw(8)<<" idf= "<< tfidf[x].idf[y] <<setw(8)<<" tf-idf= "<< tfidf[x].tf_idf[y] <<endl;
-				fout <<setiosflags(ios::fixed)<<"In file "<< x <<setw(16)<< tfidf[x].ele[y].key <<"'s tf= "<< tfidf[x].tf[y] <<setw(8)<<" idf= "<< tfidf[x].idf[y] <<setw(8)<<" tf-idf= "<< tfidf[x].tf_idf[y] <<endl;
+				cout <<setiosflags(ios::fixed)<<"In file "<< x <<setw(16)<< tfidf[x].ele[y].key <<"'s tf= "<<setw(10)<< tfidf[x].tf[y] <<" idf= "<<setw(10)<< tfidf[x].idf[y] <<" tf-idf= "<<setw(10)<< tfidf[x].tf_idf[y] <<endl;
+				fout <<setiosflags(ios::fixed)<<"In file "<< x <<setw(16)<< tfidf[x].ele[y].key <<"'s tf= "<<setw(10)<< tfidf[x].tf[y] <<" idf= "<<setw(10)<< tfidf[x].idf[y] <<" tf-idf= "<<setw(10)<< tfidf[x].tf_idf[y] <<endl;
 			}
+			
 			cout<<"-------------------------------------------"<<endl;
 			fout<<"-------------------------------------------"<<endl;
 
@@ -235,8 +249,29 @@ void tf_idf(KEYS tfidf[FileNum])
 			fout<<"Program Continue..."<<endl;
 
 			cout<<"-------------------------------------------"<<endl;
-			fout<<"-------------------------------------------"<<endl;
+			fout<<"-------------------------------------Rk-W--"<<endl;
 			
 		}
 }
+
+#if 0
+
+void kmeans()
+{
+	double tf_idf = 0;
+	for (int x = 0; x < FileNum; x++)
+	{
+		for(int keys = 0; keys < KMEANS_KEY; keys++)
+		{
+			for (int y = 0; y < tfidf[x].elems; y++)
+			{
+				if( tfidf[x].tf_idf[y] > tf_idf)
+					tf_idf = tfidf[x].tf_idf[y];
+			}
+		}
+	}
+				
+
+}
 	
+#endif

@@ -101,10 +101,6 @@ SOURCE=.\SParser.cpp
 # End Source File
 # Begin Source File
 
-SOURCE=".\TF-IDF.CPP"
-# End Source File
-# Begin Source File
-
 SOURCE=.\Watebottle.cpp
 # End Source File
 # End Group

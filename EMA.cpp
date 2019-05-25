@@ -135,6 +135,7 @@ const char * EMA_searchStopword(register const char *str, register unsigned int 
       "only",
       "obviously",
       "five",
+	  //·À³­Ï® ×÷ÕßÍõî£¿µ
       "unto",
       "furthermore",
       "re",

@@ -21,12 +21,13 @@
 
 #define _MAXLEN 15
 #define K 4;		//分簇数量
-#define KMEANS_KEY 5; //每篇文章取出多少关键字进行分析
+
 
 
 using namespace std;
 
 const int FileNum = 40;
+const int KMEANS_KEY = 5; //每篇文章取出多少关键字进行分析
 
 static int Maxkeyfrequence = 1;//改成了1，至少会有1个频度为1的关键词。
 
@@ -48,15 +49,21 @@ typedef struct
 
 typedef struct
 {
-	vector
+	char key_words[KMEANS_KEY][_MAXLEN];
+	vector<float> tf_idf;
+	vector<vector<float> > tfidf_matrix;
 }KMEANS;
 
+
 KEYS tfidf[FileNum];
+KMEANS kmeans;
+
 
 int IsKeyExist(ELEM*, int , char*);  //Prototype
 void DealKeyWord(ELEM*, int&, char*);//Prototype
 void SortbyKey(ELEM*, int);//Prototype
 void tf_idf_wrk(KEYS tfidf[FileNum]);
+void kmeans_analyze();
 
 int main()
 {
@@ -254,20 +261,32 @@ void tf_idf_wrk(KEYS tfidf[FileNum])
 		}
 }
 
-#if 0
+#if 1
 
-void kmeans()
+void kmeans_analyze()
 {
 	double tf_idf = 0;
+	double tf_idf_max = -1;
+	char  tempkey[_MAXLEN];
+
 	for (int x = 0; x < FileNum; x++)
 	{
-		for(int keys = 0; keys < KMEANS_KEY; keys++)
+		for(int key = 0; key < KMEANS_KEY; key++)
 		{
 			for (int y = 0; y < tfidf[x].elems; y++)
 			{
+				if( tf_idf == tf_idf_max )
+					continue;
 				if( tfidf[x].tf_idf[y] > tf_idf)
+				{
 					tf_idf = tfidf[x].tf_idf[y];
+					strcpy(tempkey,tfidf[x].ele[y].key);	
+				}
 			}
+			kmeans.tfidf_matrix[x][key] = tf_idf;
+			strcpy(kmeans.key_words[x],tempkey);
+			tf_idf_max = tf_idf;
+			tf_idf = 0;
 		}
 	}
 				

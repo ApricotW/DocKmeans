@@ -21,3 +21,1830 @@ delegates said.
 
 There are 54 key words in the article 0 without caring about redundance.
 There are 39 key words in the article 0  after geting rid of redundance.
+april occurrence: 2
+bag occurrence: 1
+basi occurrence: 2
+coffe occurrence: 3
+consum occurrence: 1
+contact occurrence: 1
+countri occurrence: 1
+deleg occurrence: 2
+distribut occurrence: 2
+earlier occurrence: 1
+even occurrence: 1
+export occurrence: 1
+firm occurrence: 1
+futur occurrence: 1
+group occurrence: 1
+ico occurrence: 4
+includ occurrence: 1
+intern occurrence: 1
+meet occurrence: 1
+mln occurrence: 1
+month occurrence: 1
+negoti occurrence: 1
+organ occurrence: 1
+postpon occurrence: 1
+present occurrence: 2
+produc occurrence: 3
+propos occurrence: 3
+quota occurrence: 2
+redistribut occurrence: 1
+reintroduc occurrence: 1
+resumpt occurrence: 1
+schedul occurrence: 1
+septemb occurrence: 1
+shortfal occurrence: 1
+tomorrow occurrence: 1
+total occurrence: 1
+unchang occurrence: 1
+undertak occurrence: 1
+reuter occurrence: 1
+------------------------------------rk-w---
+Max key frequence is 4
+!!!CONGRATULATIONS!!!
+Atricle 0 has already been processed.
+Program Continue...
+-----2019-5-25---------edit-at-3:37--------
+Open file 1.txt successfully.
+
+coffee
+ICO EXPORTERS TO MODIFY NEW PROPOSAL
+International Coffee Organization (ICO)
+exporters will modify their new proposal on quota resumption
+before presenting it to importers tomorrow, ICO delegates said.
+    The change, which will be discussed tonight informally
+among producers, follows talks after the formal producer
+session with the eight-member producer splinter group and will
+affect the proposed quota distribution for 12 months from April
+one, they said.
+    The proposed share-out would still include shortfall
+declarations, they said.
+ Reuter
+
+
+
+
+There are 44 key words in the article 1 without caring about redundance.
+There are 33 key words in the article 1  after geting rid of redundance.
+affect occurrence: 1
+april occurrence: 1
+chang occurrence: 1
+coffe occurrence: 2
+declar occurrence: 1
+deleg occurrence: 1
+discuss occurrence: 1
+distribut occurrence: 1
+export occurrence: 2
+formal occurrence: 1
+group occurrence: 1
+ico occurrence: 3
+import occurrence: 1
+includ occurrence: 1
+inform occurrence: 1
+intern occurrence: 1
+member occurrence: 1
+modifi occurrence: 2
+month occurrence: 1
+organ occurrence: 1
+present occurrence: 1
+produc occurrence: 3
+propos occurrence: 4
+quota occurrence: 2
+resumpt occurrence: 1
+session occurrence: 1
+share occurrence: 1
+shortfal occurrence: 1
+splinter occurrence: 1
+talk occurrence: 1
+tomorrow occurrence: 1
+tonight occurrence: 1
+reuter occurrence: 1
+------------------------------------rk-w---
+Max key frequence is 4
+!!!CONGRATULATIONS!!!
+Atricle 1 has already been processed.
+Program Continue...
+-----2019-5-25---------edit-at-3:37--------
+Open file 2.txt successfully.
+
+coffee
+PRODUCER SPLIT HEATS UP COFFEE QUOTA TALKS
+Talks on the possibility of reintroducing
+global coffee export quotas have been extended into today, with
+sparks flying yesterday when a dissident group of exporters was
+not included in a key negotiating forum.
+    The special meeting of the International Coffee
+Organization (ICO) council was called to find a way to stop a
+prolonged slide in coffee prices.
+    However, delegates said no solution to the question of how
+to implement quotas was yet in sight.
+    World coffee export quotas -- the major device used to
+regulate coffee prices under the International Coffee Agreement
+-- were suspended a year ago when prices soared in reaction to
+a drought which cut Brazil"s output by nearly two thirds.
+    Brazil is the world"s largest coffee producer and exporter.
+    Producers and consumers now are facing off over the
+question of how quotas should be calculated under any future
+quota distribution scheme, delegates said.
+    Tempers flared late Saturday when a minority group of eight
+producing countries was not represented in a contact group of
+five producer and five consumer delegates plus alternates which
+was set up to facilitate debate.
+    The big producers "want to have the ball only in their court
+and it isn"t fair," minority producer spokesman Luis Escalante of
+Costa Rica said.
+    The majority producer group has proposed resuming quotas
+April 1, using the previous ad hoc method of carving up quota
+shares, with a promise to try to negotiate basic quotas before
+September 30, delegates said.
+    Their plan would perpetuate the status quo, allowing Brazil
+to retain almost all of its current 30 pct share of the export
+market, Colombia 17 pct, Ivory Coast seven pct and Indonesia
+six pct, with the rest divided among smaller exporters.
+    But consuming countries and the dissident producer group
+have tabled separate proposals requiring quotas be determined
+by availability, using a formula incorporating exportable
+production and stocks statistics.
+    Their proposals would give Brazil a smaller quota share and
+Colombia and Indonesia a larger share, and bring a new quota
+distribution scheme into effect now rather than later.
+    Brazil has so far been unwilling to accept any proposal
+that would reduce its quota share, delegates said.
+    Delegates would not speculate on prospects for agreement on
+a quota package. "Anything is possible at this phase," even
+adjournment of the meeting until March or April, one said.
+    If the ICO does agree on quotas, the price of coffee on the
+supermarket shelf is not likely to change sinnificantly as a
+result, industry sources said.
+    Retail coffee prices over the past year have remained about
+steady even though coffee market prices have tumbled, so an
+upswing probably will not be passed onto the consumer either,
+they said.
+ REUTER
+
+
+
+
+There are 239 key words in the article 2 without caring about redundance.
+There are 149 key words in the article 2  after geting rid of redundance.
+accept occurrence: 1
+ad occurrence: 1
+adjourn occurrence: 1
+ago occurrence: 1
+agre occurrence: 1
+agreement occurrence: 2
+allow occurrence: 1
+altern occurrence: 1
+april occurrence: 2
+avail occurrence: 1
+ball occurrence: 1
+basic occurrence: 1
+big occurrence: 1
+brazil occurrence: 5
+bring occurrence: 1
+calcul occurrence: 1
+call occurrence: 1
+carv occurrence: 1
+chang occurrence: 1
+coast occurrence: 1
+coffe occurrence: 12
+colombia occurrence: 2
+consum occurrence: 4
+contact occurrence: 1
+costa occurrence: 1
+council occurrence: 1
+countri occurrence: 2
+court occurrence: 1
+current occurrence: 1
+cut occurrence: 1
+debat occurrence: 1
+deleg occurrence: 6
+determin occurrence: 1
+devic occurrence: 1
+dissid occurrence: 2
+distribut occurrence: 2
+divid occurrence: 1
+drought occurrence: 1
+effect occurrence: 1
+escalant occurrence: 1
+export occurrence: 7
+extend occurrence: 1
+face occurrence: 1
+facilit occurrence: 1
+fair occurrence: 1
+find occurrence: 1
+flare occurrence: 1
+fly occurrence: 1
+formula occurrence: 1
+forum occurrence: 1
+futur occurrence: 1
+give occurrence: 1
+global occurrence: 1
+group occurrence: 5
+heat occurrence: 1
+hoc occurrence: 1
+ico occurrence: 2
+implement occurrence: 1
+includ occurrence: 1
+incorpor occurrence: 1
+indonesia occurrence: 2
+industri occurrence: 1
+intern occurrence: 2
+isn occurrence: 1
+ivori occurrence: 1
+kei occurrence: 1
+larger occurrence: 1
+largest occurrence: 1
+late occurrence: 1
+lui occurrence: 1
+major occurrence: 2
+march occurrence: 1
+market occurrence: 2
+meet occurrence: 2
+method occurrence: 1
+minor occurrence: 2
+negoti occurrence: 2
+organ occurrence: 1
+output occurrence: 1
+packag occurrence: 1
+pass occurrence: 1
+past occurrence: 1
+pct occurrence: 4
+perpetu occurrence: 1
+phase occurrence: 1
+plan occurrence: 1
+possibl occurrence: 1
+previou occurrence: 1
+price occurrence: 6
+produc occurrence: 9
+product occurrence: 1
+prolong occurrence: 1
+promis occurrence: 1
+propos occurrence: 4
+prospect occurrence: 1
+question occurrence: 2
+quo occurrence: 1
+quota occurrence: 15
+reaction occurrence: 1
+reduc occurrence: 1
+regul occurrence: 1
+reintroduc occurrence: 1
+remain occurrence: 1
+repres occurrence: 1
+requir occurrence: 1
+rest occurrence: 1
+result occurrence: 1
+resum occurrence: 1
+retail occurrence: 1
+retain occurrence: 1
+rica occurrence: 1
+saturdai occurrence: 1
+scheme occurrence: 2
+separ occurrence: 1
+septemb occurrence: 1
+set occurrence: 1
+share occurrence: 5
+shelf occurrence: 1
+sight occurrence: 1
+sinnificantli occurrence: 1
+slide occurrence: 1
+smaller occurrence: 2
+soar occurrence: 1
+solut occurrence: 1
+sourc occurrence: 1
+spark occurrence: 1
+special occurrence: 1
+specul occurrence: 1
+split occurrence: 1
+spokesman occurrence: 1
+statist occurrence: 1
+statu occurrence: 1
+steadi occurrence: 1
+stock occurrence: 1
+stop occurrence: 1
+supermarket occurrence: 1
+suspend occurrence: 1
+tabl occurrence: 1
+talk occurrence: 2
+temper occurrence: 1
+third occurrence: 1
+todai occurrence: 1
+tumbl occurrence: 1
+unwil occurrence: 1
+upsw occurrence: 1
+world occurrence: 2
+year occurrence: 2
+yesterdai occurrence: 1
+reuter occurrence: 1
+------------------------------------rk-w---
+Max key frequence is 15
+!!!CONGRATULATIONS!!!
+Atricle 2 has already been processed.
+Program Continue...
+-----2019-5-25---------edit-at-3:37--------
+Open file 3.txt successfully.
+
+grain wheat rice veg-oil soybean sugar rubber copra-cake corn palm-oil palmkernel coffee tea plywood soy-meal cotton
+INDONESIAN AGRICULTURE GROWTH EXPECTED TO SLOW
+Indonesia"s agriculture sector will grow
+by just 1.0 pct in calendar 1987, against an estimated 2.4 pct
+in 1986 as the production of some commodities stagnates or
+declines, the U.S. Embassy said in a report.
+    Production of Indonesia"s staple food, rice, is forecast to
+fall to around 26.3 mln tonnes from an embassy estimate of
+26.58 mln tonnes in 1986, according to the annual report on
+Indonesia"s agricultural performance.
+    The government officially estimates 1986 rice production at
+26.7 mln tonnes, with a forecast 27.3 mln tonnes output in
+1987.
+    The report says wheat imports are likely to fall to 1.5 mln
+tonnes in calendar 1987 from 1.69 mln tonnes in 1986 because of
+a drawdown on stocks.
+    "Growth prospects for agriculture in 1987 do not look
+promising as rice production is forecast to decline and the
+production of sugarcane, rubber and copra show little or no
+gain," the report says.
+    "The modest overall increase which is expected will be due
+to significant gains in production of corn soybeans, palm oil
+and palm kernels."
+    Constraints to significant overall increases in
+agricultural output include a shortage of disease resistant
+seeds, limited fertile land, insect pests and a reluctance by
+farmers to shift from rice production to other crops, the
+report underlines.
+    The fall in rice production is caused by an outbreak of
+pests known as "wereng" or brown plant hoppers in 1986 which
+largely offset gains in yields.
+    The outbreak has forced the government to ban the use of 57
+insecticides on rice because it was believed the wereng are now
+resistant to these varieties, and to use lower-yielding, more
+resistant rice types.
+    The government is depending on increased production of
+export commodities such as coffee, tea, rubber, plywood and
+palm oil to offset revenue losses brought on by falling crude
+oil prices.
+    Palm oil production is expected to increase by over 7.0 pct
+in 1987 to 1.45 mln tonnes from 1.35 mln, with exports rising
+to an estimated 720,000 tonnes from 695,000 tonnes in 1986, the
+report says.
+    But while production of soybeans in 1987/88 (Oct-Sept) will
+rise to 1.075 mln tonnes from 980,000 in 1986/87, imports will
+also rise to supply a new soybean crushing plant.
+    The report says that imports of wheat, soybeans, soybean
+meal and cotton are not likely to decline as a result of last
+September"s 31 pct devaluation of the rupiah because of a rise
+in domestic demand.
+    The report said that Indonesia"s overall economic
+performance in calendar 1986 was about zero or even a slight
+negative growth rate, the lowest rate of growth since the
+mid-1960s. It compares with 1.9 pct growth in 1985 and 6.7 pct
+in 1984.
+    The dramatic fall in oil prices last year was responsible
+for the slump.
+ REUTER
+
+
+
+
+There are 272 key words in the article 3 without caring about redundance.
+There are 132 key words in the article 3  after geting rid of redundance.
+000 occurrence: 3
+075 occurrence: 1
+1960s occurrence: 1
+1984 occurrence: 1
+1985 occurrence: 1
+1986 occurrence: 8
+1987 occurrence: 6
+695 occurrence: 1
+720 occurrence: 1
+980 occurrence: 1
+agricultur occurrence: 5
+annual occurrence: 1
+ban occurrence: 1
+believ occurrence: 1
+brought occurrence: 1
+brown occurrence: 1
+cake occurrence: 1
+calendar occurrence: 3
+caus occurrence: 1
+coffe occurrence: 2
+commod occurrence: 2
+compar occurrence: 1
+constraint occurrence: 1
+copra occurrence: 2
+corn occurrence: 2
+cotton occurrence: 2
+crop occurrence: 1
+crude occurrence: 1
+crush occurrence: 1
+declin occurrence: 3
+demand occurrence: 1
+depend occurrence: 1
+devalu occurrence: 1
+diseas occurrence: 1
+domest occurrence: 1
+dramat occurrence: 1
+drawdown occurrence: 1
+due occurrence: 1
+econom occurrence: 1
+embassi occurrence: 2
+estim occurrence: 4
+expect occurrence: 3
+export occurrence: 2
+fall occurrence: 5
+farmer occurrence: 1
+fertil occurrence: 1
+food occurrence: 1
+forc occurrence: 1
+forecast occurrence: 3
+gain occurrence: 3
+govern occurrence: 3
+grain occurrence: 1
+grow occurrence: 1
+growth occurrence: 5
+hopper occurrence: 1
+import occurrence: 3
+includ occurrence: 1
+increas occurrence: 4
+indonesia occurrence: 4
+indonesian occurrence: 1
+insect occurrence: 1
+insecticid occurrence: 1
+kernel occurrence: 1
+land occurrence: 1
+larg occurrence: 1
+limit occurrence: 1
+loss occurrence: 1
+lower occurrence: 1
+lowest occurrence: 1
+meal occurrence: 2
+mid occurrence: 1
+mln occurrence: 9
+modest occurrence: 1
+neg occurrence: 1
+oct occurrence: 1
+offici occurrence: 1
+offset occurrence: 2
+oil occurrence: 7
+outbreak occurrence: 2
+output occurrence: 2
+palm occurrence: 5
+palmkernel occurrence: 1
+pct occurrence: 6
+perform occurrence: 2
+pest occurrence: 2
+plant occurrence: 2
+plywood occurrence: 2
+price occurrence: 2
+product occurrence: 11
+promis occurrence: 1
+prospect occurrence: 1
+rate occurrence: 2
+reluct occurrence: 1
+report occurrence: 8
+resist occurrence: 3
+respons occurrence: 1
+result occurrence: 1
+revenu occurrence: 1
+rice occurrence: 8
+rise occurrence: 4
+rubber occurrence: 3
+rupiah occurrence: 1
+sector occurrence: 1
+seed occurrence: 1
+sept occurrence: 1
+septemb occurrence: 1
+shift occurrence: 1
+shortag occurrence: 1
+show occurrence: 1
+signific occurrence: 2
+slight occurrence: 1
+slow occurrence: 1
+slump occurrence: 1
+soi occurrence: 1
+soybean occurrence: 6
+stagnat occurrence: 1
+stapl occurrence: 1
+stock occurrence: 1
+sugar occurrence: 1
+sugarcan occurrence: 1
+suppli occurrence: 1
+tea occurrence: 2
+tonn occurrence: 10
+type occurrence: 1
+underlin occurrence: 1
+varieti occurrence: 1
+veg occurrence: 1
+wereng occurrence: 2
+wheat occurrence: 3
+year occurrence: 1
+yield occurrence: 2
+reuter occurrence: 1
+------------------------------------rk-w---
+Max key frequence is 11
+!!!CONGRATULATIONS!!!
+Atricle 3 has already been processed.
+Program Continue...
+-----2019-5-25---------edit-at-3:37--------
+Open file 4.txt successfully.
+
+coffee
+COFFEE QUOTA TALKS CONTINUE, NO ACCORD SEEN LIKELY
+The International Coffee Organization
+(ICO ) council talks on reintroducing export quotas continued
+with an extended session lasting late into Sunday night, but
+delegates said prospects for an accord between producers and
+consumers were diminishing by the minute.
+    The special meeting, called to stop the prolonged slide in
+coffee prices, was likely to adjourn sometime tonight without
+agreement, delegates said.
+    The council is expected to agree to reconvene either within
+the next six weeks or in September, they said.
+    The talks foundered on Sunday afternoon when it became
+apparent consumers and producers could not compromise on the
+formula for calculating any future quota system, delegates
+said.
+    Coffee export quotas were suspended a year ago when prices
+soared in response to a drought which cut Brazil's crop by
+nearly two-thirds. Brazil is the world's largest coffee
+producer and exporter.
+ REUTER
+
+
+
+
+There are 82 key words in the article 4 without caring about redundance.
+There are 59 key words in the article 4  after geting rid of redundance.
+accord occurrence: 2
+adjourn occurrence: 1
+afternoon occurrence: 1
+ago occurrence: 1
+agre occurrence: 1
+agreement occurrence: 1
+appar occurrence: 1
+brazil occurrence: 2
+calcul occurrence: 1
+call occurrence: 1
+coffe occurrence: 6
+compromis occurrence: 1
+consum occurrence: 2
+continu occurrence: 2
+council occurrence: 2
+crop occurrence: 1
+cut occurrence: 1
+deleg occurrence: 3
+diminish occurrence: 1
+drought occurrence: 1
+expect occurrence: 1
+export occurrence: 3
+extend occurrence: 1
+formula occurrence: 1
+founder occurrence: 1
+futur occurrence: 1
+ico occurrence: 1
+intern occurrence: 1
+largest occurrence: 1
+last occurrence: 1
+late occurrence: 1
+meet occurrence: 1
+minut occurrence: 1
+night occurrence: 1
+organ occurrence: 1
+price occurrence: 2
+produc occurrence: 3
+prolong occurrence: 1
+prospect occurrence: 1
+quota occurrence: 4
+reconven occurrence: 1
+reintroduc occurrence: 1
+respons occurrence: 1
+septemb occurrence: 1
+session occurrence: 1
+slide occurrence: 1
+soar occurrence: 1
+special occurrence: 1
+stop occurrence: 1
+sundai occurrence: 2
+suspend occurrence: 1
+system occurrence: 1
+talk occurrence: 3
+third occurrence: 1
+tonight occurrence: 1
+week occurrence: 1
+world occurrence: 1
+year occurrence: 1
+reuter occurrence: 1
+------------------------------------rk-w---
+Max key frequence is 6
+!!!CONGRATULATIONS!!!
+Atricle 4 has already been processed.
+Program Continue...
+-----2019-5-25---------edit-at-3:37--------
+Open file 5.txt successfully.
+
+tea cocoa coffee
+INDONESIAN TEA, COCOA EXPORTS SEEN UP, COFFEE DOWN
+Indonesia's exports of tea and cocoa
+will continue to rise in calendar 1987 but coffee exports are
+forecast to dip slightly in 1987/88 (April-March) as the
+government tries to improve quality, the U.S. Embassy said.
+    The embassy's annual report on Indonesian agriculture
+forecast coffee output in 1986/87 would be 5.77 mln bags of 60
+kilograms each. That is slightly less than the 5.8 mln bags
+produced in 1985/86.
+    In 1987/88 coffee production is forecast to rise again to
+5.8 mln bags, but exports to dip to 4.8 mln from around 5.0 mln
+in 1986/87. Exports in 1985/86 were 4.67 mln bags.
+    The embassy report says coffee stocks will rise to 1.3 mln
+tonnes in 1987/88 from 1.15 mln in 1986/87. It bases this on a
+fall in exports as a result of the "probable" re-introduction of
+quotas by the International Coffee Organisation.
+    Cocoa production and exports are forecast to rise steadily
+as the government develops cocoa plantations. Production of
+cocoa in Indonesia increased to 32,378 tonnes in calendar 1985
+from 10,284 tonnes in 1980. It is projected by the government
+to rise to more than 50,000 tonnes by 1988.
+    Production in 1986 is estimated by the embassy at 35,000
+tonnes, as against 38,000 tonnes in 1987.
+    The report forecasts cocoa exports to rise to 35,000 tonnes
+this year, from 33,000 tonnes in 1986 and 31,000 in 1985.
+    The Netherlands is at present the biggest importer of
+Indonesian cocoa beans.
+    The report forecasts that in calendar 1987, Indonesia's CTC
+(crushed, torn and curled) tea exports will increase
+significantly with the coming on stream of at least eight new
+CTC processing plants.
+    Indonesia plans to diversify its tea products by producing
+more CTC tea, the main component of tea bags.
+    Production of black and green teas is forecast in the
+embassy report to rise to 125,000 tonnes in calendar 1987 from
+123,000 tonnes in 1986.
+    Exports of these teas are likely to rise to 95,000 tonnes
+in 1987 from 85,000 in 1986 and around 90,000 in 1985.
+    The embassy noted the ministry of trade tightened quality
+controls on tea in October 1986 in an effort to become more
+competititve in the world market.
+ REUTER
+
+
+
+
+There are 209 key words in the article 5 without caring about redundance.
+There are 85 key words in the article 5  after geting rid of redundance.
+000 occurrence: 11
+123 occurrence: 1
+125 occurrence: 1
+1980 occurrence: 1
+1985 occurrence: 5
+1986 occurrence: 8
+1987 occurrence: 8
+1988 occurrence: 1
+284 occurrence: 1
+378 occurrence: 1
+agricultur occurrence: 1
+annual occurrence: 1
+april occurrence: 1
+bag occurrence: 5
+base occurrence: 1
+bean occurrence: 1
+biggest occurrence: 1
+black occurrence: 1
+calendar occurrence: 4
+cocoa occurrence: 8
+coffe occurrence: 7
+come occurrence: 1
+competititv occurrence: 1
+compon occurrence: 1
+continu occurrence: 1
+control occurrence: 1
+crush occurrence: 1
+ctc occurrence: 3
+curl occurrence: 1
+develop occurrence: 1
+dip occurrence: 2
+diversifi occurrence: 1
+effort occurrence: 1
+embassi occurrence: 6
+estim occurrence: 1
+export occurrence: 10
+fall occurrence: 1
+forecast occurrence: 7
+govern occurrence: 3
+green occurrence: 1
+import occurrence: 1
+improv occurrence: 1
+increas occurrence: 2
+indonesia occurrence: 4
+indonesian occurrence: 3
+intern occurrence: 1
+introduct occurrence: 1
+kilogram occurrence: 1
+main occurrence: 1
+march occurrence: 1
+market occurrence: 1
+ministri occurrence: 1
+mln occurrence: 8
+netherland occurrence: 1
+note occurrence: 1
+octob occurrence: 1
+organis occurrence: 1
+output occurrence: 1
+plan occurrence: 1
+plant occurrence: 1
+plantat occurrence: 1
+present occurrence: 1
+probabl occurrence: 1
+process occurrence: 1
+produc occurrence: 2
+product occurrence: 6
+project occurrence: 1
+qualiti occurrence: 2
+quota occurrence: 1
+report occurrence: 5
+result occurrence: 1
+rise occurrence: 8
+significantli occurrence: 1
+slightli occurrence: 2
+steadili occurrence: 1
+stock occurrence: 1
+stream occurrence: 1
+tea occurrence: 10
+tighten occurrence: 1
+tonn occurrence: 11
+torn occurrence: 1
+trade occurrence: 1
+world occurrence: 1
+year occurrence: 1
+reuter occurrence: 1
+------------------------------------rk-w---
+Max key frequence is 11
+!!!CONGRATULATIONS!!!
+Atricle 5 has already been processed.
+Program Continue...
+-----2019-5-25---------edit-at-3:37--------
+Open file 6.txt successfully.
+
+coffee
+ICO TALKS ON COFFEE QUOTAS TO RESUME AT NOON
+Talks on coffee export quotas at the
+International Coffee Organization (ICO) special council session
+will resume at noon gmt today, following a last minute decision
+taken early this morning to extend the meeting 24 hours, ICO
+officials said.
+    An 18 member contact group will meet at midday to examine
+new ideas, and the full council is to convene at 1900gmt, they
+said.
+    The extension resulted from a last ditch effort by Colombia
+to salvage the talks, which by late yesterday looked perilously
+close to ending without agreement on quotas, delegates said.
+ REUTER
+
+
+
+
+There are 59 key words in the article 6 without caring about redundance.
+There are 46 key words in the article 6  after geting rid of redundance.
+1900gmt occurrence: 1
+agreement occurrence: 1
+close occurrence: 1
+coffe occurrence: 4
+colombia occurrence: 1
+contact occurrence: 1
+conven occurrence: 1
+council occurrence: 2
+decis occurrence: 1
+deleg occurrence: 1
+ditch occurrence: 1
+earli occurrence: 1
+effort occurrence: 1
+end occurrence: 1
+examin occurrence: 1
+export occurrence: 1
+extend occurrence: 1
+extens occurrence: 1
+full occurrence: 1
+gmt occurrence: 1
+group occurrence: 1
+hour occurrence: 1
+ico occurrence: 3
+idea occurrence: 1
+intern occurrence: 1
+late occurrence: 1
+look occurrence: 1
+meet occurrence: 2
+member occurrence: 1
+middai occurrence: 1
+minut occurrence: 1
+morn occurrence: 1
+noon occurrence: 2
+offici occurrence: 1
+organ occurrence: 1
+peril occurrence: 1
+quota occurrence: 3
+result occurrence: 1
+resum occurrence: 2
+salvag occurrence: 1
+session occurrence: 1
+special occurrence: 1
+talk occurrence: 3
+todai occurrence: 1
+yesterdai occurrence: 1
+reuter occurrence: 1
+------------------------------------rk-w---
+Max key frequence is 4
+!!!CONGRATULATIONS!!!
+Atricle 6 has already been processed.
+Program Continue...
+-----2019-5-25---------edit-at-3:37--------
+Open file 7.txt successfully.
+
+coffee
+COFFEE QUOTA TALKS CONTINUE BUT NO AGREEMENT YET
+Coffee quota talks at the International
+Coffee Organization council meeting here continued this
+afternoon, but producers and consumers still had not reached
+common ground on the key issue of how to estimate export
+quotas, delegates said.
+    The 54 member contact group was examining a Colombian
+proposal to resume quotas April 1 under the ad hoc system used
+historically, with a pledge to meet again in September to
+discuss how quotas would be worked out in the future, they
+said.
+    Delegates would not speculate on the prospects for
+agreement at this time.
+    "Anything could happen," one delegate said.
+ Reuter
+
+
+
+
+There are 55 key words in the article 7 without caring about redundance.
+There are 42 key words in the article 7  after geting rid of redundance.
+ad occurrence: 1
+afternoon occurrence: 1
+agreement occurrence: 2
+april occurrence: 1
+coffe occurrence: 4
+colombian occurrence: 1
+common occurrence: 1
+consum occurrence: 1
+contact occurrence: 1
+continu occurrence: 2
+council occurrence: 1
+deleg occurrence: 3
+discuss occurrence: 1
+estim occurrence: 1
+examin occurrence: 1
+export occurrence: 1
+futur occurrence: 1
+ground occurrence: 1
+group occurrence: 1
+happen occurrence: 1
+histor occurrence: 1
+hoc occurrence: 1
+intern occurrence: 1
+issu occurrence: 1
+kei occurrence: 1
+meet occurrence: 2
+member occurrence: 1
+organ occurrence: 1
+pledg occurrence: 1
+produc occurrence: 1
+propos occurrence: 1
+prospect occurrence: 1
+quota occurrence: 5
+reach occurrence: 1
+resum occurrence: 1
+septemb occurrence: 1
+specul occurrence: 1
+system occurrence: 1
+talk occurrence: 2
+time occurrence: 1
+work occurrence: 1
+reuter occurrence: 1
+------------------------------------rk-w---
+Max key frequence is 5
+!!!CONGRATULATIONS!!!
+Atricle 7 has already been processed.
+Program Continue...
+-----2019-5-25---------edit-at-3:37--------
+Open file 8.txt successfully.
+
+coffee
+ICO QUOTA TALKS CONTINUE, OUTCOME HARD TO GAUGE
+Talks at the extended special meeting of
+the International Coffee Organization (ICO) on the
+reintroduction of export quotas continued, but chances of
+success were still almost impossible to gauge, delegates said.
+    Producer delegates were meeting to examine a Colombian
+proposal to resume historical quotas from April 1 to September,
+with a promise to define specific new criteria by which a new
+quota system would be calculated in September for the new crop
+year, they said.
+    Opinions among delegates over the potential for reaching a
+quota agreement varied widely.
+    Some consumers said the mood of the meeting seemed slightly
+more optimistic. But Brazil's unwillingness to concede any of
+its traditional 30.55 pct of its export market share looks
+likely to preclude any accord, other delegates said.
+    No fresh proposals other than the Colombian initiative had
+been tabled formally today, delegates said.
+    A full council meeting was set for 1900 hours for a
+progress report, delegates said.
+ Reuter
+
+
+
+
+There are 88 key words in the article 8 without caring about redundance.
+There are 67 key words in the article 8  after geting rid of redundance.
+1900 occurrence: 1
+accord occurrence: 1
+agreement occurrence: 1
+april occurrence: 1
+brazil occurrence: 1
+calcul occurrence: 1
+chanc occurrence: 1
+coffe occurrence: 2
+colombian occurrence: 2
+conced occurrence: 1
+consum occurrence: 1
+continu occurrence: 2
+council occurrence: 1
+criteria occurrence: 1
+crop occurrence: 1
+defin occurrence: 1
+deleg occurrence: 6
+examin occurrence: 1
+export occurrence: 2
+extend occurrence: 1
+formal occurrence: 1
+fresh occurrence: 1
+full occurrence: 1
+gaug occurrence: 2
+hard occurrence: 1
+histor occurrence: 1
+hour occurrence: 1
+ico occurrence: 2
+imposs occurrence: 1
+initi occurrence: 1
+intern occurrence: 1
+market occurrence: 1
+meet occurrence: 4
+mood occurrence: 1
+opinion occurrence: 1
+optimist occurrence: 1
+organ occurrence: 1
+outcom occurrence: 1
+pct occurrence: 1
+potenti occurrence: 1
+preclud occurrence: 1
+produc occurrence: 1
+progress occurrence: 1
+promis occurrence: 1
+propos occurrence: 2
+quota occurrence: 5
+reach occurrence: 1
+reintroduct occurrence: 1
+report occurrence: 1
+resum occurrence: 1
+septemb occurrence: 2
+set occurrence: 1
+share occurrence: 1
+slightli occurrence: 1
+special occurrence: 1
+specif occurrence: 1
+success occurrence: 1
+system occurrence: 1
+tabl occurrence: 1
+talk occurrence: 2
+todai occurrence: 1
+tradit occurrence: 1
+unwilling occurrence: 1
+vari occurrence: 1
+wide occurrence: 1
+year occurrence: 1
+reuter occurrence: 1
+------------------------------------rk-w---
+Max key frequence is 6
+!!!CONGRATULATIONS!!!
+Atricle 8 has already been processed.
+Program Continue...
+-----2019-5-25---------edit-at-3:37--------
+Open file 9.txt successfully.
+
+coffee
+SENIOR DELEGATES PESSIMISTIC ON ICO TALKS
+Efforts to break an impasse between
+coffee exporting and importing countries over regulating the
+world coffee market in the face of falling prices appear to
+have failed, senior delegates said after a contact group
+meeting. The full ICO council is due to meet this evening.
+    President of the Brazilian Coffee Institute (IBC) Jorio
+Dauster told Reuters after the contact group meeting there had
+been no agreement on quotas as consumers had tried to dictate
+market shares rather than negotiate them.
+    Dauster said there are no plans yet to renew negotiations
+at a later date.
+ Reuter
+
+
+
+
+There are 57 key words in the article 9 without caring about redundance.
+There are 43 key words in the article 9  after geting rid of redundance.
+agreement occurrence: 1
+brazilian occurrence: 1
+break occurrence: 1
+coffe occurrence: 4
+consum occurrence: 1
+contact occurrence: 2
+council occurrence: 1
+countri occurrence: 1
+dauster occurrence: 2
+deleg occurrence: 2
+dictat occurrence: 1
+due occurrence: 1
+effort occurrence: 1
+even occurrence: 1
+export occurrence: 1
+face occurrence: 1
+fail occurrence: 1
+fall occurrence: 1
+full occurrence: 1
+group occurrence: 2
+ibc occurrence: 1
+ico occurrence: 2
+impass occurrence: 1
+import occurrence: 1
+institut occurrence: 1
+jorio occurrence: 1
+market occurrence: 2
+meet occurrence: 3
+negoti occurrence: 2
+pessimist occurrence: 1
+plan occurrence: 1
+presid occurrence: 1
+price occurrence: 1
+quota occurrence: 1
+regul occurrence: 1
+renew occurrence: 1
+reuter occurrence: 2
+senior occurrence: 2
+share occurrence: 1
+talk occurrence: 1
+told occurrence: 1
+world occurrence: 1
+date occurrence: 1
+------------------------------------rk-w---
+Max key frequence is 4
+!!!CONGRATULATIONS!!!
+Atricle 9 has already been processed.
+Program Continue...
+-----2019-5-25---------edit-at-3:37--------
+In file 0           april's tf=   0.500000 idf=   0.736966 tf-idf=   0.368483
+In file 0             bag's tf=   0.250000 idf=   2.321928 tf-idf=   0.580482
+In file 0            basi's tf=   0.500000 idf=   3.321928 tf-idf=   1.660964
+In file 0           coffe's tf=   0.750000 idf=   0.000000 tf-idf=   0.000000
+In file 0          consum's tf=   0.250000 idf=   0.736966 tf-idf=   0.184241
+In file 0         contact's tf=   0.250000 idf=   1.000000 tf-idf=   0.250000
+In file 0         countri's tf=   0.250000 idf=   1.736966 tf-idf=   0.434241
+In file 0           deleg's tf=   0.500000 idf=   0.321928 tf-idf=   0.160964
+In file 0       distribut's tf=   0.500000 idf=   1.736966 tf-idf=   0.868483
+In file 0         earlier's tf=   0.250000 idf=   3.321928 tf-idf=   0.830482
+In file 0            even's tf=   0.250000 idf=   2.321928 tf-idf=   0.580482
+In file 0          export's tf=   0.250000 idf=   0.321928 tf-idf=   0.080482
+In file 0            firm's tf=   0.250000 idf=   3.321928 tf-idf=   0.830482
+In file 0           futur's tf=   0.250000 idf=   1.736966 tf-idf=   0.434241
+In file 0           group's tf=   0.250000 idf=   1.000000 tf-idf=   0.250000
+In file 0             ico's tf=   1.000000 idf=   0.736966 tf-idf=   0.736966
+In file 0          includ's tf=   0.250000 idf=   2.321928 tf-idf=   0.580482
+In file 0          intern's tf=   0.250000 idf=   0.736966 tf-idf=   0.184241
+In file 0            meet's tf=   0.250000 idf=   0.736966 tf-idf=   0.184241
+In file 0             mln's tf=   0.250000 idf=   3.321928 tf-idf=   0.830482
+In file 0           month's tf=   0.250000 idf=   2.321928 tf-idf=   0.580482
+In file 0          negoti's tf=   0.250000 idf=   2.321928 tf-idf=   0.580482
+In file 0           organ's tf=   0.250000 idf=   0.736966 tf-idf=   0.184241
+In file 0         postpon's tf=   0.250000 idf=   3.321928 tf-idf=   0.830482
+In file 0         present's tf=   0.500000 idf=   2.321928 tf-idf=   1.160964
+In file 0          produc's tf=   0.750000 idf=   1.321928 tf-idf=   0.991446
+In file 0          propos's tf=   0.750000 idf=   1.736966 tf-idf=   1.302724
+In file 0           quota's tf=   0.500000 idf=   1.000000 tf-idf=   0.500000
+In file 0     redistribut's tf=   0.250000 idf=   3.321928 tf-idf=   0.830482
+In file 0      reintroduc's tf=   0.250000 idf=   3.321928 tf-idf=   0.830482
+In file 0         resumpt's tf=   0.250000 idf=   2.321928 tf-idf=   0.580482
+In file 0         schedul's tf=   0.250000 idf=   3.321928 tf-idf=   0.830482
+In file 0         septemb's tf=   0.250000 idf=   2.321928 tf-idf=   0.580482
+In file 0        shortfal's tf=   0.250000 idf=   2.321928 tf-idf=   0.580482
+In file 0        tomorrow's tf=   0.250000 idf=   2.321928 tf-idf=   0.580482
+In file 0           total's tf=   0.250000 idf=   3.321928 tf-idf=   0.830482
+In file 0         unchang's tf=   0.250000 idf=   3.321928 tf-idf=   0.830482
+In file 0        undertak's tf=   0.250000 idf=   3.321928 tf-idf=   0.830482
+In file 0          reuter's tf=   0.250000 idf=   1.736966 tf-idf=   0.434241
+-------------------------------------------
+!!!CONGRATULATIONS!!!
+Atricle 0 has already been processed.
+Program Continue...
+-------------------------------------Rk-W--
+In file 1          affect's tf=   0.250000 idf=   3.321928 tf-idf=   0.830482
+In file 1           april's tf=   0.250000 idf=   0.736966 tf-idf=   0.184241
+In file 1           chang's tf=   0.250000 idf=   2.321928 tf-idf=   0.580482
+In file 1           coffe's tf=   0.500000 idf=   0.000000 tf-idf=   0.000000
+In file 1          declar's tf=   0.250000 idf=   3.321928 tf-idf=   0.830482
+In file 1           deleg's tf=   0.250000 idf=   0.321928 tf-idf=   0.080482
+In file 1         discuss's tf=   0.250000 idf=   2.321928 tf-idf=   0.580482
+In file 1       distribut's tf=   0.250000 idf=   2.321928 tf-idf=   0.580482
+In file 1          export's tf=   0.500000 idf=   0.514573 tf-idf=   0.257287
+In file 1          formal's tf=   0.250000 idf=   2.321928 tf-idf=   0.580482
+In file 1           group's tf=   0.250000 idf=   1.000000 tf-idf=   0.250000
+In file 1             ico's tf=   0.750000 idf=   0.736966 tf-idf=   0.552724
+In file 1          import's tf=   0.250000 idf=   2.321928 tf-idf=   0.580482
+In file 1          includ's tf=   0.250000 idf=   2.321928 tf-idf=   0.580482
+In file 1          inform's tf=   0.250000 idf=   3.321928 tf-idf=   0.830482
+In file 1          intern's tf=   0.250000 idf=   0.736966 tf-idf=   0.184241
+In file 1          member's tf=   0.250000 idf=   1.736966 tf-idf=   0.434241
+In file 1          modifi's tf=   0.500000 idf=   3.321928 tf-idf=   1.660964
+In file 1           month's tf=   0.250000 idf=   2.321928 tf-idf=   0.580482
+In file 1           organ's tf=   0.250000 idf=   1.736966 tf-idf=   0.434241
+In file 1         present's tf=   0.250000 idf=   2.321928 tf-idf=   0.580482
+In file 1          produc's tf=   0.750000 idf=   1.736966 tf-idf=   1.302724
+In file 1          propos's tf=   1.000000 idf=   1.736966 tf-idf=   1.736966
+In file 1           quota's tf=   0.500000 idf=   1.736966 tf-idf=   0.868483
+In file 1         resumpt's tf=   0.250000 idf=   2.321928 tf-idf=   0.580482
+In file 1         session's tf=   0.250000 idf=   3.321928 tf-idf=   0.830482
+In file 1           share's tf=   0.250000 idf=   3.321928 tf-idf=   0.830482
+In file 1        shortfal's tf=   0.250000 idf=   3.321928 tf-idf=   0.830482
+In file 1        splinter's tf=   0.250000 idf=   3.321928 tf-idf=   0.830482
+In file 1            talk's tf=   0.250000 idf=   3.321928 tf-idf=   0.830482
+In file 1        tomorrow's tf=   0.250000 idf=   3.321928 tf-idf=   0.830482
+In file 1         tonight's tf=   0.250000 idf=   3.321928 tf-idf=   0.830482
+In file 1          reuter's tf=   0.250000 idf=   3.321928 tf-idf=   0.830482
+-------------------------------------------
+!!!CONGRATULATIONS!!!
+Atricle 1 has already been processed.
+Program Continue...
+-------------------------------------Rk-W--
+In file 2          accept's tf=   0.066667 idf=   3.321928 tf-idf=   0.221462
+In file 2              ad's tf=   0.066667 idf=   2.321928 tf-idf=   0.154795
+In file 2         adjourn's tf=   0.066667 idf=   2.321928 tf-idf=   0.154795
+In file 2             ago's tf=   0.066667 idf=   2.321928 tf-idf=   0.154795
+In file 2            agre's tf=   0.066667 idf=   2.321928 tf-idf=   0.154795
+In file 2       agreement's tf=   0.133333 idf=   0.736966 tf-idf=   0.098262
+In file 2           allow's tf=   0.066667 idf=   3.321928 tf-idf=   0.221462
+In file 2          altern's tf=   0.066667 idf=   3.321928 tf-idf=   0.221462
+In file 2           april's tf=   0.133333 idf=   0.736966 tf-idf=   0.098262
+In file 2           avail's tf=   0.066667 idf=   3.321928 tf-idf=   0.221462
+In file 2            ball's tf=   0.066667 idf=   3.321928 tf-idf=   0.221462
+In file 2           basic's tf=   0.066667 idf=   3.321928 tf-idf=   0.221462
+In file 2             big's tf=   0.066667 idf=   3.321928 tf-idf=   0.221462
+In file 2          brazil's tf=   0.333333 idf=   1.736966 tf-idf=   0.578989
+In file 2           bring's tf=   0.066667 idf=   3.321928 tf-idf=   0.221462
+In file 2          calcul's tf=   0.066667 idf=   1.736966 tf-idf=   0.115798
+In file 2            call's tf=   0.066667 idf=   2.321928 tf-idf=   0.154795
+In file 2            carv's tf=   0.066667 idf=   3.321928 tf-idf=   0.221462
+In file 2           chang's tf=   0.066667 idf=   2.321928 tf-idf=   0.154795
+In file 2           coast's tf=   0.066667 idf=   3.321928 tf-idf=   0.221462
+In file 2           coffe's tf=   0.800000 idf=   0.000000 tf-idf=   0.000000
+In file 2        colombia's tf=   0.133333 idf=   2.321928 tf-idf=   0.309590
+In file 2          consum's tf=   0.266667 idf=   0.736966 tf-idf=   0.196524
+In file 2         contact's tf=   0.066667 idf=   1.000000 tf-idf=   0.066667
+In file 2           costa's tf=   0.066667 idf=   3.321928 tf-idf=   0.221462
+In file 2         council's tf=   0.066667 idf=   0.736966 tf-idf=   0.049131
+In file 2         countri's tf=   0.133333 idf=   1.736966 tf-idf=   0.231595
+In file 2           court's tf=   0.066667 idf=   3.321928 tf-idf=   0.221462
+In file 2         current's tf=   0.066667 idf=   3.321928 tf-idf=   0.221462
+In file 2             cut's tf=   0.066667 idf=   2.321928 tf-idf=   0.154795
+In file 2           debat's tf=   0.066667 idf=   3.321928 tf-idf=   0.221462
+In file 2           deleg's tf=   0.400000 idf=   0.321928 tf-idf=   0.128771
+In file 2        determin's tf=   0.066667 idf=   3.321928 tf-idf=   0.221462
+In file 2           devic's tf=   0.066667 idf=   3.321928 tf-idf=   0.221462
+In file 2          dissid's tf=   0.133333 idf=   3.321928 tf-idf=   0.442924
+In file 2       distribut's tf=   0.133333 idf=   1.736966 tf-idf=   0.231595
+In file 2           divid's tf=   0.066667 idf=   3.321928 tf-idf=   0.221462
+In file 2         drought's tf=   0.066667 idf=   2.321928 tf-idf=   0.154795
+In file 2          effect's tf=   0.066667 idf=   3.321928 tf-idf=   0.221462
+In file 2        escalant's tf=   0.066667 idf=   3.321928 tf-idf=   0.221462
+In file 2          export's tf=   0.466667 idf=   0.000000 tf-idf=   0.000000
+In file 2          extend's tf=   0.066667 idf=   1.321928 tf-idf=   0.088129
+In file 2            face's tf=   0.066667 idf=   2.321928 tf-idf=   0.154795
+In file 2         facilit's tf=   0.066667 idf=   3.321928 tf-idf=   0.221462
+In file 2            fair's tf=   0.066667 idf=   3.321928 tf-idf=   0.221462
+In file 2            find's tf=   0.066667 idf=   3.321928 tf-idf=   0.221462
+In file 2           flare's tf=   0.066667 idf=   3.321928 tf-idf=   0.221462
+In file 2             fly's tf=   0.066667 idf=   3.321928 tf-idf=   0.221462
+In file 2         formula's tf=   0.066667 idf=   2.321928 tf-idf=   0.154795
+In file 2           forum's tf=   0.066667 idf=   3.321928 tf-idf=   0.221462
+In file 2           futur's tf=   0.066667 idf=   1.321928 tf-idf=   0.088129
+In file 2            give's tf=   0.066667 idf=   3.321928 tf-idf=   0.221462
+In file 2          global's tf=   0.066667 idf=   3.321928 tf-idf=   0.221462
+In file 2           group's tf=   0.333333 idf=   0.736966 tf-idf=   0.245655
+In file 2            heat's tf=   0.066667 idf=   3.321928 tf-idf=   0.221462
+In file 2             hoc's tf=   0.066667 idf=   2.321928 tf-idf=   0.154795
+In file 2             ico's tf=   0.133333 idf=   0.514573 tf-idf=   0.068610
+In file 2       implement's tf=   0.066667 idf=   3.321928 tf-idf=   0.221462
+In file 2          includ's tf=   0.066667 idf=   1.321928 tf-idf=   0.088129
+In file 2        incorpor's tf=   0.066667 idf=   3.321928 tf-idf=   0.221462
+In file 2       indonesia's tf=   0.133333 idf=   1.736966 tf-idf=   0.231595
+In file 2        industri's tf=   0.066667 idf=   3.321928 tf-idf=   0.221462
+In file 2          intern's tf=   0.133333 idf=   0.321928 tf-idf=   0.042924
+In file 2             isn's tf=   0.066667 idf=   3.321928 tf-idf=   0.221462
+In file 2           ivori's tf=   0.066667 idf=   3.321928 tf-idf=   0.221462
+In file 2             kei's tf=   0.066667 idf=   2.321928 tf-idf=   0.154795
+In file 2          larger's tf=   0.066667 idf=   3.321928 tf-idf=   0.221462
+In file 2         largest's tf=   0.066667 idf=   2.321928 tf-idf=   0.154795
+In file 2            late's tf=   0.066667 idf=   1.736966 tf-idf=   0.115798
+In file 2             lui's tf=   0.066667 idf=   3.321928 tf-idf=   0.221462
+In file 2           major's tf=   0.133333 idf=   3.321928 tf-idf=   0.442924
+In file 2           march's tf=   0.066667 idf=   2.321928 tf-idf=   0.154795
+In file 2          market's tf=   0.133333 idf=   1.321928 tf-idf=   0.176257
+In file 2            meet's tf=   0.133333 idf=   0.514573 tf-idf=   0.068610
+In file 2          method's tf=   0.066667 idf=   3.321928 tf-idf=   0.221462
+In file 2           minor's tf=   0.133333 idf=   3.321928 tf-idf=   0.442924
+In file 2          negoti's tf=   0.133333 idf=   1.736966 tf-idf=   0.231595
+In file 2           organ's tf=   0.066667 idf=   0.514573 tf-idf=   0.034305
+In file 2          output's tf=   0.066667 idf=   1.736966 tf-idf=   0.115798
+In file 2          packag's tf=   0.066667 idf=   3.321928 tf-idf=   0.221462
+In file 2            pass's tf=   0.066667 idf=   3.321928 tf-idf=   0.221462
+In file 2            past's tf=   0.066667 idf=   3.321928 tf-idf=   0.221462
+In file 2             pct's tf=   0.266667 idf=   1.736966 tf-idf=   0.463191
+In file 2         perpetu's tf=   0.066667 idf=   3.321928 tf-idf=   0.221462
+In file 2           phase's tf=   0.066667 idf=   3.321928 tf-idf=   0.221462
+In file 2            plan's tf=   0.066667 idf=   1.736966 tf-idf=   0.115798
+In file 2         possibl's tf=   0.066667 idf=   3.321928 tf-idf=   0.221462
+In file 2         previou's tf=   0.066667 idf=   3.321928 tf-idf=   0.221462
+In file 2           price's tf=   0.400000 idf=   1.321928 tf-idf=   0.528771
+In file 2          produc's tf=   0.600000 idf=   0.514573 tf-idf=   0.308744
+In file 2         product's tf=   0.066667 idf=   1.736966 tf-idf=   0.115798
+In file 2         prolong's tf=   0.066667 idf=   2.321928 tf-idf=   0.154795
+In file 2          promis's tf=   0.066667 idf=   1.736966 tf-idf=   0.115798
+In file 2          propos's tf=   0.266667 idf=   1.000000 tf-idf=   0.266667
+In file 2        prospect's tf=   0.066667 idf=   1.321928 tf-idf=   0.088129
+In file 2        question's tf=   0.133333 idf=   3.321928 tf-idf=   0.442924
+In file 2             quo's tf=   0.066667 idf=   3.321928 tf-idf=   0.221462
+In file 2           quota's tf=   1.000000 idf=   0.152003 tf-idf=   0.152003
+In file 2        reaction's tf=   0.066667 idf=   3.321928 tf-idf=   0.221462
+In file 2           reduc's tf=   0.066667 idf=   3.321928 tf-idf=   0.221462
+In file 2           regul's tf=   0.066667 idf=   2.321928 tf-idf=   0.154795
+In file 2      reintroduc's tf=   0.066667 idf=   1.736966 tf-idf=   0.115798
+In file 2          remain's tf=   0.066667 idf=   3.321928 tf-idf=   0.221462
+In file 2          repres's tf=   0.066667 idf=   3.321928 tf-idf=   0.221462
+In file 2          requir's tf=   0.066667 idf=   3.321928 tf-idf=   0.221462
+In file 2            rest's tf=   0.066667 idf=   3.321928 tf-idf=   0.221462
+In file 2          result's tf=   0.066667 idf=   1.321928 tf-idf=   0.088129
+In file 2           resum's tf=   0.066667 idf=   1.321928 tf-idf=   0.088129
+In file 2          retail's tf=   0.066667 idf=   3.321928 tf-idf=   0.221462
+In file 2          retain's tf=   0.066667 idf=   3.321928 tf-idf=   0.221462
+In file 2            rica's tf=   0.066667 idf=   3.321928 tf-idf=   0.221462
+In file 2        saturdai's tf=   0.066667 idf=   3.321928 tf-idf=   0.221462
+In file 2          scheme's tf=   0.133333 idf=   3.321928 tf-idf=   0.442924
+In file 2           separ's tf=   0.066667 idf=   3.321928 tf-idf=   0.221462
+In file 2         septemb's tf=   0.066667 idf=   0.736966 tf-idf=   0.049131
+In file 2             set's tf=   0.066667 idf=   2.321928 tf-idf=   0.154795
+In file 2           share's tf=   0.333333 idf=   1.321928 tf-idf=   0.440643
+In file 2           shelf's tf=   0.066667 idf=   3.321928 tf-idf=   0.221462
+In file 2           sight's tf=   0.066667 idf=   3.321928 tf-idf=   0.221462
+In file 2   sinnificantli's tf=   0.066667 idf=   3.321928 tf-idf=   0.221462
+In file 2           slide's tf=   0.066667 idf=   2.321928 tf-idf=   0.154795
+In file 2         smaller's tf=   0.133333 idf=   3.321928 tf-idf=   0.442924
+In file 2            soar's tf=   0.066667 idf=   2.321928 tf-idf=   0.154795
+In file 2           solut's tf=   0.066667 idf=   3.321928 tf-idf=   0.221462
+In file 2           sourc's tf=   0.066667 idf=   3.321928 tf-idf=   0.221462
+In file 2           spark's tf=   0.066667 idf=   3.321928 tf-idf=   0.221462
+In file 2         special's tf=   0.066667 idf=   1.321928 tf-idf=   0.088129
+In file 2          specul's tf=   0.066667 idf=   2.321928 tf-idf=   0.154795
+In file 2           split's tf=   0.066667 idf=   3.321928 tf-idf=   0.221462
+In file 2       spokesman's tf=   0.066667 idf=   3.321928 tf-idf=   0.221462
+In file 2         statist's tf=   0.066667 idf=   3.321928 tf-idf=   0.221462
+In file 2           statu's tf=   0.066667 idf=   3.321928 tf-idf=   0.221462
+In file 2          steadi's tf=   0.066667 idf=   3.321928 tf-idf=   0.221462
+In file 2           stock's tf=   0.066667 idf=   1.736966 tf-idf=   0.115798
+In file 2            stop's tf=   0.066667 idf=   2.321928 tf-idf=   0.154795
+In file 2     supermarket's tf=   0.066667 idf=   3.321928 tf-idf=   0.221462
+In file 2         suspend's tf=   0.066667 idf=   2.321928 tf-idf=   0.154795
+In file 2            tabl's tf=   0.066667 idf=   2.321928 tf-idf=   0.154795
+In file 2            talk's tf=   0.133333 idf=   0.514573 tf-idf=   0.068610
+In file 2          temper's tf=   0.066667 idf=   3.321928 tf-idf=   0.221462
+In file 2           third's tf=   0.066667 idf=   2.321928 tf-idf=   0.154795
+In file 2           todai's tf=   0.066667 idf=   1.736966 tf-idf=   0.115798
+In file 2           tumbl's tf=   0.066667 idf=   3.321928 tf-idf=   0.221462
+In file 2           unwil's tf=   0.066667 idf=   3.321928 tf-idf=   0.221462
+In file 2            upsw's tf=   0.066667 idf=   3.321928 tf-idf=   0.221462
+In file 2           world's tf=   0.133333 idf=   1.321928 tf-idf=   0.176257
+In file 2            year's tf=   0.133333 idf=   1.000000 tf-idf=   0.133333
+In file 2       yesterdai's tf=   0.066667 idf=   2.321928 tf-idf=   0.154795
+In file 2          reuter's tf=   0.066667 idf=   0.000000 tf-idf=   0.000000
+-------------------------------------------
+!!!CONGRATULATIONS!!!
+Atricle 2 has already been processed.
+Program Continue...
+-------------------------------------Rk-W--
+In file 3             000's tf=   0.272727 idf=   2.321928 tf-idf=   0.633253
+In file 3             075's tf=   0.090909 idf=   3.321928 tf-idf=   0.301993
+In file 3           1960s's tf=   0.090909 idf=   3.321928 tf-idf=   0.301993
+In file 3            1984's tf=   0.090909 idf=   3.321928 tf-idf=   0.301993
+In file 3            1985's tf=   0.090909 idf=   2.321928 tf-idf=   0.211084
+In file 3            1986's tf=   0.727273 idf=   2.321928 tf-idf=   1.688675
+In file 3            1987's tf=   0.545455 idf=   2.321928 tf-idf=   1.266506
+In file 3             695's tf=   0.090909 idf=   3.321928 tf-idf=   0.301993
+In file 3             720's tf=   0.090909 idf=   3.321928 tf-idf=   0.301993
+In file 3             980's tf=   0.090909 idf=   3.321928 tf-idf=   0.301993
+In file 3      agricultur's tf=   0.454545 idf=   2.321928 tf-idf=   1.055422
+In file 3          annual's tf=   0.090909 idf=   2.321928 tf-idf=   0.211084
+In file 3             ban's tf=   0.090909 idf=   3.321928 tf-idf=   0.301993
+In file 3          believ's tf=   0.090909 idf=   3.321928 tf-idf=   0.301993
+In file 3         brought's tf=   0.090909 idf=   3.321928 tf-idf=   0.301993
+In file 3           brown's tf=   0.090909 idf=   3.321928 tf-idf=   0.301993
+In file 3            cake's tf=   0.090909 idf=   3.321928 tf-idf=   0.301993
+In file 3        calendar's tf=   0.272727 idf=   2.321928 tf-idf=   0.633253
+In file 3            caus's tf=   0.090909 idf=   3.321928 tf-idf=   0.301993
+In file 3           coffe's tf=   0.181818 idf=   0.000000 tf-idf=   0.000000
+In file 3          commod's tf=   0.181818 idf=   3.321928 tf-idf=   0.603987
+In file 3          compar's tf=   0.090909 idf=   3.321928 tf-idf=   0.301993
+In file 3      constraint's tf=   0.090909 idf=   3.321928 tf-idf=   0.301993
+In file 3           copra's tf=   0.181818 idf=   3.321928 tf-idf=   0.603987
+In file 3            corn's tf=   0.181818 idf=   3.321928 tf-idf=   0.603987
+In file 3          cotton's tf=   0.181818 idf=   3.321928 tf-idf=   0.603987
+In file 3            crop's tf=   0.090909 idf=   1.736966 tf-idf=   0.157906
+In file 3           crude's tf=   0.090909 idf=   3.321928 tf-idf=   0.301993
+In file 3           crush's tf=   0.090909 idf=   2.321928 tf-idf=   0.211084
+In file 3          declin's tf=   0.272727 idf=   3.321928 tf-idf=   0.905980
+In file 3          demand's tf=   0.090909 idf=   3.321928 tf-idf=   0.301993
+In file 3          depend's tf=   0.090909 idf=   3.321928 tf-idf=   0.301993
+In file 3          devalu's tf=   0.090909 idf=   3.321928 tf-idf=   0.301993
+In file 3          diseas's tf=   0.090909 idf=   3.321928 tf-idf=   0.301993
+In file 3          domest's tf=   0.090909 idf=   3.321928 tf-idf=   0.301993
+In file 3          dramat's tf=   0.090909 idf=   3.321928 tf-idf=   0.301993
+In file 3        drawdown's tf=   0.090909 idf=   3.321928 tf-idf=   0.301993
+In file 3             due's tf=   0.090909 idf=   2.321928 tf-idf=   0.211084
+In file 3          econom's tf=   0.090909 idf=   3.321928 tf-idf=   0.301993
+In file 3         embassi's tf=   0.181818 idf=   2.321928 tf-idf=   0.422169
+In file 3           estim's tf=   0.363636 idf=   1.736966 tf-idf=   0.631624
+In file 3          expect's tf=   0.272727 idf=   2.321928 tf-idf=   0.633253
+In file 3          export's tf=   0.181818 idf=   0.000000 tf-idf=   0.000000
+In file 3            fall's tf=   0.454545 idf=   1.736966 tf-idf=   0.789530
+In file 3          farmer's tf=   0.090909 idf=   3.321928 tf-idf=   0.301993
+In file 3          fertil's tf=   0.090909 idf=   3.321928 tf-idf=   0.301993
+In file 3            food's tf=   0.090909 idf=   3.321928 tf-idf=   0.301993
+In file 3            forc's tf=   0.090909 idf=   3.321928 tf-idf=   0.301993
+In file 3        forecast's tf=   0.272727 idf=   2.321928 tf-idf=   0.633253
+In file 3            gain's tf=   0.272727 idf=   3.321928 tf-idf=   0.905980
+In file 3          govern's tf=   0.272727 idf=   2.321928 tf-idf=   0.633253
+In file 3           grain's tf=   0.090909 idf=   3.321928 tf-idf=   0.301993
+In file 3            grow's tf=   0.090909 idf=   3.321928 tf-idf=   0.301993
+In file 3          growth's tf=   0.454545 idf=   3.321928 tf-idf=   1.509967
+In file 3          hopper's tf=   0.090909 idf=   3.321928 tf-idf=   0.301993
+In file 3          import's tf=   0.272727 idf=   1.321928 tf-idf=   0.360526
+In file 3          includ's tf=   0.090909 idf=   1.321928 tf-idf=   0.120175
+In file 3         increas's tf=   0.363636 idf=   2.321928 tf-idf=   0.844337
+In file 3       indonesia's tf=   0.363636 idf=   1.736966 tf-idf=   0.631624
+In file 3      indonesian's tf=   0.090909 idf=   2.321928 tf-idf=   0.211084
+In file 3          insect's tf=   0.090909 idf=   3.321928 tf-idf=   0.301993
+In file 3      insecticid's tf=   0.090909 idf=   3.321928 tf-idf=   0.301993
+In file 3          kernel's tf=   0.090909 idf=   3.321928 tf-idf=   0.301993
+In file 3            land's tf=   0.090909 idf=   3.321928 tf-idf=   0.301993
+In file 3            larg's tf=   0.090909 idf=   3.321928 tf-idf=   0.301993
+In file 3           limit's tf=   0.090909 idf=   3.321928 tf-idf=   0.301993
+In file 3            loss's tf=   0.090909 idf=   3.321928 tf-idf=   0.301993
+In file 3           lower's tf=   0.090909 idf=   3.321928 tf-idf=   0.301993
+In file 3          lowest's tf=   0.090909 idf=   3.321928 tf-idf=   0.301993
+In file 3            meal's tf=   0.181818 idf=   3.321928 tf-idf=   0.603987
+In file 3             mid's tf=   0.090909 idf=   3.321928 tf-idf=   0.301993
+In file 3             mln's tf=   0.818182 idf=   1.736966 tf-idf=   1.421154
+In file 3          modest's tf=   0.090909 idf=   3.321928 tf-idf=   0.301993
+In file 3             neg's tf=   0.090909 idf=   3.321928 tf-idf=   0.301993
+In file 3             oct's tf=   0.090909 idf=   3.321928 tf-idf=   0.301993
+In file 3          offici's tf=   0.090909 idf=   2.321928 tf-idf=   0.211084
+In file 3          offset's tf=   0.181818 idf=   3.321928 tf-idf=   0.603987
+In file 3             oil's tf=   0.636364 idf=   3.321928 tf-idf=   2.113954
+In file 3        outbreak's tf=   0.181818 idf=   3.321928 tf-idf=   0.603987
+In file 3          output's tf=   0.181818 idf=   1.736966 tf-idf=   0.315812
+In file 3            palm's tf=   0.454545 idf=   3.321928 tf-idf=   1.509967
+In file 3      palmkernel's tf=   0.090909 idf=   3.321928 tf-idf=   0.301993
+In file 3             pct's tf=   0.545455 idf=   1.736966 tf-idf=   0.947436
+In file 3         perform's tf=   0.181818 idf=   3.321928 tf-idf=   0.603987
+In file 3            pest's tf=   0.181818 idf=   3.321928 tf-idf=   0.603987
+In file 3           plant's tf=   0.181818 idf=   2.321928 tf-idf=   0.422169
+In file 3         plywood's tf=   0.181818 idf=   3.321928 tf-idf=   0.603987
+In file 3           price's tf=   0.181818 idf=   1.321928 tf-idf=   0.240351
+In file 3         product's tf=   1.000000 idf=   1.736966 tf-idf=   1.736966
+In file 3          promis's tf=   0.090909 idf=   1.736966 tf-idf=   0.157906
+In file 3        prospect's tf=   0.090909 idf=   1.321928 tf-idf=   0.120175
+In file 3            rate's tf=   0.181818 idf=   3.321928 tf-idf=   0.603987
+In file 3          reluct's tf=   0.090909 idf=   3.321928 tf-idf=   0.301993
+In file 3          report's tf=   0.727273 idf=   1.736966 tf-idf=   1.263248
+In file 3          resist's tf=   0.272727 idf=   3.321928 tf-idf=   0.905980
+In file 3         respons's tf=   0.090909 idf=   2.321928 tf-idf=   0.211084
+In file 3          result's tf=   0.090909 idf=   1.321928 tf-idf=   0.120175
+In file 3          revenu's tf=   0.090909 idf=   3.321928 tf-idf=   0.301993
+In file 3            rice's tf=   0.727273 idf=   3.321928 tf-idf=   2.415948
+In file 3            rise's tf=   0.363636 idf=   2.321928 tf-idf=   0.844337
+In file 3          rubber's tf=   0.272727 idf=   3.321928 tf-idf=   0.905980
+In file 3          rupiah's tf=   0.090909 idf=   3.321928 tf-idf=   0.301993
+In file 3          sector's tf=   0.090909 idf=   3.321928 tf-idf=   0.301993
+In file 3            seed's tf=   0.090909 idf=   3.321928 tf-idf=   0.301993
+In file 3            sept's tf=   0.090909 idf=   3.321928 tf-idf=   0.301993
+In file 3         septemb's tf=   0.090909 idf=   0.736966 tf-idf=   0.066997
+In file 3           shift's tf=   0.090909 idf=   3.321928 tf-idf=   0.301993
+In file 3         shortag's tf=   0.090909 idf=   3.321928 tf-idf=   0.301993
+In file 3            show's tf=   0.090909 idf=   3.321928 tf-idf=   0.301993
+In file 3        signific's tf=   0.181818 idf=   3.321928 tf-idf=   0.603987
+In file 3          slight's tf=   0.090909 idf=   3.321928 tf-idf=   0.301993
+In file 3            slow's tf=   0.090909 idf=   3.321928 tf-idf=   0.301993
+In file 3           slump's tf=   0.090909 idf=   3.321928 tf-idf=   0.301993
+In file 3             soi's tf=   0.090909 idf=   3.321928 tf-idf=   0.301993
+In file 3         soybean's tf=   0.545455 idf=   3.321928 tf-idf=   1.811961
+In file 3         stagnat's tf=   0.090909 idf=   3.321928 tf-idf=   0.301993
+In file 3           stapl's tf=   0.090909 idf=   3.321928 tf-idf=   0.301993
+In file 3           stock's tf=   0.090909 idf=   2.321928 tf-idf=   0.211084
+In file 3           sugar's tf=   0.090909 idf=   3.321928 tf-idf=   0.301993
+In file 3        sugarcan's tf=   0.090909 idf=   3.321928 tf-idf=   0.301993
+In file 3          suppli's tf=   0.090909 idf=   3.321928 tf-idf=   0.301993
+In file 3             tea's tf=   0.181818 idf=   2.321928 tf-idf=   0.422169
+In file 3            tonn's tf=   0.909091 idf=   2.321928 tf-idf=   2.110844
+In file 3            type's tf=   0.090909 idf=   3.321928 tf-idf=   0.301993
+In file 3        underlin's tf=   0.090909 idf=   3.321928 tf-idf=   0.301993
+In file 3         varieti's tf=   0.090909 idf=   3.321928 tf-idf=   0.301993
+In file 3             veg's tf=   0.090909 idf=   3.321928 tf-idf=   0.301993
+In file 3          wereng's tf=   0.181818 idf=   3.321928 tf-idf=   0.603987
+In file 3           wheat's tf=   0.272727 idf=   3.321928 tf-idf=   0.905980
+In file 3            year's tf=   0.090909 idf=   1.321928 tf-idf=   0.120175
+In file 3           yield's tf=   0.181818 idf=   3.321928 tf-idf=   0.603987
+In file 3          reuter's tf=   0.090909 idf=   0.152003 tf-idf=   0.013818
+-------------------------------------------
+!!!CONGRATULATIONS!!!
+Atricle 3 has already been processed.
+Program Continue...
+-------------------------------------Rk-W--
+In file 4          accord's tf=   0.333333 idf=   2.321928 tf-idf=   0.773976
+In file 4         adjourn's tf=   0.166667 idf=   2.321928 tf-idf=   0.386988
+In file 4       afternoon's tf=   0.166667 idf=   2.321928 tf-idf=   0.386988
+In file 4             ago's tf=   0.166667 idf=   2.321928 tf-idf=   0.386988
+In file 4            agre's tf=   0.166667 idf=   2.321928 tf-idf=   0.386988
+In file 4       agreement's tf=   0.166667 idf=   0.736966 tf-idf=   0.122828
+In file 4           appar's tf=   0.166667 idf=   3.321928 tf-idf=   0.553655
+In file 4          brazil's tf=   0.333333 idf=   1.736966 tf-idf=   0.578989
+In file 4          calcul's tf=   0.166667 idf=   1.736966 tf-idf=   0.289494
+In file 4            call's tf=   0.166667 idf=   2.321928 tf-idf=   0.386988
+In file 4           coffe's tf=   1.000000 idf=   0.000000 tf-idf=   0.000000
+In file 4       compromis's tf=   0.166667 idf=   3.321928 tf-idf=   0.553655
+In file 4          consum's tf=   0.333333 idf=   0.736966 tf-idf=   0.245655
+In file 4         continu's tf=   0.333333 idf=   1.321928 tf-idf=   0.440643
+In file 4         council's tf=   0.333333 idf=   0.736966 tf-idf=   0.245655
+In file 4            crop's tf=   0.166667 idf=   1.736966 tf-idf=   0.289494
+In file 4             cut's tf=   0.166667 idf=   2.321928 tf-idf=   0.386988
+In file 4           deleg's tf=   0.500000 idf=   0.321928 tf-idf=   0.160964
+In file 4        diminish's tf=   0.166667 idf=   3.321928 tf-idf=   0.553655
+In file 4         drought's tf=   0.166667 idf=   2.321928 tf-idf=   0.386988
+In file 4          expect's tf=   0.166667 idf=   2.321928 tf-idf=   0.386988
+In file 4          export's tf=   0.500000 idf=   0.000000 tf-idf=   0.000000
+In file 4          extend's tf=   0.166667 idf=   1.321928 tf-idf=   0.220321
+In file 4         formula's tf=   0.166667 idf=   2.321928 tf-idf=   0.386988
+In file 4         founder's tf=   0.166667 idf=   3.321928 tf-idf=   0.553655
+In file 4           futur's tf=   0.166667 idf=   1.321928 tf-idf=   0.220321
+In file 4             ico's tf=   0.166667 idf=   0.514573 tf-idf=   0.085762
+In file 4          intern's tf=   0.166667 idf=   0.514573 tf-idf=   0.085762
+In file 4         largest's tf=   0.166667 idf=   3.321928 tf-idf=   0.553655
+In file 4            last's tf=   0.166667 idf=   3.321928 tf-idf=   0.553655
+In file 4            late's tf=   0.166667 idf=   2.321928 tf-idf=   0.386988
+In file 4            meet's tf=   0.166667 idf=   0.736966 tf-idf=   0.122828
+In file 4           minut's tf=   0.166667 idf=   2.321928 tf-idf=   0.386988
+In file 4           night's tf=   0.166667 idf=   3.321928 tf-idf=   0.553655
+In file 4           organ's tf=   0.166667 idf=   0.736966 tf-idf=   0.122828
+In file 4           price's tf=   0.333333 idf=   2.321928 tf-idf=   0.773976
+In file 4          produc's tf=   0.500000 idf=   1.000000 tf-idf=   0.500000
+In file 4         prolong's tf=   0.166667 idf=   3.321928 tf-idf=   0.553655
+In file 4        prospect's tf=   0.166667 idf=   2.321928 tf-idf=   0.386988
+In file 4           quota's tf=   0.666667 idf=   0.514573 tf-idf=   0.343049
+In file 4        reconven's tf=   0.166667 idf=   3.321928 tf-idf=   0.553655
+In file 4      reintroduc's tf=   0.166667 idf=   2.321928 tf-idf=   0.386988
+In file 4         respons's tf=   0.166667 idf=   3.321928 tf-idf=   0.553655
+In file 4         septemb's tf=   0.166667 idf=   1.321928 tf-idf=   0.220321
+In file 4         session's tf=   0.166667 idf=   1.736966 tf-idf=   0.289494
+In file 4           slide's tf=   0.166667 idf=   3.321928 tf-idf=   0.553655
+In file 4            soar's tf=   0.166667 idf=   3.321928 tf-idf=   0.553655
+In file 4         special's tf=   0.166667 idf=   1.736966 tf-idf=   0.289494
+In file 4            stop's tf=   0.166667 idf=   3.321928 tf-idf=   0.553655
+In file 4          sundai's tf=   0.333333 idf=   3.321928 tf-idf=   1.107309
+In file 4         suspend's tf=   0.166667 idf=   3.321928 tf-idf=   0.553655
+In file 4          system's tf=   0.166667 idf=   1.736966 tf-idf=   0.289494
+In file 4            talk's tf=   0.500000 idf=   1.000000 tf-idf=   0.500000
+In file 4           third's tf=   0.166667 idf=   3.321928 tf-idf=   0.553655
+In file 4         tonight's tf=   0.166667 idf=   2.321928 tf-idf=   0.386988
+In file 4            week's tf=   0.166667 idf=   3.321928 tf-idf=   0.553655
+In file 4           world's tf=   0.166667 idf=   2.321928 tf-idf=   0.386988
+In file 4            year's tf=   0.166667 idf=   3.321928 tf-idf=   0.553655
+In file 4          reuter's tf=   0.166667 idf=   0.736966 tf-idf=   0.122828
+-------------------------------------------
+!!!CONGRATULATIONS!!!
+Atricle 4 has already been processed.
+Program Continue...
+-------------------------------------Rk-W--
+In file 5             000's tf=   1.000000 idf=   2.321928 tf-idf=   2.321928
+In file 5             123's tf=   0.090909 idf=   3.321928 tf-idf=   0.301993
+In file 5             125's tf=   0.090909 idf=   3.321928 tf-idf=   0.301993
+In file 5            1980's tf=   0.090909 idf=   3.321928 tf-idf=   0.301993
+In file 5            1985's tf=   0.454545 idf=   2.321928 tf-idf=   1.055422
+In file 5            1986's tf=   0.727273 idf=   2.321928 tf-idf=   1.688675
+In file 5            1987's tf=   0.727273 idf=   2.321928 tf-idf=   1.688675
+In file 5            1988's tf=   0.090909 idf=   3.321928 tf-idf=   0.301993
+In file 5             284's tf=   0.090909 idf=   3.321928 tf-idf=   0.301993
+In file 5             378's tf=   0.090909 idf=   3.321928 tf-idf=   0.301993
+In file 5      agricultur's tf=   0.090909 idf=   2.321928 tf-idf=   0.211084
+In file 5          annual's tf=   0.090909 idf=   2.321928 tf-idf=   0.211084
+In file 5           april's tf=   0.090909 idf=   0.736966 tf-idf=   0.066997
+In file 5             bag's tf=   0.454545 idf=   2.321928 tf-idf=   1.055422
+In file 5            base's tf=   0.090909 idf=   3.321928 tf-idf=   0.301993
+In file 5            bean's tf=   0.090909 idf=   3.321928 tf-idf=   0.301993
+In file 5         biggest's tf=   0.090909 idf=   3.321928 tf-idf=   0.301993
+In file 5           black's tf=   0.090909 idf=   3.321928 tf-idf=   0.301993
+In file 5        calendar's tf=   0.363636 idf=   2.321928 tf-idf=   0.844337
+In file 5           cocoa's tf=   0.727273 idf=   3.321928 tf-idf=   2.415948
+In file 5           coffe's tf=   0.636364 idf=   0.000000 tf-idf=   0.000000
+In file 5            come's tf=   0.090909 idf=   3.321928 tf-idf=   0.301993
+In file 5     competititv's tf=   0.090909 idf=   3.321928 tf-idf=   0.301993
+In file 5          compon's tf=   0.090909 idf=   3.321928 tf-idf=   0.301993
+In file 5         continu's tf=   0.090909 idf=   1.321928 tf-idf=   0.120175
+In file 5         control's tf=   0.090909 idf=   3.321928 tf-idf=   0.301993
+In file 5           crush's tf=   0.090909 idf=   2.321928 tf-idf=   0.211084
+In file 5             ctc's tf=   0.272727 idf=   3.321928 tf-idf=   0.905980
+In file 5            curl's tf=   0.090909 idf=   3.321928 tf-idf=   0.301993
+In file 5         develop's tf=   0.090909 idf=   3.321928 tf-idf=   0.301993
+In file 5             dip's tf=   0.181818 idf=   3.321928 tf-idf=   0.603987
+In file 5       diversifi's tf=   0.090909 idf=   3.321928 tf-idf=   0.301993
+In file 5          effort's tf=   0.090909 idf=   1.736966 tf-idf=   0.157906
+In file 5         embassi's tf=   0.545455 idf=   2.321928 tf-idf=   1.266506
+In file 5           estim's tf=   0.090909 idf=   1.736966 tf-idf=   0.157906
+In file 5          export's tf=   0.909091 idf=   0.000000 tf-idf=   0.000000
+In file 5            fall's tf=   0.090909 idf=   1.736966 tf-idf=   0.157906
+In file 5        forecast's tf=   0.636364 idf=   2.321928 tf-idf=   1.477591
+In file 5          govern's tf=   0.272727 idf=   2.321928 tf-idf=   0.633253
+In file 5           green's tf=   0.090909 idf=   3.321928 tf-idf=   0.301993
+In file 5          import's tf=   0.090909 idf=   1.321928 tf-idf=   0.120175
+In file 5          improv's tf=   0.090909 idf=   3.321928 tf-idf=   0.301993
+In file 5         increas's tf=   0.181818 idf=   2.321928 tf-idf=   0.422169
+In file 5       indonesia's tf=   0.363636 idf=   1.736966 tf-idf=   0.631624
+In file 5      indonesian's tf=   0.272727 idf=   2.321928 tf-idf=   0.633253
+In file 5          intern's tf=   0.090909 idf=   0.321928 tf-idf=   0.029266
+In file 5       introduct's tf=   0.090909 idf=   3.321928 tf-idf=   0.301993
+In file 5        kilogram's tf=   0.090909 idf=   3.321928 tf-idf=   0.301993
+In file 5            main's tf=   0.090909 idf=   3.321928 tf-idf=   0.301993
+In file 5           march's tf=   0.090909 idf=   2.321928 tf-idf=   0.211084
+In file 5          market's tf=   0.090909 idf=   1.321928 tf-idf=   0.120175
+In file 5        ministri's tf=   0.090909 idf=   3.321928 tf-idf=   0.301993
+In file 5             mln's tf=   0.727273 idf=   1.736966 tf-idf=   1.263248
+In file 5      netherland's tf=   0.090909 idf=   3.321928 tf-idf=   0.301993
+In file 5            note's tf=   0.090909 idf=   3.321928 tf-idf=   0.301993
+In file 5           octob's tf=   0.090909 idf=   3.321928 tf-idf=   0.301993
+In file 5         organis's tf=   0.090909 idf=   3.321928 tf-idf=   0.301993
+In file 5          output's tf=   0.090909 idf=   1.736966 tf-idf=   0.157906
+In file 5            plan's tf=   0.090909 idf=   2.321928 tf-idf=   0.211084
+In file 5           plant's tf=   0.090909 idf=   3.321928 tf-idf=   0.301993
+In file 5         plantat's tf=   0.090909 idf=   3.321928 tf-idf=   0.301993
+In file 5         present's tf=   0.090909 idf=   1.736966 tf-idf=   0.157906
+In file 5         probabl's tf=   0.090909 idf=   3.321928 tf-idf=   0.301993
+In file 5         process's tf=   0.090909 idf=   3.321928 tf-idf=   0.301993
+In file 5          produc's tf=   0.181818 idf=   0.736966 tf-idf=   0.133994
+In file 5         product's tf=   0.545455 idf=   3.321928 tf-idf=   1.811961
+In file 5         project's tf=   0.090909 idf=   3.321928 tf-idf=   0.301993
+In file 5         qualiti's tf=   0.181818 idf=   3.321928 tf-idf=   0.603987
+In file 5           quota's tf=   0.090909 idf=   0.321928 tf-idf=   0.029266
+In file 5          report's tf=   0.454545 idf=   2.321928 tf-idf=   1.055422
+In file 5          result's tf=   0.090909 idf=   2.321928 tf-idf=   0.211084
+In file 5            rise's tf=   0.727273 idf=   3.321928 tf-idf=   2.415948
+In file 5   significantli's tf=   0.090909 idf=   3.321928 tf-idf=   0.301993
+In file 5        slightli's tf=   0.181818 idf=   2.321928 tf-idf=   0.422169
+In file 5        steadili's tf=   0.090909 idf=   3.321928 tf-idf=   0.301993
+In file 5           stock's tf=   0.090909 idf=   3.321928 tf-idf=   0.301993
+In file 5          stream's tf=   0.090909 idf=   3.321928 tf-idf=   0.301993
+In file 5             tea's tf=   0.909091 idf=   3.321928 tf-idf=   3.019935
+In file 5         tighten's tf=   0.090909 idf=   3.321928 tf-idf=   0.301993
+In file 5            tonn's tf=   1.000000 idf=   3.321928 tf-idf=   3.321928
+In file 5            torn's tf=   0.090909 idf=   3.321928 tf-idf=   0.301993
+In file 5           trade's tf=   0.090909 idf=   3.321928 tf-idf=   0.301993
+In file 5           world's tf=   0.090909 idf=   1.736966 tf-idf=   0.157906
+In file 5            year's tf=   0.090909 idf=   1.736966 tf-idf=   0.157906
+In file 5          reuter's tf=   0.090909 idf=   0.321928 tf-idf=   0.029266
+-------------------------------------------
+!!!CONGRATULATIONS!!!
+Atricle 5 has already been processed.
+Program Continue...
+-------------------------------------Rk-W--
+In file 6         1900gmt's tf=   0.250000 idf=   3.321928 tf-idf=   0.830482
+In file 6       agreement's tf=   0.250000 idf=   0.736966 tf-idf=   0.184241
+In file 6           close's tf=   0.250000 idf=   3.321928 tf-idf=   0.830482
+In file 6           coffe's tf=   1.000000 idf=   0.000000 tf-idf=   0.000000
+In file 6        colombia's tf=   0.250000 idf=   2.321928 tf-idf=   0.580482
+In file 6         contact's tf=   0.250000 idf=   1.000000 tf-idf=   0.250000
+In file 6          conven's tf=   0.250000 idf=   3.321928 tf-idf=   0.830482
+In file 6         council's tf=   0.500000 idf=   0.736966 tf-idf=   0.368483
+In file 6           decis's tf=   0.250000 idf=   3.321928 tf-idf=   0.830482
+In file 6           deleg's tf=   0.250000 idf=   0.321928 tf-idf=   0.080482
+In file 6           ditch's tf=   0.250000 idf=   3.321928 tf-idf=   0.830482
+In file 6           earli's tf=   0.250000 idf=   3.321928 tf-idf=   0.830482
+In file 6          effort's tf=   0.250000 idf=   1.736966 tf-idf=   0.434241
+In file 6             end's tf=   0.250000 idf=   3.321928 tf-idf=   0.830482
+In file 6          examin's tf=   0.250000 idf=   1.736966 tf-idf=   0.434241
+In file 6          export's tf=   0.250000 idf=   0.000000 tf-idf=   0.000000
+In file 6          extend's tf=   0.250000 idf=   1.321928 tf-idf=   0.330482
+In file 6          extens's tf=   0.250000 idf=   3.321928 tf-idf=   0.830482
+In file 6            full's tf=   0.250000 idf=   1.736966 tf-idf=   0.434241
+In file 6             gmt's tf=   0.250000 idf=   3.321928 tf-idf=   0.830482
+In file 6           group's tf=   0.250000 idf=   1.000000 tf-idf=   0.250000
+In file 6            hour's tf=   0.250000 idf=   2.321928 tf-idf=   0.580482
+In file 6             ico's tf=   0.750000 idf=   0.736966 tf-idf=   0.552724
+In file 6            idea's tf=   0.250000 idf=   3.321928 tf-idf=   0.830482
+In file 6          intern's tf=   0.250000 idf=   0.514573 tf-idf=   0.128643
+In file 6            late's tf=   0.250000 idf=   2.321928 tf-idf=   0.580482
+In file 6            look's tf=   0.250000 idf=   3.321928 tf-idf=   0.830482
+In file 6            meet's tf=   0.500000 idf=   0.736966 tf-idf=   0.368483
+In file 6          member's tf=   0.250000 idf=   1.736966 tf-idf=   0.434241
+In file 6          middai's tf=   0.250000 idf=   3.321928 tf-idf=   0.830482
+In file 6           minut's tf=   0.250000 idf=   2.321928 tf-idf=   0.580482
+In file 6            morn's tf=   0.250000 idf=   3.321928 tf-idf=   0.830482
+In file 6            noon's tf=   0.500000 idf=   3.321928 tf-idf=   1.660964
+In file 6          offici's tf=   0.250000 idf=   3.321928 tf-idf=   0.830482
+In file 6           organ's tf=   0.250000 idf=   0.736966 tf-idf=   0.184241
+In file 6           peril's tf=   0.250000 idf=   3.321928 tf-idf=   0.830482
+In file 6           quota's tf=   0.750000 idf=   0.514573 tf-idf=   0.385930
+In file 6          result's tf=   0.250000 idf=   3.321928 tf-idf=   0.830482
+In file 6           resum's tf=   0.500000 idf=   2.321928 tf-idf=   1.160964
+In file 6          salvag's tf=   0.250000 idf=   3.321928 tf-idf=   0.830482
+In file 6         session's tf=   0.250000 idf=   1.736966 tf-idf=   0.434241
+In file 6         special's tf=   0.250000 idf=   3.321928 tf-idf=   0.830482
+In file 6            talk's tf=   0.750000 idf=   1.321928 tf-idf=   0.991446
+In file 6           todai's tf=   0.250000 idf=   3.321928 tf-idf=   0.830482
+In file 6       yesterdai's tf=   0.250000 idf=   3.321928 tf-idf=   0.830482
+In file 6          reuter's tf=   0.250000 idf=   1.000000 tf-idf=   0.250000
+-------------------------------------------
+!!!CONGRATULATIONS!!!
+Atricle 6 has already been processed.
+Program Continue...
+-------------------------------------Rk-W--
+In file 7              ad's tf=   0.200000 idf=   2.321928 tf-idf=   0.464386
+In file 7       afternoon's tf=   0.200000 idf=   2.321928 tf-idf=   0.464386
+In file 7       agreement's tf=   0.400000 idf=   0.736966 tf-idf=   0.294786
+In file 7           april's tf=   0.200000 idf=   0.736966 tf-idf=   0.147393
+In file 7           coffe's tf=   0.800000 idf=   0.000000 tf-idf=   0.000000
+In file 7       colombian's tf=   0.200000 idf=   2.321928 tf-idf=   0.464386
+In file 7          common's tf=   0.200000 idf=   3.321928 tf-idf=   0.664386
+In file 7          consum's tf=   0.200000 idf=   0.736966 tf-idf=   0.147393
+In file 7         contact's tf=   0.200000 idf=   1.000000 tf-idf=   0.200000
+In file 7         continu's tf=   0.400000 idf=   1.321928 tf-idf=   0.528771
+In file 7         council's tf=   0.200000 idf=   0.736966 tf-idf=   0.147393
+In file 7           deleg's tf=   0.600000 idf=   0.321928 tf-idf=   0.193157
+In file 7         discuss's tf=   0.200000 idf=   2.321928 tf-idf=   0.464386
+In file 7           estim's tf=   0.200000 idf=   1.736966 tf-idf=   0.347393
+In file 7          examin's tf=   0.200000 idf=   1.736966 tf-idf=   0.347393
+In file 7          export's tf=   0.200000 idf=   0.152003 tf-idf=   0.030401
+In file 7           futur's tf=   0.200000 idf=   1.736966 tf-idf=   0.347393
+In file 7          ground's tf=   0.200000 idf=   3.321928 tf-idf=   0.664386
+In file 7           group's tf=   0.200000 idf=   1.000000 tf-idf=   0.200000
+In file 7          happen's tf=   0.200000 idf=   3.321928 tf-idf=   0.664386
+In file 7          histor's tf=   0.200000 idf=   2.321928 tf-idf=   0.464386
+In file 7             hoc's tf=   0.200000 idf=   3.321928 tf-idf=   0.664386
+In file 7          intern's tf=   0.200000 idf=   0.736966 tf-idf=   0.147393
+In file 7            issu's tf=   0.200000 idf=   3.321928 tf-idf=   0.664386
+In file 7             kei's tf=   0.200000 idf=   3.321928 tf-idf=   0.664386
+In file 7            meet's tf=   0.400000 idf=   0.736966 tf-idf=   0.294786
+In file 7          member's tf=   0.200000 idf=   1.736966 tf-idf=   0.347393
+In file 7           organ's tf=   0.200000 idf=   0.736966 tf-idf=   0.147393
+In file 7           pledg's tf=   0.200000 idf=   3.321928 tf-idf=   0.664386
+In file 7          produc's tf=   0.200000 idf=   1.000000 tf-idf=   0.200000
+In file 7          propos's tf=   0.200000 idf=   1.736966 tf-idf=   0.347393
+In file 7        prospect's tf=   0.200000 idf=   2.321928 tf-idf=   0.464386
+In file 7           quota's tf=   1.000000 idf=   0.736966 tf-idf=   0.736966
+In file 7           reach's tf=   0.200000 idf=   3.321928 tf-idf=   0.664386
+In file 7           resum's tf=   0.200000 idf=   2.321928 tf-idf=   0.464386
+In file 7         septemb's tf=   0.200000 idf=   2.321928 tf-idf=   0.464386
+In file 7          specul's tf=   0.200000 idf=   3.321928 tf-idf=   0.664386
+In file 7          system's tf=   0.200000 idf=   3.321928 tf-idf=   0.664386
+In file 7            talk's tf=   0.400000 idf=   1.736966 tf-idf=   0.694786
+In file 7            time's tf=   0.200000 idf=   3.321928 tf-idf=   0.664386
+In file 7            work's tf=   0.200000 idf=   3.321928 tf-idf=   0.664386
+In file 7          reuter's tf=   0.200000 idf=   1.321928 tf-idf=   0.264386
+-------------------------------------------
+!!!CONGRATULATIONS!!!
+Atricle 7 has already been processed.
+Program Continue...
+-------------------------------------Rk-W--
+In file 8            1900's tf=   0.166667 idf=   3.321928 tf-idf=   0.553655
+In file 8          accord's tf=   0.166667 idf=   2.321928 tf-idf=   0.386988
+In file 8       agreement's tf=   0.166667 idf=   0.736966 tf-idf=   0.122828
+In file 8           april's tf=   0.166667 idf=   0.736966 tf-idf=   0.122828
+In file 8          brazil's tf=   0.166667 idf=   1.736966 tf-idf=   0.289494
+In file 8          calcul's tf=   0.166667 idf=   1.736966 tf-idf=   0.289494
+In file 8           chanc's tf=   0.166667 idf=   3.321928 tf-idf=   0.553655
+In file 8           coffe's tf=   0.333333 idf=   0.000000 tf-idf=   0.000000
+In file 8       colombian's tf=   0.333333 idf=   2.321928 tf-idf=   0.773976
+In file 8          conced's tf=   0.166667 idf=   3.321928 tf-idf=   0.553655
+In file 8          consum's tf=   0.166667 idf=   0.736966 tf-idf=   0.122828
+In file 8         continu's tf=   0.333333 idf=   1.321928 tf-idf=   0.440643
+In file 8         council's tf=   0.166667 idf=   0.736966 tf-idf=   0.122828
+In file 8        criteria's tf=   0.166667 idf=   3.321928 tf-idf=   0.553655
+In file 8            crop's tf=   0.166667 idf=   1.736966 tf-idf=   0.289494
+In file 8           defin's tf=   0.166667 idf=   3.321928 tf-idf=   0.553655
+In file 8           deleg's tf=   1.000000 idf=   0.321928 tf-idf=   0.321928
+In file 8          examin's tf=   0.166667 idf=   1.736966 tf-idf=   0.289494
+In file 8          export's tf=   0.333333 idf=   0.000000 tf-idf=   0.000000
+In file 8          extend's tf=   0.166667 idf=   1.321928 tf-idf=   0.220321
+In file 8          formal's tf=   0.166667 idf=   2.321928 tf-idf=   0.386988
+In file 8           fresh's tf=   0.166667 idf=   3.321928 tf-idf=   0.553655
+In file 8            full's tf=   0.166667 idf=   1.736966 tf-idf=   0.289494
+In file 8            gaug's tf=   0.333333 idf=   3.321928 tf-idf=   1.107309
+In file 8            hard's tf=   0.166667 idf=   3.321928 tf-idf=   0.553655
+In file 8          histor's tf=   0.166667 idf=   2.321928 tf-idf=   0.386988
+In file 8            hour's tf=   0.166667 idf=   2.321928 tf-idf=   0.386988
+In file 8             ico's tf=   0.333333 idf=   0.514573 tf-idf=   0.171524
+In file 8          imposs's tf=   0.166667 idf=   3.321928 tf-idf=   0.553655
+In file 8           initi's tf=   0.166667 idf=   3.321928 tf-idf=   0.553655
+In file 8          intern's tf=   0.166667 idf=   0.321928 tf-idf=   0.053655
+In file 8          market's tf=   0.166667 idf=   1.736966 tf-idf=   0.289494
+In file 8            meet's tf=   0.666667 idf=   0.736966 tf-idf=   0.491310
+In file 8            mood's tf=   0.166667 idf=   3.321928 tf-idf=   0.553655
+In file 8         opinion's tf=   0.166667 idf=   3.321928 tf-idf=   0.553655
+In file 8        optimist's tf=   0.166667 idf=   3.321928 tf-idf=   0.553655
+In file 8           organ's tf=   0.166667 idf=   0.736966 tf-idf=   0.122828
+In file 8          outcom's tf=   0.166667 idf=   3.321928 tf-idf=   0.553655
+In file 8             pct's tf=   0.166667 idf=   3.321928 tf-idf=   0.553655
+In file 8         potenti's tf=   0.166667 idf=   3.321928 tf-idf=   0.553655
+In file 8         preclud's tf=   0.166667 idf=   3.321928 tf-idf=   0.553655
+In file 8          produc's tf=   0.166667 idf=   0.736966 tf-idf=   0.122828
+In file 8        progress's tf=   0.166667 idf=   3.321928 tf-idf=   0.553655
+In file 8          promis's tf=   0.166667 idf=   3.321928 tf-idf=   0.553655
+In file 8          propos's tf=   0.333333 idf=   1.321928 tf-idf=   0.440643
+In file 8           quota's tf=   0.833333 idf=   0.514573 tf-idf=   0.428811
+In file 8           reach's tf=   0.166667 idf=   2.321928 tf-idf=   0.386988
+In file 8     reintroduct's tf=   0.166667 idf=   3.321928 tf-idf=   0.553655
+In file 8          report's tf=   0.166667 idf=   3.321928 tf-idf=   0.553655
+In file 8           resum's tf=   0.166667 idf=   1.736966 tf-idf=   0.289494
+In file 8         septemb's tf=   0.333333 idf=   1.321928 tf-idf=   0.440643
+In file 8             set's tf=   0.166667 idf=   3.321928 tf-idf=   0.553655
+In file 8           share's tf=   0.166667 idf=   1.736966 tf-idf=   0.289494
+In file 8        slightli's tf=   0.166667 idf=   3.321928 tf-idf=   0.553655
+In file 8         special's tf=   0.166667 idf=   1.736966 tf-idf=   0.289494
+In file 8          specif's tf=   0.166667 idf=   3.321928 tf-idf=   0.553655
+In file 8         success's tf=   0.166667 idf=   3.321928 tf-idf=   0.553655
+In file 8          system's tf=   0.166667 idf=   1.736966 tf-idf=   0.289494
+In file 8            tabl's tf=   0.166667 idf=   3.321928 tf-idf=   0.553655
+In file 8            talk's tf=   0.333333 idf=   0.736966 tf-idf=   0.245655
+In file 8           todai's tf=   0.166667 idf=   2.321928 tf-idf=   0.386988
+In file 8          tradit's tf=   0.166667 idf=   3.321928 tf-idf=   0.553655
+In file 8       unwilling's tf=   0.166667 idf=   3.321928 tf-idf=   0.553655
+In file 8            vari's tf=   0.166667 idf=   3.321928 tf-idf=   0.553655
+In file 8            wide's tf=   0.166667 idf=   3.321928 tf-idf=   0.553655
+In file 8            year's tf=   0.166667 idf=   2.321928 tf-idf=   0.386988
+In file 8          reuter's tf=   0.166667 idf=   0.514573 tf-idf=   0.085762
+-------------------------------------------
+!!!CONGRATULATIONS!!!
+Atricle 8 has already been processed.
+Program Continue...
+-------------------------------------Rk-W--
+In file 9       agreement's tf=   0.250000 idf=   0.736966 tf-idf=   0.184241
+In file 9       brazilian's tf=   0.250000 idf=   3.321928 tf-idf=   0.830482
+In file 9           break's tf=   0.250000 idf=   3.321928 tf-idf=   0.830482
+In file 9           coffe's tf=   1.000000 idf=   0.000000 tf-idf=   0.000000
+In file 9          consum's tf=   0.250000 idf=   0.736966 tf-idf=   0.184241
+In file 9         contact's tf=   0.500000 idf=   1.000000 tf-idf=   0.500000
+In file 9         council's tf=   0.250000 idf=   0.736966 tf-idf=   0.184241
+In file 9         countri's tf=   0.250000 idf=   1.736966 tf-idf=   0.434241
+In file 9         dauster's tf=   0.500000 idf=   3.321928 tf-idf=   1.660964
+In file 9           deleg's tf=   0.500000 idf=   0.321928 tf-idf=   0.160964
+In file 9          dictat's tf=   0.250000 idf=   3.321928 tf-idf=   0.830482
+In file 9             due's tf=   0.250000 idf=   2.321928 tf-idf=   0.580482
+In file 9          effort's tf=   0.250000 idf=   1.736966 tf-idf=   0.434241
+In file 9            even's tf=   0.250000 idf=   2.321928 tf-idf=   0.580482
+In file 9          export's tf=   0.250000 idf=   0.000000 tf-idf=   0.000000
+In file 9            face's tf=   0.250000 idf=   2.321928 tf-idf=   0.580482
+In file 9            fail's tf=   0.250000 idf=   3.321928 tf-idf=   0.830482
+In file 9            fall's tf=   0.250000 idf=   2.321928 tf-idf=   0.580482
+In file 9            full's tf=   0.250000 idf=   1.736966 tf-idf=   0.434241
+In file 9           group's tf=   0.500000 idf=   1.000000 tf-idf=   0.500000
+In file 9             ibc's tf=   0.250000 idf=   3.321928 tf-idf=   0.830482
+In file 9             ico's tf=   0.500000 idf=   0.736966 tf-idf=   0.368483
+In file 9          impass's tf=   0.250000 idf=   3.321928 tf-idf=   0.830482
+In file 9          import's tf=   0.250000 idf=   1.736966 tf-idf=   0.434241
+In file 9        institut's tf=   0.250000 idf=   3.321928 tf-idf=   0.830482
+In file 9           jorio's tf=   0.250000 idf=   3.321928 tf-idf=   0.830482
+In file 9          market's tf=   0.500000 idf=   2.321928 tf-idf=   1.160964
+In file 9            meet's tf=   0.750000 idf=   0.736966 tf-idf=   0.552724
+In file 9          negoti's tf=   0.500000 idf=   2.321928 tf-idf=   1.160964
+In file 9       pessimist's tf=   0.250000 idf=   3.321928 tf-idf=   0.830482
+In file 9            plan's tf=   0.250000 idf=   3.321928 tf-idf=   0.830482
+In file 9          presid's tf=   0.250000 idf=   3.321928 tf-idf=   0.830482
+In file 9           price's tf=   0.250000 idf=   2.321928 tf-idf=   0.580482
+In file 9           quota's tf=   0.250000 idf=   0.736966 tf-idf=   0.184241
+In file 9           regul's tf=   0.250000 idf=   3.321928 tf-idf=   0.830482
+In file 9           renew's tf=   0.250000 idf=   3.321928 tf-idf=   0.830482
+In file 9          reuter's tf=   0.500000 idf=   1.321928 tf-idf=   0.660964
+In file 9          senior's tf=   0.500000 idf=   3.321928 tf-idf=   1.660964
+In file 9           share's tf=   0.250000 idf=   2.321928 tf-idf=   0.580482
+In file 9            talk's tf=   0.250000 idf=   1.321928 tf-idf=   0.330482
+In file 9            told's tf=   0.250000 idf=   3.321928 tf-idf=   0.830482
+In file 9           world's tf=   0.250000 idf=   3.321928 tf-idf=   0.830482
+In file 9            date's tf=   0.250000 idf=   3.321928 tf-idf=   0.830482
+-------------------------------------------
+!!!CONGRATULATIONS!!!
+Atricle 9 has already been processed.
+Program Continue...
+-------------------------------------Rk-W--

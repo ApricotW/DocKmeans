@@ -15,19 +15,19 @@
 #include <cmath>
 #include <cstdio>
 #include <iomanip>
+#include <time.h>
 #include "EMAParser.h"
 #include "EMA.h"
 #include "SParser.h"
 
 #define _MAXLEN 15
-#define K 4;		//分簇数量
-
 
 
 using namespace std;
 
-const int FileNum = 40;
-const int KMEANS_KEY = 5; //每篇文章取出多少关键字进行分析
+const int FileNum = 10;
+const int KS = 4;		//分簇数量
+const int KMEANS_KEY = 3; //每篇文章取出多少关键字进行分析
 
 static int Maxkeyfrequence = 1;//改成了1，至少会有1个频度为1的关键词。
 
@@ -47,23 +47,18 @@ typedef struct
 	float tf_idf[1000];
 }KEYS;
 
-typedef struct
-{
-	char key_words[KMEANS_KEY][_MAXLEN];
-	vector<float> tf_idf;
-	vector<vector<float> > tfidf_matrix;
-}KMEANS;
-
-
 KEYS tfidf[FileNum];
-KMEANS kmeans;
 
+
+static vector<char *> key_words; //存地址，如果用char[_MAXLEN]会无法push_back
+static vector<float> weight;
+static vector<vector<float> > matrix(FileNum);
 
 int IsKeyExist(ELEM*, int , char*);  //Prototype
 void DealKeyWord(ELEM*, int&, char*);//Prototype
 void SortbyKey(ELEM*, int);//Prototype
 void tf_idf_wrk(KEYS tfidf[FileNum]);
-void kmeans_analyze();
+void kmeans_analyze(KEYS tfidf[FileNum]);
 
 int main()
 {
@@ -158,6 +153,7 @@ int main()
 		tfidf[n].elems = iElemCnt;
 	}
 	tf_idf_wrk(tfidf);
+	kmeans_analyze(tfidf);
    	fout.close();
     return 0;
 }
@@ -261,36 +257,127 @@ void tf_idf_wrk(KEYS tfidf[FileNum])
 		}
 }
 
-#if 1
-
-void kmeans_analyze()
+void kmeans_analyze(KEYS tfidf[FileNum])
 {
+	struct IMPORTANT{
+		char impkey[_MAXLEN];
+		float imptfidf;
+	}important[FileNum * KMEANS_KEY];
+
 	double tf_idf = 0;
 	double tf_idf_max = -1;
-	char  tempkey[_MAXLEN];
+	char * tempkey;
+	int t=0;//重复计数器
 
 	for (int x = 0; x < FileNum; x++)
 	{
 		for(int key = 0; key < KMEANS_KEY; key++)
 		{
+			t = key;
 			for (int y = 0; y < tfidf[x].elems; y++)
 			{
-				if( tf_idf == tf_idf_max )
+				
+				if( key!=0 && tfidf[x].tf_idf[y]>tf_idf_max )
 					continue;
+				if( tfidf[x].tf_idf[y] == tf_idf_max)
+					for(;t>0;t--)
+						y++;
+
 				if( tfidf[x].tf_idf[y] > tf_idf)
 				{
 					tf_idf = tfidf[x].tf_idf[y];
-					strcpy(tempkey,tfidf[x].ele[y].key);	
+					tempkey = tfidf[x].ele[y].key;	
 				}
+				
 			}
-			kmeans.tfidf_matrix[x][key] = tf_idf;
-			strcpy(kmeans.key_words[x],tempkey);
+			strcpy(important[x * KMEANS_KEY + key].impkey,tempkey);
+			important[x * KMEANS_KEY + key].imptfidf = tf_idf;
+		
+			if( key_words.empty() )
+				key_words.push_back(tempkey);
+			else
+				for(int i=0;i<key_words.size();i++)
+				{
+					if(strcmp(key_words[i],tempkey)==0)
+						break;
+					if(i+1==key_words.size())
+						key_words.push_back(tempkey);
+				
+				}
+				
 			tf_idf_max = tf_idf;
 			tf_idf = 0;
+		
 		}
+		tf_idf_max = -1;
+		
 	}
+	weight.resize(key_words.size());
+
+	for (int m = 0; m < FileNum; m++)
+	{
+		for (int n = 0; n < key_words.size(); n++)
+			for(int key = 0; key < KMEANS_KEY; key++)
+			{
+				if( strcmp(important[m * KMEANS_KEY + key].impkey,key_words[n])==0 )
+				{
+					weight[n] = important[m * KMEANS_KEY + key].imptfidf;
+					break;
+				}else if(key == 2)
+					weight[n] = 0;
+				
+			}
+		matrix[m] = weight;
+	}
+
+	int kstep[KS];
+	float cosine[FileNum][KS]={0};
+	int cluster[FileNum];
+	float sumup=0;
+	float sumdown1=0;
+	float sumdown2=0;
+
+
+	cout<<"Please enter "<<KS<<" different centers, in range of 0-"<<FileNum<<"."<<endl;
+	for(int k=0; k<KS; k++)
+	{
+		cin>>kstep[k];
+		cout<<"good , input next!"<<endl;
+	}
+
+
+	for (m = 0; m < FileNum; m++)
+
+	{
+		for(int k=0; k<KS; k++)
+		{
+			
+			for (int n = 0; n < key_words.size(); n++)
+			{
+				 sumup += matrix[m][n] * matrix[kstep[k]][n];
+				 sumdown1 += matrix[m][n] * matrix[m][n];
+				 sumdown2 += matrix[kstep[k]][n] * matrix[kstep[k]][n];
+			}
+
+			cout<<sumup<<endl;
+			cout<<sqrt(sumdown1)+sqrt(sumdown2)<<endl;
+			cout<<endl;
+
+			cosine[m][k] = sumup / ( sqrt(sumdown1)+sqrt(sumdown2) );
+			cout<<cosine[m][k]<<endl; //第m个向量到不同k中心的cos值,k会先遍历
+			cout<<"==========================="<<endl;
+
+			sumup=0;
+			sumdown1=0;
+			sumdown2=0;
+		}
+		
+		cout<<endl;
+		cout<<endl;
+		cout<<endl;
+
+	}
+
 				
 
 }
-	
-#endif

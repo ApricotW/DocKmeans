@@ -332,8 +332,8 @@ void kmeans_analyze(KEYS tfidf[FileNum])
 
 	int kstep[KS];
 	float cosine[KS][FileNum]={0};
-	int cluster[FileNum]={0};
 	float sumup=0;
+	int cluster[KS][FileNum];
 	float sumdown1=0;
 	float sumdown2=0;
 
@@ -346,9 +346,10 @@ void kmeans_analyze(KEYS tfidf[FileNum])
 	}
 
 
-	for(k=0; k< KS; k++)
+	
+	for (m = 0; m < FileNum; m++)
 	{
-		for (m = 0; m < FileNum; m++)
+		for(k=0; k< KS; k++)
 		{
 			for (int n = 0; n < key_words.size(); n++)
 			{
@@ -357,21 +358,17 @@ void kmeans_analyze(KEYS tfidf[FileNum])
 				 sumdown2 += matrix[kstep[k]][n] * matrix[kstep[k]][n];
 			}
 			cosine[k][m] = sumup / ( sqrt(sumdown1)*sqrt(sumdown2) );
-			//cout<<cosine[k][m]<<endl;//不同m向量到第k中心的cos值,m会先遍历
+			//cout<<cosine[k][m]<<endl;//m向量到不同k中心的cos值,k会先遍历
+			if[k
 				
 			sumup=0;
 			sumdown1=0;
 			sumdown2=0;
-
-			cout<<cluster[m]<<endl;
-
-			if(m==0 || cosine[k][m-1]>=cosine[k][m])
-				continue;
-			cluster[m]=k;
-		}
-		cout<<k<<endl;
-		cout<<"============"<<endl;
 		
+		}
+	
+		cout<<"============"<<endl;
+	
 	}
 
 				

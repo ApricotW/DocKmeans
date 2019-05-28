@@ -359,7 +359,16 @@ void kmeans_analyze(KEYS tfidf[FileNum])
 			}
 			cosine[k][m] = sumup / ( sqrt(sumdown1)*sqrt(sumdown2) );
 			//cout<<cosine[k][m]<<endl;//m向量到不同k中心的cos值,k会先遍历
-			if[k
+			
+			/**
+			 *此处最后一个功能待完成：
+			 *分析点m到哪个k的cos值最大
+			 *将m规划入第k簇，遍历所有m
+			 *最后求出第k簇的中心向量
+			 *（列向量横向相加之后除以簇向量数）
+			 *最后，以四个新的中心，重新遍历m求cos值。
+			 *直到聚类中心基本不再变化为止
+			 **/
 				
 			sumup=0;
 			sumdown1=0;

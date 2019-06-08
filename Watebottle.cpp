@@ -25,9 +25,8 @@
 
 using namespace std;
 
-const int FileNum = 10;
+const int FileNum = 40;
 const int KS = 4;		//分簇数量
-//const int KMEANS_KEY = 2; //每篇文章取出多少关键字进行分析
 
 static int Maxkeyfrequence = 1;//改成了1，至少会有1个频度为1的关键词。
 static int cycle=0;
@@ -47,7 +46,6 @@ typedef struct
 	float idf[1000];
 	float tf_idf[1000];
 }KEYS;
-
 KEYS tfidf[FileNum];
 
 
@@ -71,6 +69,7 @@ static float sumup=0;
 static float sumdown1=0;
 static float sumdown2=0;
 
+static bool finished = false;
 void k_loop();
 
 int main()
@@ -278,35 +277,40 @@ void kmeans_analyze(KEYS tfidf[FileNum])
 		for (int y = 0; y < tfidf[x].elems; y++)
 		{
 			if( key_words.empty() )
-				key_words.push_back(tempkey);
+				key_words.push_back(tfidf[x].ele[y].key);
 			else
 				for(int i=0;i<key_words.size();i++)
 				{
 					if(strcmp(key_words[i],tfidf[x].ele[y].key)==0)
 						break;
 					if(i+1==key_words.size())
-						key_words.push_back(tempkey);
+						key_words.push_back(tfidf[x].ele[y].key);
 				
 				}
 		}
 		
 	}
-	weight.resize(key_words.size());
+
 
 	for (int m = 0; m < FileNum; m++)
 	{
-		for (int n = 0; n < key_words.size(); n++)
-			for(int key = 0; key < KMEANS_KEY; key++)
+		weight.resize(key_words.size());
+		for(int n=0; n < tfidf[m].elems ; n++)
+		{
+			for (int s = 0; s < key_words.size(); s++)
 			{
-				if( strcmp(important[m * KMEANS_KEY + key].impkey,key_words[n])==0 )
+				if( strcmp(tfidf[m].ele[n].key,key_words[s])==0 )
 				{
-					weight[n] = important[m * KMEANS_KEY + key].imptfidf;
+					weight[s] = tfidf[m].tf_idf[n];
 					break;
-				}else if(key == 2)
-					weight[n] = 0;
-				
+				}
+				else
+					weight[s] = 0;
 			}
+				
+		}
 		matrix[m] = weight;
+		weight.clear();
 	}
 
 	cout<<"Please enter "<<KS<<" different centers, in range of 0-"<<FileNum<<"."<<endl;
@@ -337,20 +341,26 @@ void kmeans_analyze(KEYS tfidf[FileNum])
 	
 	}
 
-	k_loop();
-			
-
-	cout<<"==================================="<<endl;
-	cout<<"KMEANS FINISHED ARFTER "<<cycle<<" CYCLES!!!"<<endl;
-
-	for(k=0; k< KS; k++)
+	/*for (m = 0; m < FileNum; m++)
 	{
-		cout<<"Cluster "<<k<<" has "<<cluster_k_cnt[k]<<" articles:"<<endl;
-	}
+		for (int n = 0; n < key_words.size(); n++)
+		{
+			cout<<matrix[m][n]<<endl;
+		}
+		cout<<"++++++++++++++++++++++"<<endl;
+	}*/
+
+
+	k_loop();
+	
 }
 
 void k_loop()
 {
+	
+	static float newarray[KS][400];
+	static int kmax;
+	static float cosinemax;
 			/**
 			 *此处最后一个功能：
 			 *分析点m到哪个k的cos值最大
@@ -360,73 +370,94 @@ void k_loop()
 			 *最后，以四个新的中心，重新遍历m求cos值。
 			 *直到聚类中心基本不再变化为止
 			 **/
-	float newcenter[KS][FileNum*KMEANS_KEY];
-	for (int m = 0; m < FileNum; m++)
+	while(!finished)
 	{
-		for(int k=0; k< KS-1; k++)
-		{
-			if(cosine[k+1][m] > cosine[k][m])
-				cluster[m]=k+1;
-			else
-				cluster[m]=k;
-		}
-	}
 
+		for(int i=0;i < KS; i++)
+			for(int j =0; j< 400; j++)
+				newarray[i][j]=0;
+
+		for (int m = 0; m < FileNum; m++)
+		{
+			for(int k=0; k< KS; k++)
+			{
+				if(cosine[k][m] >= cosinemax)
+				{
+					cosinemax=cosine[k][m];
+					kmax=k;
+				}	
+			}
+			cosinemax=0;
+			cluster[m]=kmax;
+		}
+
+
+		for(int k=0; k< KS; k++)
+		{
+			pre_cluster_k_cnt[k]=cluster_k_cnt[k];
+			for (m = 0; m < FileNum; m++)
+			{
+				if(cluster[m]==k)
+				{
+					arraycount++;
+					for (int n = 0; n < key_words.size(); n++)
+						newarray[k][n] += matrix[m][n];
+				}
+			}
+			for (int n = 0; n < key_words.size(); n++){
+				if(arraycount)
+					newarray[k][n]/=arraycount;
+			}
+			cout<<endl;
+			cluster_k_cnt[k]=arraycount;
+			arraycount=0;
+		}
+
+		for (m = 0; m < FileNum; m++)
+		{
+			for(k=0; k< KS; k++)
+			{
+				for (int n = 0; n < key_words.size(); n++)
+				{
+					
+					 sumup += matrix[m][n] * newarray[k][n];
+					 sumdown1 += matrix[m][n] * matrix[m][n];
+					 sumdown2 += newarray[k][n] * newarray[k][n];
+				}
+				cosine[k][m] = sumup / ( sqrt(sumdown1)*sqrt(sumdown2) );
+
+				sumup=0;
+				sumdown1=0;
+				sumdown2=0;
+
+				cout<<cosine[k][m]<<endl;
+			}
+		
+		}
+
+
+		for(k=0; k< KS; k++)
+		{
+			
+			if(cluster_k_cnt[k]!=pre_cluster_k_cnt[k])
+				break;
+			if(k==KS-1)
+				finished=true;
+			if(cluster_k_cnt[k]==pre_cluster_k_cnt[k])
+				continue;
+		}
+
+		cycle++;
+
+		cout<<"KMEANS_CYCLE "<<cycle<<" FINISHED!!"<<endl;
+
+	}
+	
+	cout<<"==================================="<<endl;
+	cout<<"KMEANS FINISHED ARFTER "<<cycle<<" CYCLES!!!"<<endl;
 
 	for(int k=0; k< KS; k++)
 	{
-		pre_cluster_k_cnt[k]=cluster_k_cnt[k];
-		for (m = 0; m < FileNum; m++)
-		{
-			if(cluster[m]==k)
-			{
-				arraycount++;
-				for (int n = 0; n < key_words.size(); n++)
-					newcenter[k][n]+=matrix[m][n];
-
-			}
-		}
-		for (int n = 0; n < key_words.size(); n++)
-				newcenter[k][n]/=arraycount;
-			
-		cluster_k_cnt[k]=arraycount;
-		arraycount=0;
+		cout<<"Cluster "<<k+1<<" has "<<cluster_k_cnt[k]<<" articles:"<<endl;
 	}
-
-	for (m = 0; m < FileNum; m++)
-	{
-		for(k=0; k< KS; k++)
-		{
-			for (int n = 0; n < key_words.size(); n++)
-			{
-				 sumup += matrix[m][n] * newcenter[k][n];
-				 sumdown1 += matrix[m][n] * matrix[m][n];
-				 sumdown2 += newcenter[k][n] * newcenter[k][n];
-			}
-			cosine[k][m] = sumup / ( sqrt(sumdown1)*sqrt(sumdown2) );
-			sumup=0;
-			sumdown1=0;
-			sumdown2=0;
-		
-		}
-	
-	}
-
-	for(k=0; k< KS; k++)
-	{
-		cout<<cluster_k_cnt[k]<<endl;
-		if(cluster_k_cnt[k]!=pre_cluster_k_cnt[k])
-			break;
-		if(cluster_k_cnt[k]==pre_cluster_k_cnt[k])
-			continue;
-		if(k==KS-1)
-			return;
-
-	}
-
-	cycle++;
-
-	cout<<"KMEANS_CYCLE "<<cycle<<" FINISHED!!"<<endl;
-
-	k_loop();
 }
